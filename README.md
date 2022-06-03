@@ -1,8 +1,10 @@
-Custom template for New Graph Environment Ltd. reporting
+Health and Safety Plan for New Graph Environment Ltd. 
+
 
 see `scripts/run.R`
 
 Track version changes in [`NEWS.md`]('NEWS.md`)
+
 
 
 Adapted from a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.

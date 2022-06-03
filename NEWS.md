@@ -1,9 +1,6 @@
-# mybookdown-template 0.0.2
+# hsp 0.0.1
 
-  * 20220516
-  * add references.bib
-  * add `NEWS.md` file
-  * update `README.md`
-  * update logos
-  * put date on line with version numbers
-  * tighten packages and functions
+  * word doc of the HSP is in the `data` folder. We can eventually move it over to our bookdown/pagedown formats.  
+  
+
+  
