@@ -12,8 +12,7 @@ author: |
 
 date: |
  |
- | Version 0.0.1
- | `r format(Sys.Date(), "%Y-%m-%d")`
+ | Version 0.0.2 `r format(Sys.Date(), "%Y-%m-%d")`
 toc-title: Table of Contents
 site: bookdown::bookdown_site
 output: 
@@ -23,7 +22,7 @@ output:
 nocite: |
 
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib, packages.bib, references.bib]
 biblio-style: apalike
 link-citations: no
 github-repo: rstudio/bookdown-demo
@@ -91,48 +90,8 @@ title.innerHTML = '<img src="fig/nge-full_white.png" alt="NewGraph">' + title.in
 
 # Introduction {#intro}
 
-`r if(identical(gitbook_on, FALSE))knitr::asis_output("This report is available as pdf and as an online [interactive report](https://newgraphenvironment.github.io/mybookdown-template/) at https://newgraphenvironment.github.io/mybookdown-template/. We recommend viewing online as the web-hosted html version contains more features and is more easily navigable.")` 
-
-
-`r if(identical(gitbook_on, FALSE)){knitr::asis_output("<br>")}`
-
-
-
-
-## Header with no number {-}
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
 
 <!--chapter:end:0100-intro.Rmd-->
-
-
-
-# Background
-
-
-## Project Location
-
-```{r overview-map, fig.cap = 'Overview map of Study Areas',eval=T}
-knitr::include_graphics("fig/nge-icon_name.png")
-```
-
-<br>
-
-```{r hydrology-plot, fig.cap = 'Hydrograph for Bulkley River at Quick (Station #08EE004) and near Houston (Station #08EE003).', fig.show="hold", out.width= c("49.5%","1%","49.5%"), eval=T}
-knitr::include_graphics("fig/nge-icon_name.png")
-knitr::include_graphics("fig/pixel.png")
-knitr::include_graphics("fig/nge-icon_name.png")
-```
-
-
-`r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br>")`
-
-<!--chapter:end:0200-background.Rmd-->
 
 `r if (knitr::is_html_output()){ '
 # References {-}
