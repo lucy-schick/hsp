@@ -153,13 +153,15 @@ safety we:
     environment possible for ourselves, our contractors, our clients and 
     the public. 
  
-# Forest Safety Accord 
+## Forest Safety Accord 
+
+```{r}
+# this is a test
+knitr::include_graphics('fig/media/image2.png')
+```
 
 
-![](fig/media/image2.png){width="6.104166666666667in" 
-height="8.311805555555555in"} 
- 
-# Corrective Action Log 
+## Corrective Action Log 
  
 These corrective actions are to be completed by the person indicated, 
 within the time frame allotted. If more time is required, or there are 

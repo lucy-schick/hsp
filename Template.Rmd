@@ -86,40 +86,6 @@ title.innerHTML = '<img src="fig/nge-full_white.png" alt="NewGraph">' + title.in
 
 <!--chapter:end:index.Rmd-->
 
-
-
-# Introduction {#intro}
-
-
-<!--chapter:end:0100-intro.Rmd-->
-
-`r if (knitr::is_html_output()){ '
-# References {-}
-<div id="refs"></div>
-'}`
-
-```{r}
-#https://github.com/rstudio/bookdown/issues/8 how to put the references wherever we want.
-
-# `r if (knitr::is_html_output()){ '
-# # References {-}
-# <div id="refs"></div>
-# '}`
-```
-
-
-<!--chapter:end:2000-references.Rmd-->
-
-
-# Session Info {-}
-
-
-```{r session info, comment="", class.source = 'fold-show'}
-xfun::session_info()
-```
-
-<!--chapter:end:2100-session-info.Rmd-->
-
 ---
 title: "Untitled"
 output:
@@ -275,13 +241,15 @@ safety we:
     environment possible for ourselves, our contractors, our clients and 
     the public. 
  
-# Forest Safety Accord 
+## Forest Safety Accord 
+
+```{r}
+# this is a test
+knitr::include_graphics('fig/media/image2.png')
+```
 
 
-![](fig/media/image2.png){width="6.104166666666667in" 
-height="8.311805555555555in"} 
- 
-# Corrective Action Log 
+## Corrective Action Log 
  
 These corrective actions are to be completed by the person indicated, 
 within the time frame allotted. If more time is required, or there are 
@@ -3540,5 +3508,32 @@ Incident / Close Call Reporting Form
  
 SEND A COPY OF THIS REPORT TO THE PARTY YOU REPORT TO. 
 
-<!--chapter:end:doc.Rmd-->
+<!--chapter:end:0100-doc.Rmd-->
+
+`r if (knitr::is_html_output()){ '
+# References {-}
+<div id="refs"></div>
+'}`
+
+```{r}
+#https://github.com/rstudio/bookdown/issues/8 how to put the references wherever we want.
+
+# `r if (knitr::is_html_output()){ '
+# # References {-}
+# <div id="refs"></div>
+# '}`
+```
+
+
+<!--chapter:end:2000-references.Rmd-->
+
+
+# Session Info {-}
+
+
+```{r session info, comment="", class.source = 'fold-show'}
+xfun::session_info()
+```
+
+<!--chapter:end:2100-session-info.Rmd-->
 
