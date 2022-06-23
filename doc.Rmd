@@ -1,6 +1,8 @@
 ---
 title: "Untitled"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 **Occupational Health and Safety Plan** 
  
@@ -152,8 +154,9 @@ safety we:
     the public. 
  
 # Forest Safety Accord 
- 
-![](../fig/media/image2.png){width="6.104166666666667in" 
+
+
+![](fig/media/image2.png){width="6.104166666666667in" 
 height="8.311805555555555in"} 
  
 # Corrective Action Log 
@@ -2445,10 +2448,10 @@ Safe Work Procedures
  
 ## All-terrain vehicles {#all-terrain-vehicles .Style1} 
  
-![](../fig/media/image4.png){width="7.958500656167979in" 
+![](fig/media/image4.png){width="7.958500656167979in" 
 height="6.036744313210849in"} 
  
-![](../fig/media/image5.png){width="8.521936789151356in" 
+![](fig/media/image5.png){width="8.521936789151356in" 
 height="6.4813320209973755in"} 
  
 ## Electrofishing {#electrofishing .Style1} 

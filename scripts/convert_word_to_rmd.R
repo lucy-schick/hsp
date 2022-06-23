@@ -12,8 +12,6 @@ C:\pathToFile> pandoc NewGraph_OHSP_20220724.docx -o NewGraph_OHSP_20220724.md
 
  # convert md to rmd
 
-    doc <- ''
-r <- readLines(doc)
 r <- readLines('data/NewGraph_OHSP_20220724.md')
 
   cat('---
