@@ -56,9 +56,6 @@ filename_html <- 'Template'
     timeout = 180
   )
 
-  # erase entire docs folder, don't need these files
-  bookdown::clean_book(clean = TRUE)
-
   # # reduce the size
   # tools::compactPDF(paste0(getwd(), "/docs/", filename_html, ".pdf"),
   #                   gs_quality = 'screen',
