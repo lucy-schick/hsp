@@ -56,13 +56,16 @@ filename_html <- 'Template'
     timeout = 180
   )
 
-  # reduce the size
-  tools::compactPDF(paste0(getwd(), "/docs/", filename_html, ".pdf"),
-                    gs_quality = 'screen',
-                    ##this was on the windows machine
-                    # gs_cmd = "C:/Program Files/gs/gs9.56.1/bin/gswin64.exe"
-                    gs_cmd = "opt/homebrew/bin/gs"
-  )
+  # erase entire docs folder, don't need these files
+  bookdown::clean_book(clean = TRUE)
+
+  # # reduce the size
+  # tools::compactPDF(paste0(getwd(), "/docs/", filename_html, ".pdf"),
+  #                   gs_quality = 'screen',
+  #                   ##this was on the windows machine
+  #                   # gs_cmd = "C:/Program Files/gs/gs9.56.1/bin/gswin64.exe"
+  #                   gs_cmd = "opt/homebrew/bin/gs"
+  # )
 
   # get rid of the html as its too big and not needed
   file.remove(paste0(getwd(), '/', filename_html, '.html'))
