@@ -1,4 +1,3 @@
-section
 safety-policy
 forest-safety-accord
 corrective-action-log
@@ -11,6 +10,7 @@ new-worker-orientations
 tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list
 first-aid-equipment-and-procedures
 worksite-first-aid-requirements
+plans-and-assessments
 field-safety-plans
 check-in-procedures-and-field-communications
 hazard-close-call-incident-reporting-requirements-and-procedures
@@ -22,6 +22,9 @@ personal-protective-equipment-ppe-policy
 whmis-orientation-and-location-of-the-material-safety-data-sheets-msds
 records-of-training
 progressive-discipline-policy
+random-forms
+new-worker-orientation
+tailboard-template
 safe-work-procedures
 driving
 procedures-and-practices
@@ -31,9 +34,7 @@ all-terrain-vehicles
 electrofishing
 preparatory-procedures
 operational-procedures
-section-1
 boats
-section-2
 culvert-assessments-and-habitat-confirmation-assessments
 bears
-section-6
+section
