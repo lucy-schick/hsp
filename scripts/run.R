@@ -1,6 +1,5 @@
 preview_chapter('0100-intro.Rmd')
 
-
 #################################################################################################
 ##go to the index.Rmd and change gitbook_on <- TRUE
 #################################################################################################
@@ -36,7 +35,7 @@ rmarkdown::render_site(output_format = 'bookdown::gitbook',
 
 
 # define the _bookfile_name from _bookdown.yml
-filename_html <- 'Template'
+filename_html <- 'OHSP'
 
 {
 

@@ -1,0 +1,193 @@
+# Safety Policy 
+ 
+At New Graph Environment we believe that all injuries are preventable 
+and that safety is the responsibility of everyone. We believe that 
+getting hurt at work is not acceptable and that by building a culture of 
+safety we: 
+ 
+-   will look ahead to identify hazards, 
+ 
+-   will document safety procedures and ensure that our management, 
+    staff and contractors are familiar with them and understand why we 
+    have them, 
+ 
+-   will strive for continuous improvement to ensure that we learn from 
+    the past and look to the future to facilitate the safest working 
+    environment possible for ourselves, our contractors, our clients and 
+    the public. 
+ 
+## Forest Safety Accord 
+
+```{r}
+# this is a test
+knitr::include_graphics('fig/media/image2.png')
+```
+
+
+## Corrective Action Log 
+ 
+These corrective actions are to be completed by the person indicated, 
+within the time frame allotted. If more time is required, or there are 
+difficulties encountered, please contact Allan Irvine for assistance. 
+ 
+  ------------------------------------------------------------------------- 
+  **Identified Necessary  **Required Corrective   **Person        **By 
+  Improvement, Issue or   Action**                Responsible**   When** 
+  Problem**                                                        
+  ----------------------- ----------------------- --------------- --------- 
+                                                                   
+ 
+                                                                   
+ 
+                                                                   
+ 
+                                                                   
+  ------------------------------------------------------------------------- 
+ 
+## Safety Team Members 
+ 
+As a small company all management and staff are considered safety team 
+members and expected to integral to the safety program. Feedback is 
+encouraged as continual improvement is a paramount goal. 
+ 
+## Job Roles and Responsibilities 
+ 
+### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1} 
+ 
+If you feel the work as planned is unsafe, refuse to do it! Let's 
+identify the hazards and mitigate for them or we will not do the work. 
+This is work and it is not worth it to risk life and limb. 
+ 
+## COVID 19 Prevention and Risks 
+ 
+We have developed a COVID-19 Safety Plan that outlines the policies, 
+guidelines, and procedures to reduce the risk of COVID-19 transmission. 
+ 
+All staff, contractors, volunteers, and participants must complete a 
+self-assessment (<https://bc.thrive.health/covid19/en>) before starting 
+work each day. If they are experiencing any symptoms related to COVID-19 
+they must halt all involvement or participation, notify the project 
+supervisor, and get officially tested. 
+ 
+The virus that causes COVID-19 spreads in several ways, including 
+through droplets when a person coughs or sneezes, or from touching a 
+contaminated surface before touching the face. Planning to COVID-19 is a 
+moving target and should be a continuous effort. Planning is outlined by 
+WCB 
+(<https://www.worksafebc.com/en/about-us/covid-19-updates/covid-19-returning-safe-operation>). 
+Detailed procedures are included in the safe work procedures in the 
+Appendices of this document and were developed by progressing through 
+the following steps: 
+ 
+1.  Assess the risk at your workplace to identify places where the risk 
+    of transmission is introduced 
+ 
+    a.  What job tasks or processes require workers to come into close 
+        proximity with one another or members of the public? 
+ 
+    b.  What tools, machinery, and equipment do people come into contact 
+        with in the course of their work? 
+ 
+    c.  What surfaces are touched often, such as doorknobs, light 
+        switches, equipment, and shared tools? 
+ 
+2.  Implement measures to reduce the risk 
+ 
+    a.  Maintain a distance of 2 metres (6 feet) between workers and 
+        others wherever possible 
+ 
+    b.  create pods of workers who work together exclusively to minimize 
+        the risk of broad transmission throughout the workplace 
+ 
+    c.  where physical distance cannot be maintained consider the use of 
+        masks. 
+ 
+    d.  Provide adequate hand-washing facilities on site for all workers 
+ 
+    e.  Develop policies around when workers must wash their hands, 
+        including upon arriving for work, before and after breaks and 
+        before and after handling common tools and equipment. 
+ 
+    f.  Implement a cleaning protocol for all common areas and surfaces, 
+        including washrooms, equipment, tools, common tables, desks, 
+        light switches, and door handles. Ensure those engaged in 
+        cleaning have adequate training and materials. 
+ 
+    g.  Remove any unnecessary tools or equipment that may elevate the 
+        risk of transmission. 
+ 
+3.  Develop policies to manage the workplace 
+ 
+    a.  Anyone who has had [symptoms of 
+        COVID-19](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms) 
+        in the last 10 days must self-isolate at home. 
+ 
+    b.  Anyone under the direction of the provincial health officer to 
+        self-isolate must follow those instructions 
+ 
+    c.  When workers or contractors are feeling ill at work they should 
+        immediately let their supervisor know and go home. If symptoms 
+        align with those of COVID-19 they should be tested and 
+        self-isolate until they are symptom free and have a negative 
+        test result. 
+ 
+## Required safety meetings 
+ 
+### New Worker Orientations  {#new-worker-orientations .Style1} 
+ 
+New workers are a high risk for injuries. They need to know the safety 
+policies and procedures and demonstrate that they understand how to 
+protect themselves and others. All employees and dependent contractors 
+operating under your company's safety plan must review the New Graph 
+health and safety policies and safe work procedures on their first day 
+before they start work or when returning to work after an absence of 
+longer than 6 weeks. Template to be filled out is attached as Appendix 
+1. 
+ 
+### Tailboards (Site and Worker Assessment / Equipment and Vehicle Inspection / Emergency Contact List) {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1} 
+ 
+Tailboard meetings are a way to reset at the start of new work tasks to  put safety first as the top priority at all places of work. Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place. Tailboards include references to field safety plans and contain:
+
+  * site assessments
+  * Worker Assessments
+  * Equipment and Vehicle Inspections 
+  * Emergency Contact List
+  * Hazard inspections
+  * Add more here
+  
+They are included in this plan as **Appendix 2** 
+ 
+## First Aid equipment and procedures 
+
+A level 1 kit is kept under the seat of each work vehicle and our OHSP in also kept in the truck. The kit should be inspected for contents to see that it is complete. Below is an itemized list of what should be in the kit:
+
+
+    * Find a refrence online to what is in this kit and put here.
+ 
+### Worksite First Aid Requirements {#worksite-first-aid-requirements .Style1} 
+ 
+To determine an adequate and appropriate level of first aid coverage, 
+the first step is a first aid assessment. This doesn\'t need to be 
+complicated. But it does call for a full review of your workplace. The 
+assessment will help you determine the minimum level of first aid needed 
+in your workplace. First aid levels are outlined in the [OHS Regulation 
+Schedule 3-A: Minimum Levels of First 
+Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A). 
+ 
+Below are the steps for a first aid assessment. Tables of scenarios 
+based on the number of people working and the assessed hazard rating are 
+included in Appendix 4. 
+ 
+-   Identify the number of workplaces. 
+ 
+-   Identify your workplace hazard rating. 
+ 
+-   Consider the surface travel time to a hospital. 
+ 
+-   Determine the number of workers on a shift. 
+ 
+-   Determine the required first aid services for your workplace. 
+ 
+-   Review your assessment. 
+ 
+

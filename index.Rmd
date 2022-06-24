@@ -1,5 +1,5 @@
 --- 
-title: "My Report"
+title: "Occupational Health and Safety Plan"
 author: |
  |
  | Prepared for
