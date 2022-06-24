@@ -13,14 +13,31 @@ Close calls are opportunities to prevent incidents in the future.  For this reas
     
  
 ## Emergency Response Plan (ERP) and procedures {#emergency-response-plan-erp-and-procedures .Style1} 
- 
-# Vehicle and Machinery Inspections  
 
-If your wheel falls off your truck you can get hurt or hurt someone else. that
+
+## Safety Amalgamation
+
+Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place.  Included on the forms are:
+
+    * list here all the components in the same order as the brief subsections below
+
+    * worker assessments
+
+
+## Vehicle and Machinery Inspections  
+
+If your wheel falls off your truck you can get hurt or hurt someone else. 
+This is an example of why we inspect our equipment, record issues and act to ensure everything is in working order. Included in our tailboard templat
  
 ## Site and Worker Assessments  
 
-As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.
+As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.  
+
+<br>
+
+
+
+
 
 **Insert screenshot of rating system here**
  

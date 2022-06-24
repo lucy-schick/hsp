@@ -146,13 +146,23 @@ longer than 6 weeks. Template to be filled out is attached as Appendix
  
 ### Tailboards (Site and Worker Assessment / Equipment and Vehicle Inspection / Emergency Contact List) {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1} 
  
-Tailboard meetings are a way to reset at the start of new work tasks to 
-put safety first as the top priority at all places of work. Tailboards 
-include references to field safety plans and contain site/worker 
-assessments, Equipment and Vehicle Inspections and an Emergency Contact 
-List. They are included in this plan as Appendix 2. 
+Tailboard meetings are a way to reset at the start of new work tasks to  put safety first as the top priority at all places of work. Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place. Tailboards include references to field safety plans and contain:
+
+  * site assessments
+  * Worker Assessments
+  * Equipment and Vehicle Inspections 
+  * Emergency Contact List
+  * Hazard inspections
+  * Add more here
+  
+They are included in this plan as **Appendix 2** 
  
 ## First Aid equipment and procedures 
+
+A level 1 kit is kept under the seat of each work vehicle and our OHSP in also kept in the truck. The kit should be inspected for contents to see that it is complete. Below is an itemized list of what should be in the kit:
+
+
+    * Find a refrence online to what is in this kit and put here.
  
 ### Worksite First Aid Requirements {#worksite-first-aid-requirements .Style1} 
  

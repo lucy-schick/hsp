@@ -33,7 +33,7 @@ description: "My Description."
 
 ```{r switch-gitbook-html, echo=FALSE}
 gitbook_on <- TRUE
-gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
+# gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
 
 ```
 
@@ -234,13 +234,23 @@ longer than 6 weeks. Template to be filled out is attached as Appendix
  
 ### Tailboards (Site and Worker Assessment / Equipment and Vehicle Inspection / Emergency Contact List) {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1} 
  
-Tailboard meetings are a way to reset at the start of new work tasks to 
-put safety first as the top priority at all places of work. Tailboards 
-include references to field safety plans and contain site/worker 
-assessments, Equipment and Vehicle Inspections and an Emergency Contact 
-List. They are included in this plan as Appendix 2. 
+Tailboard meetings are a way to reset at the start of new work tasks to  put safety first as the top priority at all places of work. Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place. Tailboards include references to field safety plans and contain:
+
+  * site assessments
+  * Worker Assessments
+  * Equipment and Vehicle Inspections 
+  * Emergency Contact List
+  * Hazard inspections
+  * Add more here
+  
+They are included in this plan as **Appendix 2** 
  
 ## First Aid equipment and procedures 
+
+A level 1 kit is kept under the seat of each work vehicle and our OHSP in also kept in the truck. The kit should be inspected for contents to see that it is complete. Below is an itemized list of what should be in the kit:
+
+
+    * Find a refrence online to what is in this kit and put here.
  
 ### Worksite First Aid Requirements {#worksite-first-aid-requirements .Style1} 
  
@@ -279,12 +289,41 @@ included in Appendix 4.
 ### Check-in procedures and field communications  
  
 ## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1} 
+
+Close calls are opportunities to prevent incidents in the future.  For this reason we have policies in place that we document them and review them. Close-call reporting templates are provided as an appendix and are required when:
+
+    * there is a near miss for an injury
+    * equipment is almost damaged
+    
  
 ## Emergency Response Plan (ERP) and procedures {#emergency-response-plan-erp-and-procedures .Style1} 
- 
-# Vehicle and Machinery Inspections  
+
+
+## Safety Amalgamation
+
+Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place.  Included on the forms are:
+
+    * list here all the components in the same order as the brief subsections below
+
+    * worker assessments
+
+
+## Vehicle and Machinery Inspections  
+
+If your wheel falls off your truck you can get hurt or hurt someone else. 
+This is an example of why we inspect our equipment, record issues and act to ensure everything is in working order. Included in our tailboard templat
  
 ## Site and Worker Assessments  
+
+As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.  
+
+<br>
+
+
+
+
+
+**Insert screenshot of rating system here**
  
 ## Contractor Selection Policy 
  

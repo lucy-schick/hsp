@@ -15,6 +15,7 @@ field-safety-plans
 check-in-procedures-and-field-communications
 hazard-close-call-incident-reporting-requirements-and-procedures
 emergency-response-plan-erp-and-procedures
+safety-amalgamation
 vehicle-and-machinery-inspections
 site-and-worker-assessments
 contractor-selection-policy
