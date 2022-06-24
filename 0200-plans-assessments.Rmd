@@ -5,12 +5,24 @@
 ### Check-in procedures and field communications  
  
 ## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1} 
+
+Close calls are opportunities to prevent incidents in the future.  For this reason we have policies in place that we document them and review them. Close-call reporting templates are provided as an appendix and are required when:
+
+    * there is a near miss for an injury
+    * equipment is almost damaged
+    
  
 ## Emergency Response Plan (ERP) and procedures {#emergency-response-plan-erp-and-procedures .Style1} 
  
 # Vehicle and Machinery Inspections  
+
+If your wheel falls off your truck you can get hurt or hurt someone else. that
  
 ## Site and Worker Assessments  
+
+As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.
+
+**Insert screenshot of rating system here**
  
 ## Contractor Selection Policy 
  
