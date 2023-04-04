@@ -1,0 +1,1211 @@
+# Appendices {.unnumbered}
+
+## Appendix 1 - New Worker Orientation {.unnumbered}
+
+## Appendix 2 - Tailboard Template {.unnumbered}
+
+## Appendix 3 - First Aid Requirements {.unnumbered}
+
+**Table 1**: This table applies to a workplace that an employer
+determines under section 3.16 (2) (b) of the Regulation creates a low
+risk of injury and that is more than 20 minutes surface travel time away
+from a hospital.
+
++------------+------------+------------+------------+------------+
+| **Item**   | **Column   | **Column   | **Column   | **Column   |
+|            | 1\         | 2\         | 3\         | 4\         |
+|            | Number of  | Supplies,  | Level of   | Transp     |
+|            | workers    | equipment, | first aid  | ortation** |
+|            | per        | and        | c          |            |
+|            | shift**    | facility** | ertificate |            |
+|            |            |            | for        |            |
+|            |            |            | a          |            |
+|            |            |            | ttendant** |            |
++============+============+============+============+============+
+| 1          | 1          | Personal   |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 2          | 2-5        | Basic      |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 3          | 6-30       | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
++------------+------------+------------+------------+------------+
+| 4          | 31-50      | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            | with Tr    |            |
+|            |            | -   ETV    | an         |            |
+|            |            |            | sportation |            |
+|            |            | equipment  | E          |            |
+|            |            |            | ndorsement |            |
++------------+------------+------------+------------+------------+
+| 5          | 51-75      | Level 3    | Level 3    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            |   Dressing |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |    station |            |            |
+|            |            |            |            |            |
+|            |            | ETV        |            |            |
+|            |            | equipment  |            |            |
++------------+------------+------------+------------+------------+
+| 6          | 76 or more | Level 3    | Level 3    | ETV        |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
+|            |            |            |            |            |
+|            |            | ETV        |            |            |
+|            |            | equipment  |            |            |
++------------+------------+------------+------------+------------+
+
+**Table 2**: This table applies to a workplace that an employer
+determines under section 3.16 (2) (b) of the Regulation creates a low
+risk of injury and that is 20 minutes or less surface travel time away
+from a hospital.
+
++------------+------------+------------+------------+------------+
+| **It em**  | **Column   | **Column   | **Column   | **Column   |
+|            | 1\         | 2\         | 3\         | 4\         |
+|            | Number of  | Supplies,  | Level of   | Transp     |
+|            | workers    | equipment, | first aid  | ortation** |
+|            | per        | and        | c          |            |
+|            | shift**    | facility** | ertificate |            |
+|            |            |            | for        |            |
+|            |            |            | a          |            |
+|            |            |            | ttendant** |            |
++============+============+============+============+============+
+| 1          | 1          |            |            |            |
++------------+------------+------------+------------+------------+
+| 2          | 2-10       | Basic      |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 3          | 11-50      | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
++------------+------------+------------+------------+------------+
+| 4          | 51-100     | Level 2    | \*Level 2  |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            |   Dressing |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |    station |            |            |
++------------+------------+------------+------------+------------+
+| 5          | 101 or     | Level 2    | \*Level 2  |            |
+|            | more       | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
++------------+------------+------------+------------+------------+
+
+**Table 3**: This table applies to a workplace that an employer
+determines under section 3.16 (2) (b) of the Regulation creates a
+moderate risk of injury and that is more than 20 minutes surface travel
+time away from a hospital.
+
++------------+------------+------------+------------+------------+
+| **It em**  | **Column   | **Column   | **Column   | **Column   |
+|            | 1\         | 2\         | 3\         | 4\         |
+|            | Number of  | Supplies,  | Level of   | Transp     |
+|            | workers    | equipment, | first aid  | ortation** |
+|            | per        | and        | c          |            |
+|            | shift**    | facility** | ertificate |            |
+|            |            |            | for        |            |
+|            |            |            | a          |            |
+|            |            |            | ttendant** |            |
++============+============+============+============+============+
+| 1          | 1          | Personal   |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 2          | 2-5        | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
++------------+------------+------------+------------+------------+
+| 3          | 6-15       | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            | with Tr    |            |
+|            |            | -   ETV    | an         |            |
+|            |            |            | sportation |            |
+|            |            | equipment  | E          |            |
+|            |            |            | ndorsement |            |
++------------+------------+------------+------------+------------+
+| 4          | 16-50      | Level 3    | Level 3    |  ETV       |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            |   Dressing |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |    station |            |            |
+|            |            |            |            |            |
+|            |            | -   ETV    |            |            |
+|            |            |            |            |            |
+|            |            | equipment  |            |            |
++------------+------------+------------+------------+------------+
+| 5          | 51-100     | Level 3    | Level 3    |  ETV       |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
+|            |            |            |            |            |
+|            |            | -   ETV    |            |            |
+|            |            |            |            |            |
+|            |            | equipment  |            |            |
++------------+------------+------------+------------+------------+
+| 6          | 101-300    | Level 3    | Level 3    | Industrial |
+|            |            | first aid  | c          | ambulance  |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            | Industrial |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  ambulance |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  equipment |            |            |
++------------+------------+------------+------------+------------+
+| 7          | 301 or     | Level 3    | 2          | Industrial |
+|            | more       | first aid  | a          | ambulance  |
+|            |            | kit        | ttendants, |            |
+|            |            |            | each with  |            |
+|            |            | -   First  | Level 3    |            |
+|            |            |     aid    | ce         |            |
+|            |            |     room   | rtificates |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            | Industrial |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  ambulance |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  equipment |            |            |
++------------+------------+------------+------------+------------+
+
+**Table 4**: This table applies to a workplace that an employer
+determines under section 3.16 (2) (b) of the Regulation creates a
+moderate risk of injury and that is 20 minutes or less surface travel
+time away from a hospital.
+
++------------+------------+------------+------------+------------+
+| **It em**  | **Column   | **Column   | **Column   | **Column   |
+|            | 1\         | 2\         | 3\         | 4\         |
+|            | Number of  | Supplies,  | Level of   | Transp     |
+|            | workers    | equipment, | first aid  | ortation** |
+|            | per        | and        | c          |            |
+|            | shift**    | facility** | ertificate |            |
+|            |            |            | for        |            |
+|            |            |            | a          |            |
+|            |            |            | ttendant** |            |
++============+============+============+============+============+
+| 1          | 1          | Personal   |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 2          | 2-5        | Basic      |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 3          | 6-25       | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
++------------+------------+------------+------------+------------+
+| 4          | 26-75      | Level 2    | \*Level 2  |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            |   Dressing |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |    station |            |            |
++------------+------------+------------+------------+------------+
+| 5          | 76 or more | Level 2    | \*Level 2  |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
++------------+------------+------------+------------+------------+
+
+**Table 5**: This table applies to a workplace that an employer
+determines under section 3.16 (2) (b) of the Regulation creates a high
+risk of injury and that is more than 20 minutes surface travel time away
+from a hospital.
+
++------------+------------+------------+------------+------------+
+| **It em**  | **Column   | **Column   | **Column   | **Column   |
+|            | 1\         | 2\         | 3\         | 4\         |
+|            | Number of  | Supplies,  | Level of   | Transp     |
+|            | workers    | equipment, | first aid  | ortation** |
+|            | per        | and        | c          |            |
+|            | shift**    | facility** | ertificate |            |
+|            |            |            | for        |            |
+|            |            |            | a          |            |
+|            |            |            | ttendant** |            |
++============+============+============+============+============+
+| 1          | 1          | Personal   |            |            |
+|            |            | first aid  |            |            |
+|            |            | kit        |            |            |
++------------+------------+------------+------------+------------+
+| 2          | 2-5        | Level 1    | Level 1    |            |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
++------------+------------+------------+------------+------------+
+| 3          | 6-10       | Level 1    | Level 1    |  ETV       |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            | with Tr    |            |
+|            |            | -   ETV    | an         |            |
+|            |            |            | sportation |            |
+|            |            | equipment  | E          |            |
+|            |            |            | ndorsement |            |
++------------+------------+------------+------------+------------+
+| 4          | 11-30      | Level 3    | Level 3    |  ETV       |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            |   Dressing |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |    station |            |            |
++------------+------------+------------+------------+------------+
+| 5          | 31-50      | Level 3    | Level 3    |  ETV       |
+|            |            | first aid  | c          |            |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
+|            |            |            |            |            |
+|            |            | -   ETV    |            |            |
+|            |            |            |            |            |
+|            |            | equipment  |            |            |
++------------+------------+------------+------------+------------+
+| 6          | 51-200     | Level 3    | Level 3    | Industrial |
+|            |            | first aid  | c          | ambulance  |
+|            |            | kit        | ertificate |            |
+|            |            |            |            |            |
+|            |            | -   First  |            |            |
+|            |            |     aid    |            |            |
+|            |            |     room   |            |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            | Industrial |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  ambulance |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  equipment |            |            |
++------------+------------+------------+------------+------------+
+| 7          | 201 or     | Level 3    | 2          | Industrial |
+|            | more       | first aid  | a          | ambulance  |
+|            |            | kit        | ttendants, |            |
+|            |            |            | each with  |            |
+|            |            | -   First  | Level 3    |            |
+|            |            |     aid    | ce         |            |
+|            |            |     room   | rtificates |            |
+|            |            |            |            |            |
+|            |            | -          |            |            |
+|            |            | Industrial |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  ambulance |            |            |
+|            |            |            |            |            |
+|            |            |            |            |            |
+|            |            |  equipment |            |            |
++------------+------------+------------+------------+------------+
+
+## Appendix 4 - Incidence/Close Call Template {.unnumbered}
+
+**Incident / Close Call Reporting Form**
+
+<table style="width:89%;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>Date of Incident:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p>Company:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Date Reported:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p>Location:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Reported By:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p>Type of Job:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Describe incident / close
+call<br />
+draw diagram on other side if helpful</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>Category</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>close call</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>bodily injury/illness</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>lost time</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>dangerous goods spill</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>fire</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>vehicle incident / damage</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>ATV incident / damage</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>other equipment damage</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>other describe</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>other describe</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Names/contact info of any individual or
+witnesses involved in incident / close call:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>If first aid was rendered, name of
+attendant:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>Describe immediate and root
+cause of incident / close call:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Notes</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>Immediate causes</strong></p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>Root causes</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>failure to follow safe work procedures</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate work planning, engineering, design</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>improper use of equipment/tools/lockout</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate polices, procedures</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>failure to warn or instruct</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate communications</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>body motions – pushing, pulling repetition</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate supervision</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>improper use of PPE</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate risk/hazard assessment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>inadequate awareness of surroundings</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>mental, physical stress/fatigue</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>poor housekeeping</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate maintenance/inspections</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>worksite conditions – weather congestion, layout, circle</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>inadequate physical abilities</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Notes:</p></td>
+<td></td>
+<td></td>
+<td><p>other</p></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>other</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Describe corrective actions to
+be undertaken:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Person responsible for corrective
+action:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Date action to be completed
+by:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Person responsible to sign here when
+completed:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Date when action was
+completed:</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p><strong>Report and actions reviewed
+by</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>Notes:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p><strong>Date:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p><strong>Name:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p><strong>Signature:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: left;"><p><strong>Position:</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## Appendix 5 - Contractor Selection and Safety Checklist {.unnumbered}
+
+**Contractor Selection Form**
+
+
+
+**Contractor Safety Checklist**
+
+To be completed at the commencement of activities at the start of the
+year and then on a quarterly basis thereafter.
+
++---------------+-----------------+---------------+---------------+
+|               |                 | **Contractor  |               |
+| **            |                 | Contact:**    |               |
+| Contractor:** |                 |               |               |
++:==============+=================+:==============+===============+
+| **Location:** |                 | **Date:**     |               |
++---------------+-----------------+---------------+---------------+
+
++---------------+-----------+-----------+-----------+-----------+
+| **Item**      |           | -   \*Ye  | **No**    | **Co      |
+|               |           |           |           | mments**  |
+|               |           | s\*\*     |           |           |
++===============+===========+===========+===========+===========+
+| ***Will a     |           |           |           |           |
+| qualified     |           |           |           |           |
+| supervisor    |           |           |           |           |
+| who meets the |           |           |           |           |
+| criteria      |           |           |           |           |
+| below be on   |           |           |           |           |
+| site at all   |           |           |           |           |
+| times?***     |           |           |           |           |
+|               |           |           |           |           |
+| ***Qualified  |           |           |           |           |
+| S             |           |           |           |           |
+| upervision*** |           |           |           |           |
+| means a       |           |           |           |           |
+| person who    |           |           |           |           |
+| instructs,    |           |           |           |           |
+| directs and   |           |           |           |           |
+| controls      |           |           |           |           |
+| workers in    |           |           |           |           |
+| the           |           |           |           |           |
+| performance   |           |           |           |           |
+| of their      |           |           |           |           |
+| duties and    |           |           |           |           |
+| who is        |           |           |           |           |
+| knowledgeable |           |           |           |           |
+| of the work,  |           |           |           |           |
+| the hazards   |           |           |           |           |
+| involved and  |           |           |           |           |
+| the means to  |           |           |           |           |
+| control the   |           |           |           |           |
+| hazards, by   |           |           |           |           |
+| reason of     |           |           |           |           |
+| education,    |           |           |           |           |
+| training,     |           |           |           |           |
+| experience or |           |           |           |           |
+| a combination |           |           |           |           |
+| thereof.      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How is your   |           |           |           |           |
+| organization  |           |           |           |           |
+| identifying   |           |           |           |           |
+| and           |           |           |           |           |
+| communicating |           |           |           |           |
+| hazards in    |           |           |           |           |
+| the           |           |           |           |           |
+| workplace?    |           |           |           |           |
+| documentation |           |           |           |           |
+| required      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your          |           |           |           |           |
+| organization  |           |           |           |           |
+| pre-work      |           |           |           |           |
+| planning      |           |           |           |           |
+| process look  |           |           |           |           |
+| like and what |           |           |           |           |
+| does your     |           |           |           |           |
+| ongoing block |           |           |           |           |
+| hazard        |           |           |           |           |
+| assessment    |           |           |           |           |
+| process look  |           |           |           |           |
+| like?         |           |           |           |           |
+| documentation |           |           |           |           |
+| required      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| When do you   |           |           |           |           |
+| intend to     |           |           |           |           |
+| start         |           |           |           |           |
+| operations in |           |           |           |           |
+| the following |           |           |           |           |
+| blocks?       |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your pre-work |           |           |           |           |
+| meeting look  |           |           |           |           |
+| like, does it |           |           |           |           |
+| include all   |           |           |           |           |
+| subs -- are   |           |           |           |           |
+| potential     |           |           |           |           |
+| hazards       |           |           |           |           |
+| identified    |           |           |           |           |
+| prior to      |           |           |           |           |
+| activities    |           |           |           |           |
+| occurring?    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does the |           |           |           |           |
+| firm's        |           |           |           |           |
+| orientation   |           |           |           |           |
+| process look  |           |           |           |           |
+| like for new  |           |           |           |           |
+| workers/      |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| including     |           |           |           |           |
+| service       |           |           |           |           |
+| providers     |           |           |           |           |
+| arriving at   |           |           |           |           |
+| the worksite? |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Defined Area  |           |           |           |           |
+| Safety        |           |           |           |           |
+| Orientation   |           |           |           |           |
+| reviewed with |           |           |           |           |
+| all           |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| Defined       |           |           |           |           |
+| Workplace     |           |           |           |           |
+| prior to      |           |           |           |           |
+| commencing    |           |           |           |           |
+| work          |           |           |           |           |
+| activities.   |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Do all        |           |           |           |           |
+| contractors / |           |           |           |           |
+| su            |           |           |           |           |
+| bcontractors, |           |           |           |           |
+| in the        |           |           |           |           |
+| workplace     |           |           |           |           |
+| provide a     |           |           |           |           |
+| list of their |           |           |           |           |
+| designated    |           |           |           |           |
+| supervisors?  |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How does the  |           |           |           |           |
+| operation     |           |           |           |           |
+| coordinate    |           |           |           |           |
+| the           |           |           |           |           |
+| activities of |           |           |           |           |
+| all permitted |           |           |           |           |
+| persons       |           |           |           |           |
+| including     |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| workplace to  |           |           |           |           |
+| ensure the    |           |           |           |           |
+| Health and    |           |           |           |           |
+| Safety of all |           |           |           |           |
+| workers is    |           |           |           |           |
+| maintained?   |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What are your |           |           |           |           |
+| procedures in |           |           |           |           |
+| the workplace |           |           |           |           |
+| to ensure     |           |           |           |           |
+| safe access?  |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What is the   |           |           |           |           |
+| process for   |           |           |           |           |
+| assessing the |           |           |           |           |
+| workplace     |           |           |           |           |
+| first aid     |           |           |           |           |
+| needs?        |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How are you   |           |           |           |           |
+| conducting    |           |           |           |           |
+| regular       |           |           |           |           |
+| inspections   |           |           |           |           |
+| of the        |           |           |           |           |
+| Workplace,    |           |           |           |           |
+| work methods  |           |           |           |           |
+| & practices,  |           |           |           |           |
+| including     |           |           |           |           |
+| worker        |           |           |           |           |
+| inspections?  |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| OHS site      |           |           |           |           |
+| safety plan   |           |           |           |           |
+| is in place   |           |           |           |           |
+| and available |           |           |           |           |
+| to all        |           |           |           |           |
+| persons.      |           |           |           |           |
+| contractors   |           |           |           |           |
+| and           |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| worksite.     |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What is your  |           |           |           |           |
+| safety        |           |           |           |           |
+| meeting       |           |           |           |           |
+| process? Are  |           |           |           |           |
+| all persons / |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| workplace     |           |           |           |           |
+| included in   |           |           |           |           |
+| the your OHS  |           |           |           |           |
+| program and   |           |           |           |           |
+| safety        |           |           |           |           |
+| meetings?     |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Are all       |           |           |           |           |
+| safety        |           |           |           |           |
+| incidents     |           |           |           |           |
+| reported and  |           |           |           |           |
+| investigated? |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your hazard   |           |           |           |           |
+| reporting and |           |           |           |           |
+| follow up     |           |           |           |           |
+| process look  |           |           |           |           |
+| like?         |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your ERP look |           |           |           |           |
+| like and how  |           |           |           |           |
+| was it        |           |           |           |           |
+| communicated  |           |           |           |           |
+| when it was   |           |           |           |           |
+| last tested?  |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Do you have   |           |           |           |           |
+| safe work     |           |           |           |           |
+| procedures    |           |           |           |           |
+| for all       |           |           |           |           |
+| activities    |           |           |           |           |
+| being carried |           |           |           |           |
+| out?          |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+|               |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Signed off  |           |           |           |           |
+| on behalf of  |           |           |           |           |
+| Company:**    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Signed off  |           |           |           |           |
+| by the        |           |           |           |           |
+| Contractor:** |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Dated:**    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+
+
+SEND A COPY OF THIS REPORT TO THE PARTY YOU REPORT TO.
+ 
+
+
+ 
+

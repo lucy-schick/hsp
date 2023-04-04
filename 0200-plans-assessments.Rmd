@@ -1,323 +1,427 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Plans and Assessments
 
-## Field Safety Plans {#field-safety-plans .Style1} 
- 
+## Field Safety Plans {#field-safety-plans .Style1}
+
+Field safety plans are written up before traveling to any job site. Information included in these plans include:
+
+* Location and contact info of accommodations where employees are staying.
+* Description of personal and company vehicles.
+* Crew member contact details, including emergency contacts.
+* Personal and crew equipment checklist.
+* Location and contact info of nearest hospital.
+* Check in and failed check in procedures.
+* A brief description of the job, as well as map links and a list of possible locations where crew members will visit.
+
 ### Check-in Procedures and Field Communications
 
-Call, text or in reach emergency contact each morning to share the plan for the day (i.e. name
-of roads and sites). Agree on a regular daily check in time and report
-position/provide updates.
+Call, text or in reach emergency contact each morning to share the plan
+for the day (i.e. name of roads and sites). Agree on a regular daily
+check in time and report position/provide updates.
 
-### Procedures for Failed Check-In 
+### Procedures for Failed Check-In
 
-If phone call or in reach check-in is not
-received by agreed upon time, send text to in reach units, call or text cell phones of field crew members. If no
-response please call accommodations, then personal emergency contacts to see if they have heard
-anything. Wait 1 hour and text in reach, text or call cell phones and personal emergency contacts
-and accommodations again. Repeat after 2 hours - if no response then notify the RCMP of a
-missing persons in field.
- 
-## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1} 
+If phone call or in reach check-in is not received by agreed upon time,
+send text to in reach units, call or text cell phones of field crew
+members. If no response please call accommodations, then personal
+emergency contacts to see if they have heard anything. Wait 1 hour and
+text in reach, text or call cell phones and personal emergency contacts
+and accommodations again. Repeat after 2 hours - if no response then
+notify the RCMP of a missing persons in field.
 
-Close calls are opportunities to prevent incidents in the future.  For this reason we have policies in place that we document them and review them. Close-call reporting templates are provided as an appendix and are required when:
+## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
-    * there is a near miss for an injury
-    * equipment is almost damaged
-    
- 
-## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1} 
-**Remote Site Emergency Call-In Procedures**: 
-*	Dial RCMP
-*	Name:
-*	Location: (GPS, UTM Co-ordinates, Road Km)
-*	Phone #
-*	Nature Of Injury: (severity, what happened, and # of Victims)
-*	Environmental Conditions: (weather, slope, access conditions)
-*	Request what you are going to need: (SAR, PEP, Helicopter,)
+Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 4 - Incidence/Close Call Template].
 
-### Procedures for: FIRE RESPONSE
+## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1}
 
+**Remote Site Emergency Call-In Procedures**:
 
-*	Regularly monitor the fire weather index using representative weather station and determine the appropriate Fire Danger Class for the area. For Danger Class Reports go to: http://bcwildfire.ca/Weather/Maps/danger_rating.html
-*	Stop operations and notify he manager and crew immediately upon observation of a fire.
-*	Manager should either act as the emergency response team leader or designate another crew member to assume the emergency response team leader role.
-*	Call Forest Fire Reporting :  1-800-663-5555 or * 5555 on the Cantel and Telus networks
-*	The individual reporting the fire shall remain available to communicate details of the fire suppression activity taken and what may be required.
-*	The remaining crew shall begin immediate action on the fire to their level of safety and competence provided it is determined by the emergency response team leader that the fire can be safely controlled by the crew.
-*	The person in charge of the crew during suppression operations will continue to supervise the efforts until relieved by licensee/contractor representative or BC Wildfire Management Branch personnel.
+-   Dial RCMP
+-   Name:
+-   Location: (GPS, UTM Co-ordinates, Road Km)
+-   Phone \#
+-   Nature Of Injury: (severity, what happened, and \# of Victims)
+-   Environmental Conditions: (weather, slope, access conditions)
+-   Request what you are going to need: (SAR, PEP, Helicopter,)
 
+### Fire Response
 
-### Procedures for: LANDSLIDE, AVALANCHE AND NATURAL DISASTER RESPONSE
+-   Regularly monitor the fire weather index using representative
+    weather station and determine the appropriate Fire Danger Class for
+    the area. For Danger Class Reports go to:
+    <http://bcwildfire.ca/Weather/Maps/danger_rating.html>
+-   Stop operations and notify he manager and crew immediately upon
+    observation of a fire.
+-   Manager should either act as the emergency response team leader or
+    designate another crew member to assume the emergency response team
+    leader role.
+-   Call Forest Fire Reporting : 1-800-663-5555 or \* 5555 on the Cantel
+    and Telus networks
+-   The individual reporting the fire shall remain available to
+    communicate details of the fire suppression activity taken and what
+    may be required.
+-   The remaining crew shall begin immediate action on the fire to their
+    level of safety and competence provided it is determined by the
+    emergency response team leader that the fire can be safely
+    controlled by the crew.
+-   The person in charge of the crew during suppression operations will
+    continue to supervise the efforts until relieved by
+    licensee/contractor representative or BC Wildfire Management Branch
+    personnel.
 
-*	Ensure all workers understand and trained in response procedures and this emergency response plan  is available on site at all times.
-*	Notify supervisor and other workers.  If safe to do so, assess situation to determine if activities must be shutdown.
-*	Take steps to control further environmental impacts.
-*	Supervisors must account for all workers before leaving the site. If a shutdown is required, park all equipment in an environmentally safe location (avoid riparian management areas, steep side slopes, steep road sections, areas with excessive soil moisture, and areas within reach of standing timber).
-*	Contact appropriate parties if significant environmental damage or damage to infrastructure requiring repair has occurred (MFLNRO, BCTS, MoTI, etc.).
+### Landslide, Avalanche, and Natural Disaster Response
 
-### Procedures for: SPILL RESPONSE
+-   Ensure all workers are trained and understand response procedures and
+    this emergency response plan is available on site at all times.
+-   Notify supervisor and other workers. If safe to do so, assess
+    situation to determine if activities must be shutdown.
+-   Take steps to control further environmental impacts.
+-   Supervisors must account for all workers before leaving the site. If
+    a shutdown is required, park all equipment in an environmentally
+    safe location (avoid riparian management areas, steep side slopes,
+    steep road sections, areas with excessive soil moisture, and areas
+    within reach of standing timber).
+-   Contact appropriate parties if significant environmental damage or
+    damage to infrastructure requiring repair has occurred (MFLNRO,
+    BCTS, MoTI, etc.).
 
-1. **Step 1. Ensure Safety**
-* Assess site hazards to ensure safe work procedures.
-*	Notify Site Supervisor and Environmental Monitor (EM).
-*	If unsure of the product, consult the MSDS sheets.
-*	Eliminate ignition sources if spilled material is flammable.
-*	Wear proper personal protective equipment (gloves) contained in the spill kit.
-2. **Step 2. Contain the spill**
-*	Eliminate the source of the spill.
-*	Use contents of the provided spill kit(s) to stop the spread of the spill/leak.  Absorbent socks can be used to surround the spill. 
-+	**Remember: White = Fuels & Oils Only,  Gray = Universal (Fuels, Oils and Chemicals such as antifreeze)**
-*	Divert spill away from ditches and watercourses.
-*	Once the spill is contained, attempt to soak it up using an absorbent pads. 
-*	Place the absorbent pads and any contaminated soil in a container and dispose of it in accordance with the MSDS sheet and provincial regulations.
-3. **Step 3. Reporting Requirements**
-* All spills must be reported to the Site Supervisor and the EM. If the EM cannot be reached, notify the Provincial Emergency Program (PEP) at 1-800-663-3456 if the spill meets the thresholds detailed in the Spill Reporting Regulation of BC.  A summary of the reporting thresholds for the most likely spilled materials is below.
+### Spill Response
 
-* **Spill Reporting Thresholds** 
-Oil Fuel, Oil & Hydraulic fluid:	Any quantity that enters or is likely to enter water
->100L to land
-Antifreeze: 	Any quantity that enters or is likely to enter water 
->25L to land
+**Step 1. Ensure Safety**
 
+-   Assess site hazards to ensure safe work procedures.
+-   Notify Site Supervisor and Environmental Monitor (EM).
+-   If unsure of the product, consult the MSDS sheets.
+-   Eliminate ignition sources if spilled material is flammable.
+-   Wear proper personal protective equipment (gloves) contained in the
+    spill kit.
 
-### First Aid Procedures for: INJURY
+**Step 2. Contain the spill**
+
+-   Eliminate the source of the spill.
+-   Use contents of the provided spill kit(s) to stop the spread of the
+    spill/leak. Absorbent socks can be used to surround the spill.
+-   **Remember: White = Fuels & Oils Only, Gray = Universal (Fuels, Oils
+    and Chemicals such as antifreeze)**
+-   Divert spill away from ditches and watercourses.
+-   Once the spill is contained, attempt to soak it up using an
+    absorbent pads.
+-   Place the absorbent pads and any contaminated soil in a container
+    and dispose of it in accordance with the MSDS sheet and provincial
+    regulations.
+
+**Step 3. Reporting Requirements**
+
+-   All spills must be reported to the Site Supervisor and the EM. If
+    the EM cannot be reached, notify the Provincial Emergency Program
+    (PEP) at 1-800-663-3456 if the spill meets the thresholds detailed
+    in the Spill Reporting Regulation of BC. A summary of the reporting
+    thresholds for the most likely spilled materials is below.
+
+**Spill Reporting Thresholds** Oil Fuel, Oil & Hydraulic fluid: Any
+    quantity that enters or is likely to enter water \>100L to land
+    Antifreeze: Any quantity that enters or is likely to enter water
+    \>25L to land
+
+### Injury
+
 **Minor wounds, breaks, strains:**
-*	Ensure site is safe, stabilize patient (provide first-aid), transport to closest Hospital, if necessary.  
-*	Advise office and hospital when you are on route
-*	If accident is the result of a motor vehicle accident, please advise the RCMP at 250 353 2225
+
+-   Ensure site is safe, stabilize patient (provide first-aid),
+    transport to closest Hospital, if necessary.
+
+-   Advise office and hospital when you are on route
+
+-   If accident is the result of a motor vehicle accident, please advise
+    the RCMP at 250 353 2225
 
 **Serious injury:**
-*	Ensure site is safe, then stabilize (provide first-aid) and/or prepare patient for transport.
-*	Activate SPOT messenger, or call 1 800 461 9911 (if using the satellite phone). 
-* Provide nature of injuries, location co-ordinates in UTM or longitude and latitude for landing site, and communication method to use on the way to the accident site.  
-* If air evacuation is required, you must advise the communication centre you’ve reached; if road evacuation is used, then advise if you will be meeting the ambulance en route.
 
-### Procedures for: FATALITY
-*	Ensure site is safe
-*	Activate SPOT messenger, or call 1 800 461 9911 (if using the satellite phone)
-*	Contact Nelson WCB at 1 800 663 4962
-*	Do not disturb the site, cover the body, ribbon off the area, and block access if possible
+-   Ensure site is safe, then stabilize (provide first-aid) and/or
+    prepare patient for transport.
 
+-   Activate SPOT messenger, or call 1 800 461 9911 (if using the
+    satellite phone).
 
+-   Provide nature of injuries, location co-ordinates in UTM or
+    longitude and latitude for landing site, and communication method to
+    use on the way to the accident site.
 
-###  Vehicle and Machinery Inspections  
+-   If air evacuation is required, you must advise the communication
+    centre you've reached; if road evacuation is used, then advise if
+    you will be meeting the ambulance en route.
+    
+### Fatality
 
-If your wheel falls off your truck you can get hurt or hurt someone else. 
-This is an example of why we inspect our equipment, record issues and act to ensure everything is in working order. Included in our tailboard template.
- 
-##  Site and Worker Assessments  
-
-As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.  
-
-<br>
-
-
+-   Ensure site is safe
+-   Activate SPOT messenger, or call 1 800 461 9911 (if using the
+    satellite phone)
+-   Contact Nelson WCB at 1 800 663 4962
+-   Do not disturb the site, cover the body, ribbon off the area, and
+    block access if possible
 
 
+## Site and Worker Assessments
 
-**Insert screenshot of rating system here**
- 
-##  Contractor Selection Policy 
- 
-At New Graph we are responsible to ensure that the contractors we hire 
-to complete and assist on projects are compliant with the workers 
-compensation act and have a record that illustrates they have a culture 
-of safety. For forestry related work that contractors need to be Safe 
-Certified companies. We have a checklist that we require our contractors 
-to complete to ensure that they meet our requirements. Our policy is to 
-always get a clearance letter before and after we receive services from 
-a contractor to confirm whether they registered with worksafe BC and 
-paying premiums. The contractor selection and safety checklist is 
-included as Appendix XXXXXXXXXXXXXX. 
- 
-Of note, contractors are considered our workers if they do not operate 
-as an independent business and are either not eligible for WorkSafeBC 
-coverage or decline to purchase WorkSafeBC's optional coverage. Below 
-are examples of situations where a contractor would likely be our 
-worker: 
- 
--   The contractor supplies only labour 
- 
--   The contractor supplies labour and minor materials 
- 
--   The contractor supplies labour and a piece of major equipment but is 
-    not registered with WorkSafeBC 
- 
-## Personal Protective Equipment (PPE) policy 
- 
-All employees will be provided the required PPE when they are hired, and 
-instructed on its proper use and care. Employees are responsible for 
-keeping PPE in good working condition and notifying their supervisor if 
-any PPE no longer meets safe standards. 
- 
-All PPE must meet regulatory and Canadian Standards Association 
-standards. 
- 
-The following provides a *guideline* to the requirements and use of PPE. 
-A full listing of requirements can be found in the Occupational Health 
-and Safety Regulation at 
-<https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-08-personal-protective-clothing-and-equipment> 
- 
-+-------------+--------------------+----------------------------------+ 
-| **PPE**     | **Requirements**   | **Used in these situations**     | 
-+=============+====================+==================================+ 
-| High        | -   The apparel    | -   When worker is outside of    | 
-| -visibility |     must be a      |     the vehicle.                 | 
-| clothing    |     color that     |                                  | 
-| (vest)      |     contrasts with | -   On all construction sites    | 
-|             |     the            |                                  | 
-|             |     environment.   |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Limb and    | -   Must be free   | -   When the worker is exposed   | 
-| body        |     of holes and,  |     to a substance or condition  | 
-| protection  |     in the case of |     that is likely to puncture,  | 
-|             |     hand           |     abrade or affect the skin -- | 
-|             |     protection,    |     or be absorbed through the   | 
-|             |     made of a      |     skin.                        | 
-|             |     material that  |                                  | 
-|             |     provides a     |                                  | 
-|             |     good grip.     |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Warm dry    |                    | -   All field work situations.   | 
-| clothing    |                    |     Particularly in night work   | 
-|             |                    |     and during seasons of        | 
-|             |                    |     typically variable and cold  | 
-|             |                    |     wet weather.                 | 
-+-------------+--------------------+----------------------------------+ 
-| Wading Belt |                    | -   Must be worn around waste    | 
-|             |                    |     snugly in conjunction with   | 
-|             |                    |     waders to ensure that waders | 
-|             |                    |     do not fill with water in    | 
-|             |                    |     the event of a fall in the   | 
-|             |                    |     water.                       | 
-+-------------+--------------------+----------------------------------+ 
-| Wading      | -   Soft rubber or | -   When stream work is          | 
-| Boots       |     felt sole      |     required.                    | 
-|             |     footwear       |                                  | 
-|             |     specifically   |                                  | 
-|             |     designed for   |                                  | 
-|             |     stream work    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Polarized   |                    | -   Must be worn while working   | 
-| glasses     |                    |     in and around water          | 
-+-------------+--------------------+----------------------------------+ 
-| Throw bag   | -   Must be 15     | -   When worker is working in/   | 
-| and         |     meters of      |     or around swift water        | 
-| releasable  |     line.          |                                  | 
-| safety rope |                    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Personal    | -   Must be        | -   When worker is working in/   | 
-| Floatation  |     Canadian       |     or around deep open water    | 
-| Device      |     General        |                                  | 
-|             |     Standards      |                                  | 
-|             |     Approved       |                                  | 
-|             |                    |                                  | 
-|             | -   Must be stored |                                  | 
-|             |     in a dry area. |                                  | 
-|             |                    |                                  | 
-|             | -   Avoid exposure |                                  | 
-|             |     to sunlight.   |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Hard hats   | -                  | -   Must be worn in any work     | 
-|             |   High-visibility, |     area where there is a danger | 
-|             |     hardhat.       |     of head injury from falling, | 
-|             |                    |     flying or thrown objects, or | 
-|             | -   Cleaned        |     other harmful contacts.      | 
-|             |     regularly and  |                                  | 
-|             |     stored away    | -   Must be worn on all          | 
-|             |     from grease    |     construction based job       | 
-|             |     and tools.     |     sites.                       | 
-+-------------+--------------------+----------------------------------+ 
-| Helmets     | -   Must be DOT    | -   Must be worn when operating  | 
-|             |     approved       |     ATV/ snowmobile.             | 
-|             |                    |                                  | 
-|             | -   Must be free   |                                  | 
-|             |     of cracks,     |                                  | 
-|             |     dents or any   |                                  | 
-|             |     other damage.  |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Eye and     | -   Safety eyewear | -   Safety eyewear must be worn  | 
-| face        |     must fit       |     when working in conditions   | 
-| protection  |     properly and   |     that are likely to injure or | 
-|             |     include side   |     irritate the eyes.           | 
-|             |     shields when   |                                  | 
-|             |     necessary for  | -   Face protectors must also be | 
-|             |     worker safety. |     used if there is a risk of   | 
-|             |                    |     face injury such as when     | 
-|             |                    |     operating a chain or brush   | 
-|             |                    |     saw.                         | 
-+-------------+--------------------+----------------------------------+ 
-| Safety      | -   Must be of a   | -   Appropriate footwear must    | 
-| footwear    |     design,        |     consider the following       | 
-|             |     construction   |     factors: slipping, uneven    | 
-|             |     and material   |     terrain, abrasion, ankle     | 
-|             |     appropriate to |     protection and foot support, | 
-|             |     the protection |     crushing potential,          | 
-|             |     required for   |     temperature extremes,        | 
-|             |     the work       |     corrosive substances,        | 
-|             |     environment.   |     puncture hazards, electrical | 
-|             |                    |     shock, and any other         | 
-|             |                    |     recognizable hazard.         | 
-|             |                    |                                  | 
-|             |                    | -   Toe and metatarsal           | 
-|             |                    |     protection, puncture         | 
-|             |                    |     resistance, and/or           | 
-|             |                    |     dielectric protection must   | 
-|             |                    |     be used where appropriate.   | 
-|             |                    |                                  | 
-|             |                    | -   Caulked or other equally     | 
-|             |                    |     effective footwear must be   | 
-|             |                    |     worn by workers who are      | 
-|             |                    |     required to walk on logs,    | 
-|             |                    |     piles, pilings or other      | 
-|             |                    |     round timbers.               | 
-+-------------+--------------------+----------------------------------+ 
-| Hearing     | -   WorkSafeBC's   | -   If those levels cannot be    | 
-| protection  |     regulations    |     practicably met, the         | 
-|             |     regarding      |     employer must:               | 
-|             |     noise exposure |                                  | 
-|             |     are:           |     -   Reduce levels as low as  | 
-|             |                    |         > possible               | 
-|             |     -   85dBA Lex  |                                  | 
-|             |         > daily    |     -   Provide to workers       | 
-|             |         > noise    |         > hearing protection     | 
-|             |         > exposure |         > that meets CSA         | 
-|             |         > level    |         > standards, and ensure  | 
-|             |                    |         > it is worn effectively | 
-|             |     -   140 DBC    |         > in noise hazard areas  | 
-|             |         > peak     |                                  | 
-|             |         > sound    |                                  | 
-|             |         > level    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Bear Spray  | -   Always worn in | -   Must be readily available in | 
-| / Bangers   |     remote         |     case of any bear sighting.   | 
-|             |     locations      |                                  | 
-|             |                    | -   Must be carried for all      | 
-|             | -   Inspected      |     remote worksites or          | 
-|             |     regularly and  |     worksites where there is     | 
-|             |     stored in a    |     potential bear activity.     | 
-|             |     safe, dry      |                                  | 
-|             |     place.         | -   Ensure equipment has current | 
-|             |                    |     use by date attached.        | 
-+-------------+--------------------+----------------------------------+ 
- 
-## WHMIS orientation and location of the Material Safety Data Sheets (MSDS) 
- 
-## Records of Training 
- 
-## Progressive discipline policy 
- 
-Actions and behaviors that create or facilitate unsafe working 
-environments and elevate the risk of injury to company representatives, 
-contractors and the public are unacceptable. To ensure that these 
-actions and behaviors do not persist once identified, the following 
-progressive discipline policy has been implemented. 
- 
-1.  Verbal Warning 
- 
-2.  Documented Warning 
- 
-3.  Letter of Reprimand 
- 
-4.  Discharge 
- 
+Conducting a systematic risk assessment will help identify the hazards that exist in the workplace, and how they may
+put workers at risk. To determine if we've done enough to protect
+our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity. 
+
+Examples of risks/hazards found in and around job sites include, but are not limited to: 
+
+* Wildlife
+* Swiftwater
+* Vehicle traffic
+* Slippery/uneven ground
+* Exposure to heat or cold
+* Machinery
+* ATV (roll over, burns, collision)
+* Chemicals
+* Chainsaw/loppers/knives
+* Electrofisher shocks
+* Open water
+* Overhead snags and sharp branches
+
+
+```{r}
+knitr::include_graphics('fig/media/risk_matrix.png')
+```
+
+## Contractor Selection Policy
+
+At New Graph we are responsible to ensure that the contractors we hire
+to complete and assist on projects are compliant with the workers
+compensation act and have a record that illustrates they have a culture
+of safety. For forestry related work, contractors are required to be part of Safe
+Certified companies. We have a checklist that we require our contractors
+to complete to ensure that they meet our requirements. Our policy is to
+always get a clearance letter before and after we receive services from
+a contractor to confirm whether they registered with worksafe BC and are
+paying premiums. The contractor selection and safety checklist forms are
+included as [Appendix 5 - Contractor Selection and Safety Checklist].
+
+Of note, contractors are considered our workers if they do not operate
+as an independent business and are either not eligible for WorkSafeBC
+coverage or decline to purchase WorkSafeBC's optional coverage. Below
+are examples of situations where a contractor would likely be our
+worker:
+
+-   The contractor supplies only labour
+
+-   The contractor supplies labour and minor materials
+
+-   The contractor supplies labour and a piece of major equipment but is
+    not registered with WorkSafeBC
+
+## Personal Protective Equipment (PPE) policy
+
+All employees will be provided the required PPE when they are hired, and
+instructed on its proper use and care. Employees are responsible for
+keeping PPE in good working condition and notifying their supervisor if
+any PPE no longer meets safe standards.
+
+All PPE must meet regulatory and Canadian Standards Association
+standards.
+
+The following provides a *guideline* to the requirements and use of PPE.
+A full listing of requirements can be found in the Occupational Health
+and Safety Regulation at
+<https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-08-personal-protective-clothing-and-equipment>
+
++----------------+-----------------+-------------------------------+
+| **PPE**        |                 | **Used in these situations**  |
+|                | **Requirements**|                               |
++================+=================+===============================+
+| High           | -   The apparel | -   When worker is outside of |
+| -visibility    |     must be a   |     the vehicle.              |
+| clothing       |     color that  |                               |
+| (vest)         |     contrasts   | -   On all construction sites |
+|                |     with the    |                               |
+|                |                 |                               |
+|                |    environment. |                               |
++----------------+-----------------+-------------------------------+
+| Limb and body  | -   Must be     | -   When the worker is        |
+| protection     |     free of     |     exposed to a substance or |
+|                |     holes and,  |     condition that is likely  |
+|                |     in the case |     to puncture, abrade or    |
+|                |     of hand     |     affect the skin -- or be  |
+|                |     protection, |     absorbed through the      |
+|                |     made of a   |     skin.                     |
+|                |     material    |                               |
+|                |     that        |                               |
+|                |     provides a  |                               |
+|                |     good grip.  |                               |
++----------------+-----------------+-------------------------------+
+| Warm dry       |                 | -   All field work            |
+| clothing       |                 |     situations. Particularly  |
+|                |                 |     in night work and during  |
+|                |                 |     seasons of typically      |
+|                |                 |     variable and cold wet     |
+|                |                 |     weather.                  |
++----------------+-----------------+-------------------------------+
+| Wading Belt    |                 | -   Must be worn around waste |
+|                |                 |     snugly in conjunction     |
+|                |                 |     with waders to ensure     |
+|                |                 |     that waders do not fill   |
+|                |                 |     with water in the event   |
+|                |                 |     of a fall in the water.   |
++----------------+-----------------+-------------------------------+
+| Wading Boots   | -   Soft rubber | -   When stream work is       |
+|                |     or felt     |     required.                 |
+|                |     sole        |                               |
+|                |     footwear    |                               |
+|                |                 |                               |
+|                |    specifically |                               |
+|                |     designed    |                               |
+|                |     for stream  |                               |
+|                |     work        |                               |
++----------------+-----------------+-------------------------------+
+| Polarized      |                 | -   Must be worn while        |
+| glasses        |                 |     working in and around     |
+|                |                 |     water                     |
++----------------+-----------------+-------------------------------+
+| Throw bag and  | -   Must be 15  | -   When worker is working    |
+| releasable     |     meters of   |     in/ or around swift water |
+| safety rope    |     line.       |                               |
++----------------+-----------------+-------------------------------+
+| Personal       | -   Must be     | -   When worker is working    |
+| Floatation     |     Canadian    |     in/ or around deep open   |
+| Device         |     General     |     water                     |
+|                |     Standards   |                               |
+|                |     Approved    |                               |
+|                |                 |                               |
+|                | -   Must be     |                               |
+|                |     stored in a |                               |
+|                |     dry area.   |                               |
+|                |                 |                               |
+|                | -   Avoid       |                               |
+|                |     exposure to |                               |
+|                |     sunlight.   |                               |
++----------------+-----------------+-------------------------------+
+| Hard hats      | -   H           | -   Must be worn in any work  |
+|                | igh-visibility, |     area where there is a     |
+|                |     hardhat.    |     danger of head injury     |
+|                |                 |     from falling, flying or   |
+|                | -   Cleaned     |     thrown objects, or other  |
+|                |     regularly   |     harmful contacts.         |
+|                |     and stored  |                               |
+|                |     away from   | -   Must be worn on all       |
+|                |     grease and  |     construction based job    |
+|                |     tools.      |     sites.                    |
++----------------+-----------------+-------------------------------+
+| Helmets        | -   Must be DOT | -   Must be worn when         |
+|                |     approved    |     operating ATV/            |
+|                |                 |     snowmobile.               |
+|                | -   Must be     |                               |
+|                |     free of     |                               |
+|                |     cracks,     |                               |
+|                |     dents or    |                               |
+|                |     any other   |                               |
+|                |     damage.     |                               |
++----------------+-----------------+-------------------------------+
+| Eye and face   | -   Safety      | -   Safety eyewear must be    |
+| protection     |     eyewear     |     worn when working in      |
+|                |     must fit    |     conditions that are       |
+|                |     properly    |     likely to injure or       |
+|                |     and include |     irritate the eyes.        |
+|                |     side        |                               |
+|                |     shields     | -   Face protectors must also |
+|                |     when        |     be used if there is a     |
+|                |     necessary   |     risk of face injury such  |
+|                |     for worker  |     as when operating a chain |
+|                |     safety.     |     or brush saw.             |
++----------------+-----------------+-------------------------------+
+| Safety         | -   Must be of  | -   Appropriate footwear must |
+| footwear       |     a design,   |     consider the following    |
+|                |                 |     factors: slipping, uneven |
+|                |    construction |     terrain, abrasion, ankle  |
+|                |     and         |     protection and foot       |
+|                |     material    |     support, crushing         |
+|                |     appropriate |     potential, temperature    |
+|                |     to the      |     extremes, corrosive       |
+|                |     protection  |     substances, puncture      |
+|                |     required    |     hazards, electrical       |
+|                |     for the     |     shock, and any other      |
+|                |     work        |     recognizable hazard.      |
+|                |                 |                               |
+|                |    environment. | -   Toe and metatarsal        |
+|                |                 |     protection, puncture      |
+|                |                 |     resistance, and/or        |
+|                |                 |     dielectric protection     |
+|                |                 |     must be used where        |
+|                |                 |     appropriate.              |
+|                |                 |                               |
+|                |                 | -   Caulked or other equally  |
+|                |                 |     effective footwear must   |
+|                |                 |     be worn by workers who    |
+|                |                 |     are required to walk on   |
+|                |                 |     logs, piles, pilings or   |
+|                |                 |     other round timbers.      |
++----------------+-----------------+-------------------------------+
+| Hearing        | -               | -   If those levels cannot be |
+| protection     |    WorkSafeBC's |     practicably met, the      |
+|                |     regulations |     employer must:            |
+|                |     regarding   |                               |
+|                |     noise       |     -   Reduce levels as low  |
+|                |     exposure    |         as \> possible        |
+|                |     are:        |                               |
+|                |                 |     -   Provide to workers \> |
+|                |     -   85dBA   |         hearing protection \> |
+|                |         Lex \>  |         that meets CSA \>     |
+|                |         daily   |         standards, and ensure |
+|                |         \>      |         \> it is worn         |
+|                |         noise   |         effectively \> in     |
+|                |         \>      |         noise hazard areas    |
+|                |                 |                               |
+|                |        exposure |                               |
+|                |         \>      |                               |
+|                |         level   |                               |
+|                |                 |                               |
+|                |     -   140 DBC |                               |
+|                |         \> peak |                               |
+|                |         \>      |                               |
+|                |         sound   |                               |
+|                |         \>      |                               |
+|                |         level   |                               |
++----------------+-----------------+-------------------------------+
+| Bear Spray /   | -   Always worn | -   Must be readily available |
+| Bangers        |     in remote   |     in case of any bear       |
+|                |     locations   |     sighting.                 |
+|                |                 |                               |
+|                | -   Inspected   | -   Must be carried for all   |
+|                |     regularly   |     remote worksites or       |
+|                |     and stored  |     worksites where there is  |
+|                |     in a safe,  |     potential bear activity.  |
+|                |     dry place.  |                               |
+|                |                 | -   Ensure equipment has      |
+|                |                 |     current use by date       |
+|                |                 |     attached.                 |
++----------------+-----------------+-------------------------------+
+
+## WHMIS orientation and location of the Material Safety Data Sheets (MSDS)
+
+## Records of Training
+
+A training log of all employee training/certifications can be found in the data folder [here](https://github.com/NewGraphEnvironment/hsp/blob/master/data/training_log.csv).
+
+## Progressive discipline policy
+
+Actions and behaviors that create or facilitate unsafe working
+environments and elevate the risk of injury to company representatives,
+contractors and the public are unacceptable. To ensure that these
+actions and behaviors do not persist once identified, the following
+progressive discipline policy has been implemented.
+
+1.  Verbal Warning
+
+2.  Documented Warning
+
+3.  Letter of Reprimand
+
+4.  Discharge
