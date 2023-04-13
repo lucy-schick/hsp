@@ -86,545 +86,649 @@ title.innerHTML = '<img src="fig/nge-full_white.png" alt="NewGraph">' + title.in
 
 <!--chapter:end:index.Rmd-->
 
-# Safety Policy 
- 
-At New Graph Environment we believe that all injuries are preventable 
-and that safety is the responsibility of everyone. We believe that 
-getting hurt at work is not acceptable and that by building a culture of 
-safety we: 
- 
--   will look ahead to identify hazards, 
- 
--   will document safety procedures and ensure that our management, 
-    staff and contractors are familiar with them and understand why we 
-    have them, 
- 
--   will strive for continuous improvement to ensure that we learn from 
-    the past and look to the future to facilitate the safest working 
-    environment possible for ourselves, our contractors, our clients and 
-    the public. 
- 
-## Forest Safety Accord 
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Safety Policy
+
+At New Graph Environment we believe that all injuries are preventable
+and that safety is the responsibility of everyone. We believe that
+getting hurt at work is not acceptable and that by building a culture of
+safety we:
+
+-   will look ahead to identify hazards,
+
+-   will document safety procedures and ensure that our management,
+    staff and contractors are familiar with them and understand why we
+    have them,
+
+-   will strive for continuous improvement to ensure that we learn from
+    the past and look to the future to facilitate the safest working
+    environment possible for ourselves, our contractors, our clients and
+    the public.
+
+## Forest Safety Accord
 
 ```{r}
-# this is a test
-knitr::include_graphics('fig/media/image2.png')
+knitr::include_graphics('fig/media/forestry_accord.png')
 ```
 
+## Corrective Action Log
 
-## Corrective Action Log 
- 
-These corrective actions are to be completed by the person indicated, 
-within the time frame allotted. If more time is required, or there are 
-difficulties encountered, please contact Allan Irvine for assistance. 
- 
-  ------------------------------------------------------------------------- 
-  **Identified Necessary  **Required Corrective   **Person        **By 
-  Improvement, Issue or   Action**                Responsible**   When** 
-  Problem**                                                        
-  ----------------------- ----------------------- --------------- --------- 
-                                                                   
- 
-                                                                   
- 
-                                                                   
- 
-                                                                   
-  ------------------------------------------------------------------------- 
- 
-## Safety Team Members 
- 
-As a small company all management and staff are considered safety team 
-members and expected to integral to the safety program. Feedback is 
-encouraged as continual improvement is a paramount goal. 
- 
-## Job Roles and Responsibilities 
- 
-### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1} 
- 
-If you feel the work as planned is unsafe, refuse to do it! Let's 
-identify the hazards and mitigate for them or we will not do the work. 
-This is work and it is not worth it to risk life and limb. 
- 
-## COVID 19 Prevention and Risks 
- 
-We have developed a COVID-19 Safety Plan that outlines the policies, 
-guidelines, and procedures to reduce the risk of COVID-19 transmission. 
- 
-All staff, contractors, volunteers, and participants must complete a 
-self-assessment (<https://bc.thrive.health/covid19/en>) before starting 
-work each day. If they are experiencing any symptoms related to COVID-19 
-they must halt all involvement or participation, notify the project 
-supervisor, and get officially tested. 
- 
-The virus that causes COVID-19 spreads in several ways, including 
-through droplets when a person coughs or sneezes, or from touching a 
-contaminated surface before touching the face. Planning to COVID-19 is a 
-moving target and should be a continuous effort. Planning is outlined by 
-WCB 
-(<https://www.worksafebc.com/en/about-us/covid-19-updates/covid-19-returning-safe-operation>). 
-Detailed procedures are included in the safe work procedures in the 
-Appendices of this document and were developed by progressing through 
-the following steps: 
- 
-1.  Assess the risk at your workplace to identify places where the risk 
-    of transmission is introduced 
- 
-    a.  What job tasks or processes require workers to come into close 
-        proximity with one another or members of the public? 
- 
-    b.  What tools, machinery, and equipment do people come into contact 
-        with in the course of their work? 
- 
-    c.  What surfaces are touched often, such as doorknobs, light 
-        switches, equipment, and shared tools? 
- 
-2.  Implement measures to reduce the risk 
- 
-    a.  Maintain a distance of 2 metres (6 feet) between workers and 
-        others wherever possible 
- 
-    b.  create pods of workers who work together exclusively to minimize 
-        the risk of broad transmission throughout the workplace 
- 
-    c.  where physical distance cannot be maintained consider the use of 
-        masks. 
- 
-    d.  Provide adequate hand-washing facilities on site for all workers 
- 
-    e.  Develop policies around when workers must wash their hands, 
-        including upon arriving for work, before and after breaks and 
-        before and after handling common tools and equipment. 
- 
-    f.  Implement a cleaning protocol for all common areas and surfaces, 
-        including washrooms, equipment, tools, common tables, desks, 
-        light switches, and door handles. Ensure those engaged in 
-        cleaning have adequate training and materials. 
- 
-    g.  Remove any unnecessary tools or equipment that may elevate the 
-        risk of transmission. 
- 
-3.  Develop policies to manage the workplace 
- 
-    a.  Anyone who has had [symptoms of 
-        COVID-19](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms) 
-        in the last 10 days must self-isolate at home. 
- 
-    b.  Anyone under the direction of the provincial health officer to 
-        self-isolate must follow those instructions 
- 
-    c.  When workers or contractors are feeling ill at work they should 
-        immediately let their supervisor know and go home. If symptoms 
-        align with those of COVID-19 they should be tested and 
-        self-isolate until they are symptom free and have a negative 
-        test result. 
- 
-## Required safety meetings 
- 
-### New Worker Orientations  {#new-worker-orientations .Style1} 
- 
-New workers are a high risk for injuries. They need to know the safety 
-policies and procedures and demonstrate that they understand how to 
-protect themselves and others. All employees and dependent contractors 
-operating under your company's safety plan must review the New Graph 
-health and safety policies and safe work procedures on their first day 
-before they start work or when returning to work after an absence of 
-longer than 6 weeks. Template to be filled out is attached as Appendix 
-1. 
- 
-### Tailboards (Site and Worker Assessment / Equipment and Vehicle Inspection / Emergency Contact List) {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1} 
- 
-Tailboard meetings are a way to reset at the start of new work tasks to  put safety first as the top priority at all places of work. Our tailboard template is unique in that it contains places for documentation of numerous safety policy actions in one place. Tailboards include references to field safety plans and contain:
+These corrective actions are to be completed by the person indicated,
+within the time frame allotted. If more time is required, or there are
+difficulties encountered, please contact Allan Irvine for assistance.
 
-  * site assessments
-  * Worker Assessments
-  * Equipment and Vehicle Inspections 
-  * Emergency Contact List
-  * Hazard inspections
-  * Add more here
-  
-They are included in this plan as **Appendix 2** 
- 
-## First Aid equipment and procedures 
+| **Item** | **Company Action Plan** | **Person Responsible** | **Due Date** | **Date Closed** |
+|----------|-------------------------|------------------------|--------------|-----------------|
+|          |                         |                        |              |                 |                         
+|          |                         |                        |              |                 |                         
+|          |                         |                        |              |                 |                         
+|          |                         |                        |              |                 |                         
 
-A level 1 kit is kept under the seat of each work vehicle and our OHSP in also kept in the truck. The kit should be inspected for contents to see that it is complete. Below is an itemized list of what should be in the kit:
+## Safety Team Members
 
+As a small company all management and staff are considered safety team
+members and expected to integral to the safety program. Feedback is
+encouraged as continual improvement is a paramount goal.
 
-    * Find a refrence online to what is in this kit and put here.
- 
-### Worksite First Aid Requirements {#worksite-first-aid-requirements .Style1} 
- 
-To determine an adequate and appropriate level of first aid coverage, 
-the first step is a first aid assessment. This doesn\'t need to be 
-complicated. But it does call for a full review of your workplace. The 
-assessment will help you determine the minimum level of first aid needed 
-in your workplace. First aid levels are outlined in the [OHS Regulation 
-Schedule 3-A: Minimum Levels of First 
-Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A). 
- 
-Below are the steps for a first aid assessment. Tables of scenarios 
-based on the number of people working and the assessed hazard rating are 
-included in Appendix 4. 
- 
--   Identify the number of workplaces. 
- 
--   Identify your workplace hazard rating. 
- 
--   Consider the surface travel time to a hospital. 
- 
--   Determine the number of workers on a shift. 
- 
--   Determine the required first aid services for your workplace. 
- 
--   Review your assessment. 
- 
+## Job Roles and Responsibilities
 
+### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1}
+
+You have the right to refuse unsafe work if you have reasonable cause to believe the work you are doing could create a hazard or cause an injury. Identify hazards before starting work and determine whether it is safe to proceed.
+This is work and it is not worth it to risk life and limb.
+
+## COVID 19 Prevention and Risks
+
+We have developed a COVID-19 Safety Plan that outlines the policies,
+guidelines, and procedures to reduce the risk of COVID-19 transmission.
+
+All staff, contractors, volunteers, and participants must complete a
+self-assessment (<https://bc.thrive.health/covid19/en>) before starting
+work each day. If they are experiencing any symptoms related to COVID-19
+they must halt all involvement or participation, notify the project
+supervisor, and get officially tested.
+
+The virus that causes COVID-19 spreads in several ways, including
+through droplets when a person coughs or sneezes, or from touching a
+contaminated surface before touching the face. Planning to COVID-19 is a
+moving target and should be a continuous effort. Planning is outlined by
+WCB
+(<https://www.worksafebc.com/en/about-us/covid-19-updates/covid-19-returning-safe-operation>).
+Detailed procedures are included in the safe work procedures in the
+Appendices of this document and were developed by progressing through
+the following steps:
+
+1.  Assess the risk at your workplace to identify places where the risk
+    of transmission is introduced
+
+    a.  What job tasks or processes require workers to come into close
+        proximity with one another or members of the public?
+
+    b.  What tools, machinery, and equipment do people come into contact
+        with in the course of their work?
+
+    c.  What surfaces are touched often, such as doorknobs, light
+        switches, equipment, and shared tools?
+
+2.  Implement measures to reduce the risk
+
+    a.  Maintain a distance of 2 metres (6 feet) between workers and
+        others wherever possible
+
+    b.  Create pods of workers who work together exclusively to minimize
+        the risk of broad transmission throughout the workplace
+
+    c.  Where physical distance cannot be maintained consider the use of
+        masks.
+
+    d.  Provide adequate hand-washing facilities on site for all workers
+
+    e.  Develop policies around when workers must wash their hands,
+        including upon arriving for work, before and after breaks and
+        before and after handling common tools and equipment.
+
+    f.  Implement a cleaning protocol for all common areas and surfaces,
+        including washrooms, equipment, tools, common tables, desks,
+        light switches, and door handles. Ensure those engaged in
+        cleaning have adequate training and materials.
+
+    g.  Remove any unnecessary tools or equipment that may elevate the
+        risk of transmission.
+
+3.  Develop policies to manage the workplace
+
+    a.  Anyone who has had [symptoms of
+        COVID-19](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms)
+        in the last 10 days must self-isolate at home.
+
+    b.  Anyone under the direction of the provincial health officer to
+        self-isolate must follow those instructions
+
+    c.  When workers or contractors are feeling ill at work they should
+        immediately let their supervisor know and go home. If symptoms
+        align with those of COVID-19 they should be tested and
+        self-isolate until they are symptom free and have a negative
+        test result.
+
+## Required safety meetings
+
+### New Worker Orientations {#new-worker-orientations .Style1}
+
+New workers are at a high risk for injuries. They need to know the
+safety policies and procedures and demonstrate that they understand how
+to protect themselves and others. All employees and dependent
+contractors operating under your company's safety plan must review the
+New Graph health and safety policies and safe work procedures on their
+first day before they start work or when returning to work after an
+absence of longer than 6 weeks. Template to be filled out is attached as
+[Appendix 1 - New Worker Orientation].
+
+### Tailboards {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1}
+
+Tailboard meetings are a way to reset at the start of new work tasks to
+put safety first as the top priority at all places of work. Our
+tailboard template is unique in that it contains documentation of numerous safety policy actions in one place. Tailboards
+include references to field safety plans and contain:
+
+-   Site Assessments, Hazard Identifications and Risk Assessments
+-   Worker Assessments
+-   Personal Protective Equipment Checklist/Inspections
+* Machinery Inspection (Vehicle/Trailer/ATV)
+-   Emergency Contact List and Info
+* Call In/Call Out Numbers for Check-ins
+-   Hazard Inspections
+-   First Aid Assessments
+
+They are included in this plan as [Appendix 2 - Tailboard Template].
+
+## First Aid equipment and procedures
+
+A level 1 kit is kept under the seat of each work vehicle and our OHSP
+is also kept in the truck. The kit should be inspected for contents to
+see that it is complete. A weatherproof container is recommended for all items except the blankets. Below is an itemized list of what should be in
+the kit:
+
+| **Quantity** | **Required Item**                                                 |
+|:-------------|:------------------------------------------------------------------|
+| 1            | Blanket                                                           |
+| 24           | 14 cm x 19 cm wound cleansing towelettes, individually packaged   |
+| 50           | Sterile adhesive dressings, assorted sizes, individually packaged |
+| 10           | 10 cm x 10 cm sterile gauze dressings, individually packaged      |
+| 4            | 10 cm x 16.5 cm sterile pressure dressings with crepe ties        |
+| 2            | 7.5 cm x 4.5 m crepe roller bandages                              |
+| 2            | 7.5 cm conforming gauze bandages                                  |
+| 1            | 2.5 cm x 4.5 m adhesive tape                                      |
+| 2            | Cotton triangular bandages, minimum length of base 1.25 m         |
+| 2            | Quick straps (a.k.a. fracture straps or zap straps)               |
+| 1            | Windlass style tourniquet                                         |
+| 1            | 14 cm stainless steel bandage scissors or universal scissors      |
+| 1            | 11.5 cm stainless steel sliver forceps                            |
+| 1            | Pocket mask with a one-way valve and oxygen inlet                 |
+| 6            | Pairs of medical gloves (preferably non-latex)                    |
+| 1            | Waterproof waste bag                                              |
+|              | First aid records                                                 |
+
+### Worksite First Aid Requirements {#worksite-first-aid-requirements .Style1}
+
+To determine an adequate and appropriate level of first aid coverage,
+the first step is a first aid assessment. This requires a full review of the workplace. The
+assessment will help you determine the minimum level of first aid needed
+in your workplace. First aid levels are outlined in the [OHS Regulation
+Schedule 3-A: Minimum Levels of First
+Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A).
+
+Below are the steps for a first aid assessment. Tables of scenarios
+based on the number of people working and the assessed hazard rating are
+included in [Appendix 3 - First Aid Requirements].
+
+-   Identify the number of workplaces.
+
+-   Identify your workplace hazard rating.
+
+-   Consider the surface travel time to a hospital.
+
+-   Determine the number of workers on a shift.
+
+-   Determine the required first aid services for your workplace.
+
+-   Review your assessment.
 
 <!--chapter:end:0110-intro.Rmd-->
 
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Plans and Assessments
 
-## Field Safety Plans {#field-safety-plans .Style1} 
- 
+## Field Safety Plans {#field-safety-plans .Style1}
+
+Field safety plans are written up before traveling to any job site. Information included in these plans include:
+
+* Location and contact info of accommodations where employees are staying.
+* Description of personal and company vehicles.
+* Crew member contact details, including emergency contacts.
+* Personal and crew equipment checklist.
+* Location and contact info of nearest hospital.
+* Check in and failed check in procedures.
+* A brief description of the job, as well as map links and a list of possible locations where crew members will visit.
+
 ### Check-in Procedures and Field Communications
 
-Call, text or in reach emergency contact each morning to share the plan for the day (i.e. name
-of roads and sites). Agree on a regular daily check in time and report
-position/provide updates.
+Call, text or in reach emergency contact each morning to share the plan
+for the day (i.e. name of roads and sites). Agree on a regular daily
+check in time and report position/provide updates.
 
-### Procedures for Failed Check-In 
+### Procedures for Failed Check-In
 
-If phone call or in reach check-in is not
-received by agreed upon time, send text to in reach units, call or text cell phones of field crew members. If no
-response please call accommodations, then personal emergency contacts to see if they have heard
-anything. Wait 1 hour and text in reach, text or call cell phones and personal emergency contacts
-and accommodations again. Repeat after 2 hours - if no response then notify the RCMP of a
-missing persons in field.
- 
-## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1} 
+If phone call or in reach check-in is not received by agreed upon time,
+send text to in reach units, call or text cell phones of field crew
+members. If no response please call accommodations, then personal
+emergency contacts to see if they have heard anything. Wait 1 hour and
+text in reach, text or call cell phones and personal emergency contacts
+and accommodations again. Repeat after 2 hours - if no response then
+notify the RCMP of a missing persons in field.
 
-Close calls are opportunities to prevent incidents in the future.  For this reason we have policies in place that we document them and review them. Close-call reporting templates are provided as an appendix and are required when:
+## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
-    * there is a near miss for an injury
-    * equipment is almost damaged
-    
- 
-## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1} 
-**Remote Site Emergency Call-In Procedures**: 
-*	Dial RCMP
-*	Name:
-*	Location: (GPS, UTM Co-ordinates, Road Km)
-*	Phone #
-*	Nature Of Injury: (severity, what happened, and # of Victims)
-*	Environmental Conditions: (weather, slope, access conditions)
-*	Request what you are going to need: (SAR, PEP, Helicopter,)
+Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 4 - Incidence/Close Call Template].
 
-### Procedures for: FIRE RESPONSE
+## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1}
 
+**Remote Site Emergency Call-In Procedures**:
 
-*	Regularly monitor the fire weather index using representative weather station and determine the appropriate Fire Danger Class for the area. For Danger Class Reports go to: http://bcwildfire.ca/Weather/Maps/danger_rating.html
-*	Stop operations and notify he manager and crew immediately upon observation of a fire.
-*	Manager should either act as the emergency response team leader or designate another crew member to assume the emergency response team leader role.
-*	Call Forest Fire Reporting :  1-800-663-5555 or * 5555 on the Cantel and Telus networks
-*	The individual reporting the fire shall remain available to communicate details of the fire suppression activity taken and what may be required.
-*	The remaining crew shall begin immediate action on the fire to their level of safety and competence provided it is determined by the emergency response team leader that the fire can be safely controlled by the crew.
-*	The person in charge of the crew during suppression operations will continue to supervise the efforts until relieved by licensee/contractor representative or BC Wildfire Management Branch personnel.
+-   Dial RCMP
+-   Name:
+-   Location: (GPS, UTM Co-ordinates, Road Km)
+-   Phone \#
+-   Nature Of Injury: (severity, what happened, and \# of Victims)
+-   Environmental Conditions: (weather, slope, access conditions)
+-   Request what you are going to need: (SAR, PEP, Helicopter,)
 
+### Fire Response
 
-### Procedures for: LANDSLIDE, AVALANCHE AND NATURAL DISASTER RESPONSE
+-   Regularly monitor the fire weather index using representative
+    weather station and determine the appropriate Fire Danger Class for
+    the area. For Danger Class Reports go to:
+    <http://bcwildfire.ca/Weather/Maps/danger_rating.html>
+-   Stop operations and notify he manager and crew immediately upon
+    observation of a fire.
+-   Manager should either act as the emergency response team leader or
+    designate another crew member to assume the emergency response team
+    leader role.
+-   Call Forest Fire Reporting : 1-800-663-5555 or \* 5555 on the Cantel
+    and Telus networks
+-   The individual reporting the fire shall remain available to
+    communicate details of the fire suppression activity taken and what
+    may be required.
+-   The remaining crew shall begin immediate action on the fire to their
+    level of safety and competence provided it is determined by the
+    emergency response team leader that the fire can be safely
+    controlled by the crew.
+-   The person in charge of the crew during suppression operations will
+    continue to supervise the efforts until relieved by
+    licensee/contractor representative or BC Wildfire Management Branch
+    personnel.
 
-*	Ensure all workers understand and trained in response procedures and this emergency response plan  is available on site at all times.
-*	Notify supervisor and other workers.  If safe to do so, assess situation to determine if activities must be shutdown.
-*	Take steps to control further environmental impacts.
-*	Supervisors must account for all workers before leaving the site. If a shutdown is required, park all equipment in an environmentally safe location (avoid riparian management areas, steep side slopes, steep road sections, areas with excessive soil moisture, and areas within reach of standing timber).
-*	Contact appropriate parties if significant environmental damage or damage to infrastructure requiring repair has occurred (MFLNRO, BCTS, MoTI, etc.).
+### Landslide, Avalanche, and Natural Disaster Response
 
-### Procedures for: SPILL RESPONSE
+-   Ensure all workers are trained and understand response procedures and
+    this emergency response plan is available on site at all times.
+-   Notify supervisor and other workers. If safe to do so, assess
+    situation to determine if activities must be shutdown.
+-   Take steps to control further environmental impacts.
+-   Supervisors must account for all workers before leaving the site. If
+    a shutdown is required, park all equipment in an environmentally
+    safe location (avoid riparian management areas, steep side slopes,
+    steep road sections, areas with excessive soil moisture, and areas
+    within reach of standing timber).
+-   Contact appropriate parties if significant environmental damage or
+    damage to infrastructure requiring repair has occurred (MFLNRO,
+    BCTS, MoTI, etc.).
 
-1. **Step 1. Ensure Safety**
-* Assess site hazards to ensure safe work procedures.
-*	Notify Site Supervisor and Environmental Monitor (EM).
-*	If unsure of the product, consult the MSDS sheets.
-*	Eliminate ignition sources if spilled material is flammable.
-*	Wear proper personal protective equipment (gloves) contained in the spill kit.
-2. **Step 2. Contain the spill**
-*	Eliminate the source of the spill.
-*	Use contents of the provided spill kit(s) to stop the spread of the spill/leak.  Absorbent socks can be used to surround the spill. 
-+	**Remember: White = Fuels & Oils Only,  Gray = Universal (Fuels, Oils and Chemicals such as antifreeze)**
-*	Divert spill away from ditches and watercourses.
-*	Once the spill is contained, attempt to soak it up using an absorbent pads. 
-*	Place the absorbent pads and any contaminated soil in a container and dispose of it in accordance with the MSDS sheet and provincial regulations.
-3. **Step 3. Reporting Requirements**
-* All spills must be reported to the Site Supervisor and the EM. If the EM cannot be reached, notify the Provincial Emergency Program (PEP) at 1-800-663-3456 if the spill meets the thresholds detailed in the Spill Reporting Regulation of BC.  A summary of the reporting thresholds for the most likely spilled materials is below.
+### Spill Response
 
-* **Spill Reporting Thresholds** 
-Oil Fuel, Oil & Hydraulic fluid:	Any quantity that enters or is likely to enter water
->100L to land
-Antifreeze: 	Any quantity that enters or is likely to enter water 
->25L to land
+**Step 1. Ensure Safety**
 
+-   Assess site hazards to ensure safe work procedures.
+-   Notify Site Supervisor and Environmental Monitor (EM).
+-   If unsure of the product, consult the MSDS sheets.
+-   Eliminate ignition sources if spilled material is flammable.
+-   Wear proper personal protective equipment (gloves) contained in the
+    spill kit.
 
-### First Aid Procedures for: INJURY
+**Step 2. Contain the spill**
+
+-   Eliminate the source of the spill.
+-   Use contents of the provided spill kit(s) to stop the spread of the
+    spill/leak. Absorbent socks can be used to surround the spill.
+-   **Remember: White = Fuels & Oils Only, Gray = Universal (Fuels, Oils
+    and Chemicals such as antifreeze)**
+-   Divert spill away from ditches and watercourses.
+-   Once the spill is contained, attempt to soak it up using an
+    absorbent pads.
+-   Place the absorbent pads and any contaminated soil in a container
+    and dispose of it in accordance with the MSDS sheet and provincial
+    regulations.
+
+**Step 3. Reporting Requirements**
+
+-   All spills must be reported to the Site Supervisor and the EM. If
+    the EM cannot be reached, notify the Provincial Emergency Program
+    (PEP) at 1-800-663-3456 if the spill meets the thresholds detailed
+    in the Spill Reporting Regulation of BC. A summary of the reporting
+    thresholds for the most likely spilled materials is below.
+
+**Spill Reporting Thresholds** Oil Fuel, Oil & Hydraulic fluid: Any
+    quantity that enters or is likely to enter water \>100L to land
+    Antifreeze: Any quantity that enters or is likely to enter water
+    \>25L to land
+
+### Injury
+
 **Minor wounds, breaks, strains:**
-*	Ensure site is safe, stabilize patient (provide first-aid), transport to closest Hospital, if necessary.  
-*	Advise office and hospital when you are on route
-*	If accident is the result of a motor vehicle accident, please advise the RCMP at 250 353 2225
+
+-   Ensure site is safe, stabilize patient (provide first-aid),
+    transport to closest Hospital, if necessary.
+
+-   Advise office and hospital when you are on route
+
+-   If accident is the result of a motor vehicle accident, please advise
+    the RCMP at 250 353 2225
 
 **Serious injury:**
-*	Ensure site is safe, then stabilize (provide first-aid) and/or prepare patient for transport.
-*	Activate SPOT messenger, or call 1 800 461 9911 (if using the satellite phone). 
-* Provide nature of injuries, location co-ordinates in UTM or longitude and latitude for landing site, and communication method to use on the way to the accident site.  
-* If air evacuation is required, you must advise the communication centre you’ve reached; if road evacuation is used, then advise if you will be meeting the ambulance en route.
 
-### Procedures for: FATALITY
-*	Ensure site is safe
-*	Activate SPOT messenger, or call 1 800 461 9911 (if using the satellite phone)
-*	Contact Nelson WCB at 1 800 663 4962
-*	Do not disturb the site, cover the body, ribbon off the area, and block access if possible
+-   Ensure site is safe, then stabilize (provide first-aid) and/or
+    prepare patient for transport.
 
+-   Activate SPOT messenger, or call 1 800 461 9911 (if using the
+    satellite phone).
 
+-   Provide nature of injuries, location co-ordinates in UTM or
+    longitude and latitude for landing site, and communication method to
+    use on the way to the accident site.
 
-###  Vehicle and Machinery Inspections  
+-   If air evacuation is required, you must advise the communication
+    centre you've reached; if road evacuation is used, then advise if
+    you will be meeting the ambulance en route.
+    
+### Fatality
 
-If your wheel falls off your truck you can get hurt or hurt someone else. 
-This is an example of why we inspect our equipment, record issues and act to ensure everything is in working order. Included in our tailboard template.
- 
-##  Site and Worker Assessments  
-
-As an employer, we should conduct a systematic risk assessment to help us identify the hazards that exist in your workplace, and how they may put your workers at risk. To determine if we've done enough to protect our workers, we use a rating system as part of your risk assessment.  
-
-<br>
-
-
+-   Ensure site is safe
+-   Activate SPOT messenger, or call 1 800 461 9911 (if using the
+    satellite phone)
+-   Contact Nelson WCB at 1 800 663 4962
+-   Do not disturb the site, cover the body, ribbon off the area, and
+    block access if possible
 
 
+## Site and Worker Assessments
 
-**Insert screenshot of rating system here**
- 
-##  Contractor Selection Policy 
- 
-At New Graph we are responsible to ensure that the contractors we hire 
-to complete and assist on projects are compliant with the workers 
-compensation act and have a record that illustrates they have a culture 
-of safety. For forestry related work that contractors need to be Safe 
-Certified companies. We have a checklist that we require our contractors 
-to complete to ensure that they meet our requirements. Our policy is to 
-always get a clearance letter before and after we receive services from 
-a contractor to confirm whether they registered with worksafe BC and 
-paying premiums. The contractor selection and safety checklist is 
-included as Appendix XXXXXXXXXXXXXX. 
- 
-Of note, contractors are considered our workers if they do not operate 
-as an independent business and are either not eligible for WorkSafeBC 
-coverage or decline to purchase WorkSafeBC's optional coverage. Below 
-are examples of situations where a contractor would likely be our 
-worker: 
- 
--   The contractor supplies only labour 
- 
--   The contractor supplies labour and minor materials 
- 
--   The contractor supplies labour and a piece of major equipment but is 
-    not registered with WorkSafeBC 
- 
-## Personal Protective Equipment (PPE) policy 
- 
-All employees will be provided the required PPE when they are hired, and 
-instructed on its proper use and care. Employees are responsible for 
-keeping PPE in good working condition and notifying their supervisor if 
-any PPE no longer meets safe standards. 
- 
-All PPE must meet regulatory and Canadian Standards Association 
-standards. 
- 
-The following provides a *guideline* to the requirements and use of PPE. 
-A full listing of requirements can be found in the Occupational Health 
-and Safety Regulation at 
-<https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-08-personal-protective-clothing-and-equipment> 
- 
-+-------------+--------------------+----------------------------------+ 
-| **PPE**     | **Requirements**   | **Used in these situations**     | 
-+=============+====================+==================================+ 
-| High        | -   The apparel    | -   When worker is outside of    | 
-| -visibility |     must be a      |     the vehicle.                 | 
-| clothing    |     color that     |                                  | 
-| (vest)      |     contrasts with | -   On all construction sites    | 
-|             |     the            |                                  | 
-|             |     environment.   |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Limb and    | -   Must be free   | -   When the worker is exposed   | 
-| body        |     of holes and,  |     to a substance or condition  | 
-| protection  |     in the case of |     that is likely to puncture,  | 
-|             |     hand           |     abrade or affect the skin -- | 
-|             |     protection,    |     or be absorbed through the   | 
-|             |     made of a      |     skin.                        | 
-|             |     material that  |                                  | 
-|             |     provides a     |                                  | 
-|             |     good grip.     |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Warm dry    |                    | -   All field work situations.   | 
-| clothing    |                    |     Particularly in night work   | 
-|             |                    |     and during seasons of        | 
-|             |                    |     typically variable and cold  | 
-|             |                    |     wet weather.                 | 
-+-------------+--------------------+----------------------------------+ 
-| Wading Belt |                    | -   Must be worn around waste    | 
-|             |                    |     snugly in conjunction with   | 
-|             |                    |     waders to ensure that waders | 
-|             |                    |     do not fill with water in    | 
-|             |                    |     the event of a fall in the   | 
-|             |                    |     water.                       | 
-+-------------+--------------------+----------------------------------+ 
-| Wading      | -   Soft rubber or | -   When stream work is          | 
-| Boots       |     felt sole      |     required.                    | 
-|             |     footwear       |                                  | 
-|             |     specifically   |                                  | 
-|             |     designed for   |                                  | 
-|             |     stream work    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Polarized   |                    | -   Must be worn while working   | 
-| glasses     |                    |     in and around water          | 
-+-------------+--------------------+----------------------------------+ 
-| Throw bag   | -   Must be 15     | -   When worker is working in/   | 
-| and         |     meters of      |     or around swift water        | 
-| releasable  |     line.          |                                  | 
-| safety rope |                    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Personal    | -   Must be        | -   When worker is working in/   | 
-| Floatation  |     Canadian       |     or around deep open water    | 
-| Device      |     General        |                                  | 
-|             |     Standards      |                                  | 
-|             |     Approved       |                                  | 
-|             |                    |                                  | 
-|             | -   Must be stored |                                  | 
-|             |     in a dry area. |                                  | 
-|             |                    |                                  | 
-|             | -   Avoid exposure |                                  | 
-|             |     to sunlight.   |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Hard hats   | -                  | -   Must be worn in any work     | 
-|             |   High-visibility, |     area where there is a danger | 
-|             |     hardhat.       |     of head injury from falling, | 
-|             |                    |     flying or thrown objects, or | 
-|             | -   Cleaned        |     other harmful contacts.      | 
-|             |     regularly and  |                                  | 
-|             |     stored away    | -   Must be worn on all          | 
-|             |     from grease    |     construction based job       | 
-|             |     and tools.     |     sites.                       | 
-+-------------+--------------------+----------------------------------+ 
-| Helmets     | -   Must be DOT    | -   Must be worn when operating  | 
-|             |     approved       |     ATV/ snowmobile.             | 
-|             |                    |                                  | 
-|             | -   Must be free   |                                  | 
-|             |     of cracks,     |                                  | 
-|             |     dents or any   |                                  | 
-|             |     other damage.  |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Eye and     | -   Safety eyewear | -   Safety eyewear must be worn  | 
-| face        |     must fit       |     when working in conditions   | 
-| protection  |     properly and   |     that are likely to injure or | 
-|             |     include side   |     irritate the eyes.           | 
-|             |     shields when   |                                  | 
-|             |     necessary for  | -   Face protectors must also be | 
-|             |     worker safety. |     used if there is a risk of   | 
-|             |                    |     face injury such as when     | 
-|             |                    |     operating a chain or brush   | 
-|             |                    |     saw.                         | 
-+-------------+--------------------+----------------------------------+ 
-| Safety      | -   Must be of a   | -   Appropriate footwear must    | 
-| footwear    |     design,        |     consider the following       | 
-|             |     construction   |     factors: slipping, uneven    | 
-|             |     and material   |     terrain, abrasion, ankle     | 
-|             |     appropriate to |     protection and foot support, | 
-|             |     the protection |     crushing potential,          | 
-|             |     required for   |     temperature extremes,        | 
-|             |     the work       |     corrosive substances,        | 
-|             |     environment.   |     puncture hazards, electrical | 
-|             |                    |     shock, and any other         | 
-|             |                    |     recognizable hazard.         | 
-|             |                    |                                  | 
-|             |                    | -   Toe and metatarsal           | 
-|             |                    |     protection, puncture         | 
-|             |                    |     resistance, and/or           | 
-|             |                    |     dielectric protection must   | 
-|             |                    |     be used where appropriate.   | 
-|             |                    |                                  | 
-|             |                    | -   Caulked or other equally     | 
-|             |                    |     effective footwear must be   | 
-|             |                    |     worn by workers who are      | 
-|             |                    |     required to walk on logs,    | 
-|             |                    |     piles, pilings or other      | 
-|             |                    |     round timbers.               | 
-+-------------+--------------------+----------------------------------+ 
-| Hearing     | -   WorkSafeBC's   | -   If those levels cannot be    | 
-| protection  |     regulations    |     practicably met, the         | 
-|             |     regarding      |     employer must:               | 
-|             |     noise exposure |                                  | 
-|             |     are:           |     -   Reduce levels as low as  | 
-|             |                    |         > possible               | 
-|             |     -   85dBA Lex  |                                  | 
-|             |         > daily    |     -   Provide to workers       | 
-|             |         > noise    |         > hearing protection     | 
-|             |         > exposure |         > that meets CSA         | 
-|             |         > level    |         > standards, and ensure  | 
-|             |                    |         > it is worn effectively | 
-|             |     -   140 DBC    |         > in noise hazard areas  | 
-|             |         > peak     |                                  | 
-|             |         > sound    |                                  | 
-|             |         > level    |                                  | 
-+-------------+--------------------+----------------------------------+ 
-| Bear Spray  | -   Always worn in | -   Must be readily available in | 
-| / Bangers   |     remote         |     case of any bear sighting.   | 
-|             |     locations      |                                  | 
-|             |                    | -   Must be carried for all      | 
-|             | -   Inspected      |     remote worksites or          | 
-|             |     regularly and  |     worksites where there is     | 
-|             |     stored in a    |     potential bear activity.     | 
-|             |     safe, dry      |                                  | 
-|             |     place.         | -   Ensure equipment has current | 
-|             |                    |     use by date attached.        | 
-+-------------+--------------------+----------------------------------+ 
- 
-## WHMIS orientation and location of the Material Safety Data Sheets (MSDS) 
- 
-## Records of Training 
- 
-## Progressive discipline policy 
- 
-Actions and behaviors that create or facilitate unsafe working 
-environments and elevate the risk of injury to company representatives, 
-contractors and the public are unacceptable. To ensure that these 
-actions and behaviors do not persist once identified, the following 
-progressive discipline policy has been implemented. 
- 
-1.  Verbal Warning 
- 
-2.  Documented Warning 
- 
-3.  Letter of Reprimand 
- 
-4.  Discharge 
- 
+Conducting a systematic risk assessment will help identify the hazards that exist in the workplace, and how they may
+put workers at risk. To determine if we've done enough to protect
+our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity. 
+
+Examples of risks/hazards found in and around job sites include, but are not limited to: 
+
+* Wildlife
+* Swiftwater
+* Vehicle traffic
+* Slippery/uneven ground
+* Exposure to heat or cold
+* Machinery
+* ATV (roll over, burns, collision)
+* Chemicals
+* Chainsaw/loppers/knives
+* Electrofisher shocks
+* Open water
+* Overhead snags and sharp branches
+
+
+```{r}
+knitr::include_graphics('fig/media/Risk_Matrix.png')
+```
+
+## Contractor Selection Policy
+
+At New Graph we are responsible to ensure that the contractors we hire
+to complete and assist on projects are compliant with the workers
+compensation act and have a record that illustrates they have a culture
+of safety. For forestry related work, contractors are required to be part of Safe
+Certified companies. We have a checklist that we require our contractors
+to complete to ensure that they meet our requirements. Our policy is to
+always get a clearance letter before and after we receive services from
+a contractor to confirm whether they registered with worksafe BC and are
+paying premiums. The contractor selection and safety checklist forms are
+included as [Appendix 5 - Contractor Selection and Safety Checklist].
+
+Of note, contractors are considered our workers if they do not operate
+as an independent business and are either not eligible for WorkSafeBC
+coverage or decline to purchase WorkSafeBC's optional coverage. Below
+are examples of situations where a contractor would likely be our
+worker:
+
+-   The contractor supplies only labour
+
+-   The contractor supplies labour and minor materials
+
+-   The contractor supplies labour and a piece of major equipment but is
+    not registered with WorkSafeBC
+
+## Personal Protective Equipment (PPE) policy
+
+All employees will be provided the required PPE when they are hired, and
+instructed on its proper use and care. Employees are responsible for
+keeping PPE in good working condition and notifying their supervisor if
+any PPE no longer meets safe standards.
+
+All PPE must meet regulatory and Canadian Standards Association
+standards.
+
+The following provides a *guideline* to the requirements and use of PPE.
+A full listing of requirements can be found in the Occupational Health
+and Safety Regulation at
+<https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-08-personal-protective-clothing-and-equipment>
+
++----------------+-----------------+-------------------------------+
+| **PPE**        |                 | **Used in these situations**  |
+|                | **Requirements**|                               |
++================+=================+===============================+
+| High           | -   The apparel | -   When worker is outside of |
+| -visibility    |     must be a   |     the vehicle.              |
+| clothing       |     color that  |                               |
+| (vest)         |     contrasts   | -   On all construction sites |
+|                |     with the    |                               |
+|                |                 |                               |
+|                |    environment. |                               |
++----------------+-----------------+-------------------------------+
+| Limb and body  | -   Must be     | -   When the worker is        |
+| protection     |     free of     |     exposed to a substance or |
+|                |     holes and,  |     condition that is likely  |
+|                |     in the case |     to puncture, abrade or    |
+|                |     of hand     |     affect the skin -- or be  |
+|                |     protection, |     absorbed through the      |
+|                |     made of a   |     skin.                     |
+|                |     material    |                               |
+|                |     that        |                               |
+|                |     provides a  |                               |
+|                |     good grip.  |                               |
++----------------+-----------------+-------------------------------+
+| Warm dry       |                 | -   All field work            |
+| clothing       |                 |     situations. Particularly  |
+|                |                 |     in night work and during  |
+|                |                 |     seasons of typically      |
+|                |                 |     variable and cold wet     |
+|                |                 |     weather.                  |
++----------------+-----------------+-------------------------------+
+| Wading Belt    |                 | -   Must be worn around waste |
+|                |                 |     snugly in conjunction     |
+|                |                 |     with waders to ensure     |
+|                |                 |     that waders do not fill   |
+|                |                 |     with water in the event   |
+|                |                 |     of a fall in the water.   |
++----------------+-----------------+-------------------------------+
+| Wading Boots   | -   Soft rubber | -   When stream work is       |
+|                |     or felt     |     required.                 |
+|                |     sole        |                               |
+|                |     footwear    |                               |
+|                |                 |                               |
+|                |    specifically |                               |
+|                |     designed    |                               |
+|                |     for stream  |                               |
+|                |     work        |                               |
++----------------+-----------------+-------------------------------+
+| Polarized      |                 | -   Must be worn while        |
+| glasses        |                 |     working in and around     |
+|                |                 |     water                     |
++----------------+-----------------+-------------------------------+
+| Throw bag and  | -   Must be 15  | -   When worker is working    |
+| releasable     |     meters of   |     in/ or around swift water |
+| safety rope    |     line.       |                               |
++----------------+-----------------+-------------------------------+
+| Personal       | -   Must be     | -   When worker is working    |
+| Floatation     |     Canadian    |     in/ or around deep open   |
+| Device         |     General     |     water                     |
+|                |     Standards   |                               |
+|                |     Approved    |                               |
+|                |                 |                               |
+|                | -   Must be     |                               |
+|                |     stored in a |                               |
+|                |     dry area.   |                               |
+|                |                 |                               |
+|                | -   Avoid       |                               |
+|                |     exposure to |                               |
+|                |     sunlight.   |                               |
++----------------+-----------------+-------------------------------+
+| Hard hats      | -   H           | -   Must be worn in any work  |
+|                | igh-visibility, |     area where there is a     |
+|                |     hardhat.    |     danger of head injury     |
+|                |                 |     from falling, flying or   |
+|                | -   Cleaned     |     thrown objects, or other  |
+|                |     regularly   |     harmful contacts.         |
+|                |     and stored  |                               |
+|                |     away from   | -   Must be worn on all       |
+|                |     grease and  |     construction based job    |
+|                |     tools.      |     sites.                    |
++----------------+-----------------+-------------------------------+
+| Helmets        | -   Must be DOT | -   Must be worn when         |
+|                |     approved    |     operating ATV/            |
+|                |                 |     snowmobile.               |
+|                | -   Must be     |                               |
+|                |     free of     |                               |
+|                |     cracks,     |                               |
+|                |     dents or    |                               |
+|                |     any other   |                               |
+|                |     damage.     |                               |
++----------------+-----------------+-------------------------------+
+| Eye and face   | -   Safety      | -   Safety eyewear must be    |
+| protection     |     eyewear     |     worn when working in      |
+|                |     must fit    |     conditions that are       |
+|                |     properly    |     likely to injure or       |
+|                |     and include |     irritate the eyes.        |
+|                |     side        |                               |
+|                |     shields     | -   Face protectors must also |
+|                |     when        |     be used if there is a     |
+|                |     necessary   |     risk of face injury such  |
+|                |     for worker  |     as when operating a chain |
+|                |     safety.     |     or brush saw.             |
++----------------+-----------------+-------------------------------+
+| Safety         | -   Must be of  | -   Appropriate footwear must |
+| footwear       |     a design,   |     consider the following    |
+|                |                 |     factors: slipping, uneven |
+|                |    construction |     terrain, abrasion, ankle  |
+|                |     and         |     protection and foot       |
+|                |     material    |     support, crushing         |
+|                |     appropriate |     potential, temperature    |
+|                |     to the      |     extremes, corrosive       |
+|                |     protection  |     substances, puncture      |
+|                |     required    |     hazards, electrical       |
+|                |     for the     |     shock, and any other      |
+|                |     work        |     recognizable hazard.      |
+|                |                 |                               |
+|                |    environment. | -   Toe and metatarsal        |
+|                |                 |     protection, puncture      |
+|                |                 |     resistance, and/or        |
+|                |                 |     dielectric protection     |
+|                |                 |     must be used where        |
+|                |                 |     appropriate.              |
+|                |                 |                               |
+|                |                 | -   Caulked or other equally  |
+|                |                 |     effective footwear must   |
+|                |                 |     be worn by workers who    |
+|                |                 |     are required to walk on   |
+|                |                 |     logs, piles, pilings or   |
+|                |                 |     other round timbers.      |
++----------------+-----------------+-------------------------------+
+| Hearing        | -               | -   If those levels cannot be |
+| protection     |    WorkSafeBC's |     practicably met, the      |
+|                |     regulations |     employer must:            |
+|                |     regarding   |                               |
+|                |     noise       |     -   Reduce levels as low  |
+|                |     exposure    |         as \> possible        |
+|                |     are:        |                               |
+|                |                 |     -   Provide to workers \> |
+|                |     -   85dBA   |         hearing protection \> |
+|                |         Lex \>  |         that meets CSA \>     |
+|                |         daily   |         standards, and ensure |
+|                |         \>      |         \> it is worn         |
+|                |         noise   |         effectively \> in     |
+|                |         \>      |         noise hazard areas    |
+|                |                 |                               |
+|                |        exposure |                               |
+|                |         \>      |                               |
+|                |         level   |                               |
+|                |                 |                               |
+|                |     -   140 DBC |                               |
+|                |         \> peak |                               |
+|                |         \>      |                               |
+|                |         sound   |                               |
+|                |         \>      |                               |
+|                |         level   |                               |
++----------------+-----------------+-------------------------------+
+| Bear Spray /   | -   Always worn | -   Must be readily available |
+| Bangers        |     in remote   |     in case of any bear       |
+|                |     locations   |     sighting.                 |
+|                |                 |                               |
+|                | -   Inspected   | -   Must be carried for all   |
+|                |     regularly   |     remote worksites or       |
+|                |     and stored  |     worksites where there is  |
+|                |     in a safe,  |     potential bear activity.  |
+|                |     dry place.  |                               |
+|                |                 | -   Ensure equipment has      |
+|                |                 |     current use by date       |
+|                |                 |     attached.                 |
++----------------+-----------------+-------------------------------+
+
+## WHMIS orientation and location of the Material Safety Data Sheets (MSDS)
+
+## Records of Training
+
+A training log of all employee training/certifications can be found in the data folder [here](https://github.com/NewGraphEnvironment/hsp/blob/master/data/training_log.csv).
+
+## Progressive discipline policy
+
+Actions and behaviors that create or facilitate unsafe working
+environments and elevate the risk of injury to company representatives,
+contractors and the public are unacceptable. To ensure that these
+actions and behaviors do not persist once identified, the following
+progressive discipline policy has been implemented.
+
+1.  Verbal Warning
+
+2.  Documented Warning
+
+3.  Letter of Reprimand
+
+4.  Discharge
 
 <!--chapter:end:0200-plans-assessments.Rmd-->
-
-# Random Forms
- 
-## New Worker Orientation 
-
-All employees and dependent contractors operating under your company's 
-safety plan must review the following general areas **on their first day 
-before they start work or when returning to work after an absence of 
-longer than 6 weeks**. 
- 
-
-## Tailboard Template 
-
-
- 
-
-
-<!--chapter:end:0300-forms.Rmd-->
 
 ---
 editor_options: 
@@ -636,13 +740,10 @@ editor_options:
 
 ## Driving {#driving .Style1}
 
-### PROCEDURES AND PRACTICES:
+### Procedures and Practices
 
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
-    Inspection and Mileage Log to track activity.
-
--   Report deficiencies and do not use if equipment is in unsafe
-    condition.
+    Inspection and Mileage Log to track activity.Report deficiencies and do not use if equipment is in     unsafe condition.
 
 -   Make notes of required maintenance in the mileage logbook when it is
     required and include "checking the logbook for required repairs" at
@@ -680,10 +781,9 @@ editor_options:
 -   Respect that loaded logging trucks have the right of way on single
     lane roads.
 
--   Do not tailgate other vehicles.
+-   Tailgating is driving too close behind other vehicles. It is extremely cangerous as it can lead to accidents if they vehicle in front of you brakes suddently or is in a collision/crash you can smash into them.  Leave a sufficient distance in front of the vehicle in front of you, even more so for logging trucks.  A good rule of thumb is to leave 3-4 seconds of time between when the vehicle in front of you passes a specific location and when you pass it.
 
--   Pass trucks or equipment only after you receive a clearly visible
-    and/or audible signal from the operator.
+-   Pass trucks or equipment only after you receive a clearly visible and/or audible signal from the operator.
 
 -   Never chase a runaway vehicle.
 
@@ -715,7 +815,7 @@ editor_options:
         others where you cannot keep min 2m distance. Upon exiting
         vehicle close door with elbow.
 
-### RADIO USE:
+### Radio Use
 
 -   Complete radio check and ensure correct frequency prior to entering
     radio controlled area.
@@ -732,9 +832,11 @@ editor_options:
     traffic protocols.
 
 -   Other than traffic control, pull over and safely park when talking
-    on the radio/cell phone for an extended period of time.
+    on the radio for an extended period of time.
 
-### PARKING:
+### Parking and Key Management
+
+* When working in the field, it is important to manage your keys. Always carry a spare key and keep it hidden somewhere on the vehicle that can be accessed if keys are lost. As a good practice and particularly important if you do not have a spare key - hide primary keys somewhere on your vehicle. Choose a location that is hard to see but easy to reach (ex: in gas cap or under bumper). Notify your co workers where they are in case of emergency.
 
 -   Park clear of traffic, away from active areas in pullouts or extra
     wide straight sections of road.
@@ -754,14 +856,13 @@ editor_options:
     towards the outside bank.
 
 -   Use flares where required.
+  
 
 ## All-terrain vehicles {#all-terrain-vehicles .Style1}
 
-![](fig/media/image4.png){width="7.958500656167979in"
-height="6.036744313210849in"}
-
-![](fig/media/image5.png){width="8.521936789151356in"
-height="6.4813320209973755in"}
+```{r}
+knitr::include_graphics('fig/media/all_terrain_vehicles.png')
+```
 
 ## Electrofishing {#electrofishing .Style1}
 
@@ -859,8 +960,6 @@ height="6.4813320209973755in"}
 -   Wear disposable gloves when assembling equipment or wipe down all
     touch points after assembly.
 
-## Boats {#boats .Style1}
-
 ## Culvert assessments and habitat confirmation assessments {#culvert-assessments-and-habitat-confirmation-assessments .Style1}
 
 See driving procedures including radio use and parking.
@@ -873,10 +972,10 @@ See driving procedures including radio use and parking.
     in the stream. Carefully assess your footing and be ready for
     slippery surfaces.
 
--   Use 2 walking poles when conducting in stream surveys. This allows
+-   Use 2 walking poles when conducting in stream surveys. Always maintain 3 points of contact with poles and your feet. This allows
     for much greater stability and avoids the risk of injury. As the in
     stream substrate typically consists of cobbles and boulders, it can
-    be very painful when falling. Poles are often used in photos to have
+    be very painful when falling. Be cautious of foot placement to lower risk of foot entrapment. Poles are often used in photos to have
     a frame of reference for measurements of stream characteristics. One
     pole can be used for scale, while the other one can remain in hand
     as a stabilizer.
@@ -891,14 +990,6 @@ See driving procedures including radio use and parking.
 -   High visibility field vest should be worn to avoid being mistaken
     for an animal by hunters.
 
--   When separated from crew members and working alone, it is critical
-    that you carry a satellite communicator and walkie-talkie to
-    communicate and check in with crew. It is also wise to arrange a
-    meet up time and place before separated. Additionally, you must also
-    carry bear spray. Make a lot of noise periodically to alert bears in
-    the area of your presence. Optionally, it can be effective to have a
-    bluetooth speaker to play music.
-
 -   Navigating to sites often requires the use of handheld devices such
     as phones, two-way radios or GPS which should either be used by a
     non-driving crew member or mounted on the windshield where they can
@@ -911,7 +1002,21 @@ See driving procedures including radio use and parking.
     and between crew members and check in people before going in the
     field.
 
-## Bears {#bears .Style1}
+## Working Alone
+
+Working alone means working in circumstances where assistance would not be readily available to the worker in case of an emergency. There can be circumstances in the field where the worker will be conducting a survey alone. The lone worker must abide by the following procedures:
+
+* Designate a contact person to check in with on a pre planned schedule. Arrange a meet up time and place before getting separated. 
+
+* The worker must carry a functioning communication device such as a cell phone, two-way radio, and a inreach satellite communicator. Carrying all three is highly recommended.  
+
+* Carry bear spray. Make a lot of noise periodically to alert bears in the area of your presence. Optionally, it can be effective to have a bluetooth speaker to play music.
+    
+* If the lone worker fails to check in, then the contact person must initiate search procedures. See Procedures for Failed Check-In section of Field Safety Plan. 
+
+## Wildlife Encounters 
+
+### Bears {#bears .Style1}
 
 +---------------------+-----------------------------------------------+
 | **Situation**       | **Recommended actions**                       |
@@ -1015,9 +1120,50 @@ See driving procedures including radio use and parking.
 Staying safe in bear country video:
 <https://www.youtube.com/watch?v=s-zkGuh42l4&ab_channel=bearbiology>
 
-# Appendixes
+### Cougars
 
-## Appendix 4 - First Aid Requirements {.unnumbered}
+* Make a lot of noise when working and walking
+* Avoid cougar kills. Cougars cover their kills with dirt and leaves and return later. Be aware for circling birds and other scavengers; these could indicate there is a kill site nearby.
+* **If you encounter a cougar:**
+  + Don't run, this might trigger a pursuit
+  + Don't turn your back, always keep the cougar in front of you
+* **If the cougar shows interest in you** (staring, crouching, creeping, tail twitching):
+  + Make eye contact
+  + Make yourself look big
+  + Show your teeth, pretend to be a predator
+  + Make loud noises
+  + Arm yourself with anything you can find
+* **If the cougar attacks:**
+  + Fight back, convince the cougar you are the predator and not the prey
+  + Yell or make loud, intimidating noises
+  + Focus your attacks on the cougar's nose, face, and eyes
+
+### Moose
+
+A moose will charge to ward off a potential threat. Assure the moose that you are not a threat.
+
+* **Signs of an aggressive moose:**
+  + Walking in your direction
+  + Stomping its feet
+  + Peeling its ears back
+  + Grunting
+  + Throwing its head back and forth
+* **How to prevent and survive a moose attack:**
+  + Back away with palms facing the moose
+  + Speak softly and reassuringly to it
+  + If the moose charges then get behind a large tree or rock, most moose charges are bluffs
+  + If the moose attacks you then fake death by curling up in a ball, protect your neck and back
+
+
+<!--chapter:end:0300-safe-work-procedures.Rmd-->
+
+# Appendices {.unnumbered}
+
+## Appendix 1 - New Worker Orientation {.unnumbered}
+
+## Appendix 2 - Tailboard Template {.unnumbered}
+
+## Appendix 3 - First Aid Requirements {.unnumbered}
 
 **Table 1**: This table applies to a workplace that an employer
 determines under section 3.16 (2) (b) of the Regulation creates a low
@@ -1025,7 +1171,7 @@ risk of injury and that is more than 20 minutes surface travel time away
 from a hospital.
 
 +------------+------------+------------+------------+------------+
-| **It em**  | **Column   | **Column   | **Column   | **Column   |
+| **Item**   | **Column   | **Column   | **Column   | **Column   |
 |            | 1\         | 2\         | 3\         | 4\         |
 |            | Number of  | Supplies,  | Level of   | Transp     |
 |            | workers    | equipment, | first aid  | ortation** |
@@ -1357,2491 +1503,7 @@ from a hospital.
 |            |            |  equipment |            |            |
 +------------+------------+------------+------------+------------+
 
-## Appendix 5 - Contractor Selection and Safety Checklist {.unnumbered}
-
-**Contractor Selection Form**
-
-+---+---+---+
-| C |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| : |   |   |
-+===+===+===+
-| N |   |   |
-| a |   |   |
-| m |   |   |
-| e |   |   |
-| o |   |   |
-| f |   |   |
-| C |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| : |   |   |
-+---+---+---+
-| A |   |   |
-| d |   |   |
-| d |   |   |
-| r |   |   |
-| e |   |   |
-| s |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| P |   | F |
-| h |   | a |
-| o |   | x |
-| n |   | : |
-| e |   |   |
-| : |   |   |
-+---+---+---+
-| W |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| S |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| B |   |   |
-| C |   |   |
-| E |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| o |   |   |
-| y |   |   |
-| e |   |   |
-| r |   |   |
-| I |   |   |
-| D |   |   |
-| : |   |   |
-+---+---+---+
-| W |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| S |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| B |   |   |
-| C |   |   |
-| c |   |   |
-| u |   |   |
-| r |   |   |
-| r |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| s |   |   |
-| t |   |   |
-| a |   |   |
-| n |   |   |
-| d |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| ( |   |   |
-| a |   |   |
-| t |   |   |
-| t |   |   |
-| a |   |   |
-| c |   |   |
-| h |   |   |
-| c |   |   |
-| l |   |   |
-| e |   |   |
-| a |   |   |
-| r |   |   |
-| a |   |   |
-| n |   |   |
-| c |   |   |
-| e |   |   |
-| l |   |   |
-| e |   |   |
-| t |   |   |
-| t |   |   |
-| e |   |   |
-| r |   |   |
-| ) |   |   |
-| : |   |   |
-+---+---+---+
-| W |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| S |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| B |   |   |
-| C |   |   |
-| a |   |   |
-| s |   |   |
-| s |   |   |
-| e |   |   |
-| s |   |   |
-| s |   |   |
-| m |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| t |   |   |
-| e |   |   |
-| ( |   |   |
-| i |   |   |
-| n |   |   |
-| d |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| r |   |   |
-| y |   |   |
-| a |   |   |
-| v |   |   |
-| e |   |   |
-| r |   |   |
-| a |   |   |
-| g |   |   |
-| e |   |   |
-| o |   |   |
-| r |   |   |
-| l |   |   |
-| o |   |   |
-| w |   |   |
-| e |   |   |
-| r |   |   |
-| ) |   |   |
-| : |   |   |
-+---+---+---+
-| D |   |   |
-| e |   |   |
-| s |   |   |
-| c |   |   |
-| r |   |   |
-| i |   |   |
-| p |   |   |
-| t |   |   |
-| i |   |   |
-| o |   |   |
-| n |   |   |
-| o |   |   |
-| f |   |   |
-| w |   |   |
-| r |   |   |
-| i |   |   |
-| t |   |   |
-| t |   |   |
-| e |   |   |
-| n |   |   |
-| W |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| S |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| B |   |   |
-| C |   |   |
-| o |   |   |
-| r |   |   |
-| d |   |   |
-| e |   |   |
-| r |   |   |
-| s |   |   |
-| i |   |   |
-| n |   |   |
-| p |   |   |
-| a |   |   |
-| s |   |   |
-| t |   |   |
-| 2 |   |   |
-| 4 |   |   |
-| m |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| h |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| R |   |   |
-| e |   |   |
-| f |   |   |
-| e |   |   |
-| r |   |   |
-| e |   |   |
-| n |   |   |
-| c |   |   |
-| e |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| P |   |   |
-| r |   |   |
-| e |   |   |
-| v |   |   |
-| i |   |   |
-| o |   |   |
-| u |   |   |
-| s |   |   |
-| w |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| h |   |   |
-| i |   |   |
-| s |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| y |   |   |
-| : |   |   |
-+---+---+---+
-| U |   |   |
-| s |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| p |   |   |
-| r |   |   |
-| e |   |   |
-| v |   |   |
-| i |   |   |
-| o |   |   |
-| u |   |   |
-| s |   |   |
-| y |   |   |
-| e |   |   |
-| a |   |   |
-| r |   |   |
-| \ |   |   |
-| ' |   |   |
-| s |   |   |
-| e |   |   |
-| x |   |   |
-| p |   |   |
-| e |   |   |
-| r |   |   |
-| i |   |   |
-| e |   |   |
-| n |   |   |
-| c |   |   |
-| e |   |   |
-| , |   |   |
-| c |   |   |
-| o |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| e |   |   |
-| t |   |   |
-| e |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| f |   |   |
-| o |   |   |
-| l |   |   |
-| l |   |   |
-| o |   |   |
-| w |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| : |   |   |
-+---+---+---+
-| N |   | N |
-| u |   | u |
-| m |   | m |
-| b |   | b |
-| e |   | e |
-| r |   | r |
-| o |   | o |
-| f |   | f |
-| f |   | r |
-| i |   | e |
-| r |   | c |
-| s |   | o |
-| t |   | r |
-| a |   | d |
-| i |   | a |
-| d |   | b |
-| c |   | l |
-| a |   | e |
-| s |   | i |
-| e |   | n |
-| s |   | c |
-| : |   | i |
-|   |   | d |
-|   |   | e |
-|   |   | n |
-|   |   | t |
-|   |   | s |
-|   |   | : |
-+---+---+---+
-| N |   | N |
-| u |   | u |
-| m |   | m |
-| b |   | b |
-| e |   | e |
-| r |   | r |
-| o |   | o |
-| f |   | f |
-| l |   | l |
-| o |   | o |
-| s |   | s |
-| t |   | t |
-| t |   | d |
-| i |   | a |
-| m |   | y |
-| e |   | s |
-| c |   | : |
-| a |   |   |
-| s |   |   |
-| e |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| S |   |   |
-| e |   |   |
-| v |   |   |
-| e |   |   |
-| r |   |   |
-| i |   |   |
-| t |   |   |
-| y |   |   |
-| R |   |   |
-| a |   |   |
-| t |   |   |
-| e |   |   |
-| ( |   |   |
-| [ |   |   |
-| \ |   |   |
-| \ |   |   |
-| # |   |   |
-| o |   |   |
-| f |   |   |
-| d |   |   |
-| a |   |   |
-| y |   |   |
-| s |   |   |
-| l |   |   |
-| o |   |   |
-| s |   |   |
-| t |   |   |
-| X |   |   |
-| 2 |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| , |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| ] |   |   |
-| { |   |   |
-| . |   |   |
-| u |   |   |
-| n |   |   |
-| d |   |   |
-| e |   |   |
-| r |   |   |
-| l |   |   |
-| i |   |   |
-| n |   |   |
-| e |   |   |
-| } |   |   |
-| ) |   |   |
-| : |   |   |
-+---+---+---+
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| T |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| w |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| k |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-+---+---+---+
-| E |   |   |
-| x |   |   |
-| p |   |   |
-| o |   |   |
-| s |   |   |
-| u |   |   |
-| r |   |   |
-| e |   |   |
-| H |   |   |
-| o |   |   |
-| u |   |   |
-| r |   |   |
-| s |   |   |
-+---+---+---+
-| M |   |   |
-| e |   |   |
-| d |   |   |
-| i |   |   |
-| c |   |   |
-| a |   |   |
-| l |   |   |
-| I |   |   |
-| n |   |   |
-| c |   |   |
-| i |   |   |
-| d |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| R |   |   |
-| a |   |   |
-| t |   |   |
-| e |   |   |
-| ( |   |   |
-| M |   |   |
-| I |   |   |
-| R |   |   |
-| = |   |   |
-| [ |   |   |
-| \ |   |   |
-| \ |   |   |
-| # |   |   |
-| o |   |   |
-| f |   |   |
-| r |   |   |
-| e |   |   |
-| c |   |   |
-| o |   |   |
-| r |   |   |
-| d |   |   |
-| a |   |   |
-| b |   |   |
-| l |   |   |
-| e |   |   |
-| i |   |   |
-| n |   |   |
-| c |   |   |
-| i |   |   |
-| d |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| s |   |   |
-| X |   |   |
-| 2 |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| , |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| 0 |   |   |
-| ] |   |   |
-| { |   |   |
-| . |   |   |
-| u |   |   |
-| n |   |   |
-| d |   |   |
-| e |   |   |
-| r |   |   |
-| l |   |   |
-| i |   |   |
-| n |   |   |
-| e |   |   |
-| } |   |   |
-| ) |   |   |
-| : |   |   |
-+---+---+---+
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| T |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| w |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| k |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-+---+---+---+
-| E |   |   |
-| x |   |   |
-| p |   |   |
-| o |   |   |
-| s |   |   |
-| u |   |   |
-| r |   |   |
-| e |   |   |
-| H |   |   |
-| o |   |   |
-| u |   |   |
-| r |   |   |
-| s |   |   |
-+---+---+---+
-| N |   |   |
-| u |   |   |
-| m |   |   |
-| b |   |   |
-| e |   |   |
-| r |   |   |
-| o |   |   |
-| f |   |   |
-| f |   |   |
-| a |   |   |
-| t |   |   |
-| a |   |   |
-| l |   |   |
-| i |   |   |
-| t |   |   |
-| i |   |   |
-| e |   |   |
-| s |   |   |
-| i |   |   |
-| n |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| l |   |   |
-| a |   |   |
-| s |   |   |
-| t |   |   |
-| f |   |   |
-| i |   |   |
-| v |   |   |
-| e |   |   |
-| y |   |   |
-| e |   |   |
-| a |   |   |
-| r |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| H |   |   |
-| o |   |   |
-| w |   |   |
-| o |   |   |
-| f |   |   |
-| t |   |   |
-| e |   |   |
-| n |   |   |
-| a |   |   |
-| r |   |   |
-| e |   |   |
-| s |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| t |   |   |
-| y |   |   |
-| m |   |   |
-| e |   |   |
-| e |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| s |   |   |
-| h |   |   |
-| e |   |   |
-| l |   |   |
-| d |   |   |
-| w |   |   |
-| i |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| o |   |   |
-| y |   |   |
-| e |   |   |
-| e |   |   |
-| s |   |   |
-| : |   |   |
-+---+---+---+
-| A |   |   |
-| r |   |   |
-| e |   |   |
-| w |   |   |
-| o |   |   |
-| r |   |   |
-| k |   |   |
-| s |   |   |
-| i |   |   |
-| t |   |   |
-| e |   |   |
-| i |   |   |
-| n |   |   |
-| s |   |   |
-| p |   |   |
-| e |   |   |
-| c |   |   |
-| t |   |   |
-| i |   |   |
-| o |   |   |
-| n |   |   |
-| s |   |   |
-| h |   |   |
-| e |   |   |
-| l |   |   |
-| d |   |   |
-| : |   |   |
-+---+---+---+
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| A |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| p |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| y |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| f |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| w |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| f |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| y |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| p |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| g |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| m |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| . |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| I |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| w |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| p |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| g |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| m |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| h |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| b |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| f |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| k |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| y |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| p |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| p |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| v |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| ( |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| d |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| g |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| q |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| l |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| f |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| s |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| ) |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| . |   |   |
-|   |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| O |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| r |   |   |
-| p |   |   |
-| r |   |   |
-| o |   |   |
-| c |   |   |
-| e |   |   |
-| d |   |   |
-| u |   |   |
-| r |   |   |
-| e |   |   |
-| s |   |   |
-| y |   |   |
-| o |   |   |
-| u |   |   |
-| n |   |   |
-| e |   |   |
-| e |   |   |
-| d |   |   |
-| t |   |   |
-| o |   |   |
-| b |   |   |
-| e |   |   |
-| a |   |   |
-| w |   |   |
-| a |   |   |
-| r |   |   |
-| e |   |   |
-| o |   |   |
-| f |   |   |
-| i |   |   |
-| f |   |   |
-| y |   |   |
-| o |   |   |
-| u |   |   |
-| a |   |   |
-| r |   |   |
-| e |   |   |
-| a |   |   |
-| w |   |   |
-| a |   |   |
-| r |   |   |
-| d |   |   |
-| e |   |   |
-| d |   |   |
-| t |   |   |
-| h |   |   |
-| i |   |   |
-| s |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| c |   |   |
-| l |   |   |
-| u |   |   |
-| d |   |   |
-| e |   |   |
-| : |   |   |
-|   |   |   |
-| p |   |   |
-| e |   |   |
-| r |   |   |
-| i |   |   |
-| o |   |   |
-| d |   |   |
-| i |   |   |
-| c |   |   |
-| a |   |   |
-| u |   |   |
-| d |   |   |
-| i |   |   |
-| t |   |   |
-| s |   |   |
-| b |   |   |
-| y |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| c |   |   |
-| o |   |   |
-| m |   |   |
-| p |   |   |
-| a |   |   |
-| n |   |   |
-| y |   |   |
-| . |   |   |
-|   |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| a |   |   |
-| n |   |   |
-| d |   |   |
-| a |   |   |
-| n |   |   |
-| y |   |   |
-| s |   |   |
-| u |   |   |
-| b |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| m |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| r |   |   |
-| e |   |   |
-| v |   |   |
-| i |   |   |
-| e |   |   |
-| w |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| i |   |   |
-| n |   |   |
-| c |   |   |
-| i |   |   |
-| d |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| v |   |   |
-| e |   |   |
-| s |   |   |
-| t |   |   |
-| i |   |   |
-| g |   |   |
-| a |   |   |
-| t |   |   |
-| i |   |   |
-| o |   |   |
-| n |   |   |
-| & |   |   |
-| r |   |   |
-| e |   |   |
-| p |   |   |
-| o |   |   |
-| r |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| r |   |   |
-| e |   |   |
-| q |   |   |
-| u |   |   |
-| i |   |   |
-| r |   |   |
-| e |   |   |
-| m |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| s |   |   |
-| , |   |   |
-| p |   |   |
-| o |   |   |
-| l |   |   |
-| i |   |   |
-| c |   |   |
-| i |   |   |
-| e |   |   |
-| s |   |   |
-| a |   |   |
-| n |   |   |
-| d |   |   |
-| p |   |   |
-| r |   |   |
-| o |   |   |
-| c |   |   |
-| e |   |   |
-| d |   |   |
-| u |   |   |
-| r |   |   |
-| e |   |   |
-| s |   |   |
-| w |   |   |
-| i |   |   |
-| t |   |   |
-| h |   |   |
-| a |   |   |
-| l |   |   |
-| l |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| i |   |   |
-| r |   |   |
-| e |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| o |   |   |
-| y |   |   |
-| e |   |   |
-| e |   |   |
-| s |   |   |
-| a |   |   |
-| t |   |   |
-| l |   |   |
-| e |   |   |
-| a |   |   |
-| s |   |   |
-| t |   |   |
-| a |   |   |
-| n |   |   |
-| n |   |   |
-| u |   |   |
-| a |   |   |
-| l |   |   |
-| l |   |   |
-| y |   |   |
-| . |   |   |
-|   |   |   |
-| A |   |   |
-| l |   |   |
-| l |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| a |   |   |
-| n |   |   |
-| d |   |   |
-| s |   |   |
-| u |   |   |
-| b |   |   |
-|   |   |   |
-| - |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| m |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| b |   |   |
-| e |   |   |
-| c |   |   |
-| e |   |   |
-| r |   |   |
-| t |   |   |
-| i |   |   |
-| f |   |   |
-| i |   |   |
-| e |   |   |
-| d |   |   |
-| w |   |   |
-| i |   |   |
-| t |   |   |
-| h |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| B |   |   |
-| C |   |   |
-| F |   |   |
-| o |   |   |
-| r |   |   |
-| e |   |   |
-| s |   |   |
-| t |   |   |
-| S |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| t |   |   |
-| y |   |   |
-| C |   |   |
-| o |   |   |
-| u |   |   |
-| n |   |   |
-| c |   |   |
-| i |   |   |
-| l |   |   |
-| . |   |   |
-|   |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| m |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| c |   |   |
-| o |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| y |   |   |
-| w |   |   |
-| i |   |   |
-| t |   |   |
-| h |   |   |
-| a |   |   |
-| l |   |   |
-| l |   |   |
-| a |   |   |
-| p |   |   |
-| p |   |   |
-| l |   |   |
-| i |   |   |
-| c |   |   |
-| a |   |   |
-| b |   |   |
-| l |   |   |
-| e |   |   |
-| g |   |   |
-| o |   |   |
-| v |   |   |
-| e |   |   |
-| r |   |   |
-| n |   |   |
-| m |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| e |   |   |
-| g |   |   |
-| u |   |   |
-| l |   |   |
-| a |   |   |
-| t |   |   |
-| i |   |   |
-| o |   |   |
-| n |   |   |
-| s |   |   |
-| a |   |   |
-| n |   |   |
-| d |   |   |
-| l |   |   |
-| e |   |   |
-| g |   |   |
-| i |   |   |
-| s |   |   |
-| l |   |   |
-| a |   |   |
-| t |   |   |
-| i |   |   |
-| o |   |   |
-| n |   |   |
-| . |   |   |
-|   |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| m |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| h |   |   |
-| a |   |   |
-| v |   |   |
-| e |   |   |
-| a |   |   |
-| p |   |   |
-| r |   |   |
-| o |   |   |
-| c |   |   |
-| e |   |   |
-| s |   |   |
-| s |   |   |
-| f |   |   |
-| o |   |   |
-| r |   |   |
-| i |   |   |
-| n |   |   |
-| v |   |   |
-| e |   |   |
-| s |   |   |
-| t |   |   |
-| i |   |   |
-| g |   |   |
-| a |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| i |   |   |
-| n |   |   |
-| c |   |   |
-| i |   |   |
-| d |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| s |   |   |
-| . |   |   |
-|   |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| m |   |   |
-| u |   |   |
-| s |   |   |
-| t |   |   |
-| p |   |   |
-| r |   |   |
-| o |   |   |
-| v |   |   |
-| i |   |   |
-| d |   |   |
-| e |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| i |   |   |
-| n |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| t |   |   |
-| o |   |   |
-| a |   |   |
-| l |   |   |
-| l |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| i |   |   |
-| r |   |   |
-| e |   |   |
-| m |   |   |
-| p |   |   |
-| l |   |   |
-| o |   |   |
-| y |   |   |
-| e |   |   |
-| e |   |   |
-| s |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| h |   |   |
-| a |   |   |
-| z |   |   |
-| a |   |   |
-| r |   |   |
-| d |   |   |
-| s |   |   |
-| a |   |   |
-| s |   |   |
-| s |   |   |
-| o |   |   |
-| c |   |   |
-| i |   |   |
-| a |   |   |
-| t |   |   |
-| e |   |   |
-| d |   |   |
-| w |   |   |
-| i |   |   |
-| t |   |   |
-| h |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| j |   |   |
-| o |   |   |
-| b |   |   |
-| t |   |   |
-| h |   |   |
-| e |   |   |
-| y |   |   |
-| a |   |   |
-| r |   |   |
-| e |   |   |
-| b |   |   |
-| e |   |   |
-| i |   |   |
-| n |   |   |
-| g |   |   |
-| d |   |   |
-| i |   |   |
-| r |   |   |
-| e |   |   |
-| c |   |   |
-| t |   |   |
-| e |   |   |
-| d |   |   |
-| t |   |   |
-| o |   |   |
-| d |   |   |
-| o |   |   |
-| . |   |   |
-|   |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| r |   |   |
-| a |   |   |
-| c |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| s |   |   |
-| a |   |   |
-| f |   |   |
-| e |   |   |
-| t |   |   |
-| y |   |   |
-| p |   |   |
-| e |   |   |
-| r |   |   |
-| f |   |   |
-| o |   |   |
-| r |   |   |
-| m |   |   |
-| a |   |   |
-| n |   |   |
-| c |   |   |
-| e |   |   |
-| w |   |   |
-| i |   |   |
-| l |   |   |
-| l |   |   |
-| b |   |   |
-| e |   |   |
-| m |   |   |
-| o |   |   |
-| n |   |   |
-| i |   |   |
-| t |   |   |
-| o |   |   |
-| r |   |   |
-| e |   |   |
-| d |   |   |
-| f |   |   |
-| o |   |   |
-| r |   |   |
-| c |   |   |
-| o |   |   |
-| n |   |   |
-| t |   |   |
-| i |   |   |
-| n |   |   |
-| u |   |   |
-| a |   |   |
-| l |   |   |
-| i |   |   |
-| m |   |   |
-| p |   |   |
-| r |   |   |
-| o |   |   |
-| v |   |   |
-| e |   |   |
-| m |   |   |
-| e |   |   |
-| n |   |   |
-| t |   |   |
-| . |   |   |
-+---+---+---+
-| - |   | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| - |   | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| C |   | D |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   | a |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   | t |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   | e |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   | : |
-|   |   |   |
-|   |   | - |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   | - |
-|   |   |   |
-|   |   |   |
-| c |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| o |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| S |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| i |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| g |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| n |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| a |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| t |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| u |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| r |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| e |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| : |   |   |
-|   |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| - |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-+---+---+---+
-
-**Contractor Safety Checklist**
-
-To be completed at the commencement of activities at the start of the
-year and then on a quarterly basis thereafter.
-
-+---------------+-----------------+---------------+---------------+
-|               |                 | **Contractor  |               |
-| **            |                 | Contact:**    |               |
-| Contractor:** |                 |               |               |
-+:==============+=================+:==============+===============+
-| **Location:** |                 | **Date:**     |               |
-+---------------+-----------------+---------------+---------------+
-
-+---------------+-----------+-----------+-----------+-----------+
-| **Item**      |           | -   \*Ye  | **No**    | **Co      |
-|               |           |           |           | mments**  |
-|               |           | s\*\*     |           |           |
-+===============+===========+===========+===========+===========+
-| ***Will a     |           |           |           |           |
-| qualified     |           |           |           |           |
-| supervisor    |           |           |           |           |
-| who meets the |           |           |           |           |
-| criteria      |           |           |           |           |
-| below be on   |           |           |           |           |
-| site at all   |           |           |           |           |
-| times?***     |           |           |           |           |
-|               |           |           |           |           |
-| ***Qualified  |           |           |           |           |
-| S             |           |           |           |           |
-| upervision*** |           |           |           |           |
-| means a       |           |           |           |           |
-| person who    |           |           |           |           |
-| instructs,    |           |           |           |           |
-| directs and   |           |           |           |           |
-| controls      |           |           |           |           |
-| workers in    |           |           |           |           |
-| the           |           |           |           |           |
-| performance   |           |           |           |           |
-| of their      |           |           |           |           |
-| duties and    |           |           |           |           |
-| who is        |           |           |           |           |
-| knowledgeable |           |           |           |           |
-| of the work,  |           |           |           |           |
-| the hazards   |           |           |           |           |
-| involved and  |           |           |           |           |
-| the means to  |           |           |           |           |
-| control the   |           |           |           |           |
-| hazards, by   |           |           |           |           |
-| reason of     |           |           |           |           |
-| education,    |           |           |           |           |
-| training,     |           |           |           |           |
-| experience or |           |           |           |           |
-| a combination |           |           |           |           |
-| thereof.      |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| How is your   |           |           |           |           |
-| organization  |           |           |           |           |
-| identifying   |           |           |           |           |
-| and           |           |           |           |           |
-| communicating |           |           |           |           |
-| hazards in    |           |           |           |           |
-| the           |           |           |           |           |
-| workplace?    |           |           |           |           |
-| documentation |           |           |           |           |
-| required      |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What does     |           |           |           |           |
-| your          |           |           |           |           |
-| organization  |           |           |           |           |
-| pre-work      |           |           |           |           |
-| planning      |           |           |           |           |
-| process look  |           |           |           |           |
-| like and what |           |           |           |           |
-| does your     |           |           |           |           |
-| ongoing block |           |           |           |           |
-| hazard        |           |           |           |           |
-| assessment    |           |           |           |           |
-| process look  |           |           |           |           |
-| like?         |           |           |           |           |
-| documentation |           |           |           |           |
-| required      |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| When do you   |           |           |           |           |
-| intend to     |           |           |           |           |
-| start         |           |           |           |           |
-| operations in |           |           |           |           |
-| the following |           |           |           |           |
-| blocks?       |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What does     |           |           |           |           |
-| your pre-work |           |           |           |           |
-| meeting look  |           |           |           |           |
-| like, does it |           |           |           |           |
-| include all   |           |           |           |           |
-| subs -- are   |           |           |           |           |
-| potential     |           |           |           |           |
-| hazards       |           |           |           |           |
-| identified    |           |           |           |           |
-| prior to      |           |           |           |           |
-| activities    |           |           |           |           |
-| occurring?    |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What does the |           |           |           |           |
-| firm's        |           |           |           |           |
-| orientation   |           |           |           |           |
-| process look  |           |           |           |           |
-| like for new  |           |           |           |           |
-| workers/      |           |           |           |           |
-| contractors / |           |           |           |           |
-| s             |           |           |           |           |
-| ubcontractors |           |           |           |           |
-| including     |           |           |           |           |
-| service       |           |           |           |           |
-| providers     |           |           |           |           |
-| arriving at   |           |           |           |           |
-| the worksite? |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| Defined Area  |           |           |           |           |
-| Safety        |           |           |           |           |
-| Orientation   |           |           |           |           |
-| reviewed with |           |           |           |           |
-| all           |           |           |           |           |
-| contractors / |           |           |           |           |
-| s             |           |           |           |           |
-| ubcontractors |           |           |           |           |
-| at the        |           |           |           |           |
-| Defined       |           |           |           |           |
-| Workplace     |           |           |           |           |
-| prior to      |           |           |           |           |
-| commencing    |           |           |           |           |
-| work          |           |           |           |           |
-| activities.   |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| Do all        |           |           |           |           |
-| contractors / |           |           |           |           |
-| su            |           |           |           |           |
-| bcontractors, |           |           |           |           |
-| in the        |           |           |           |           |
-| workplace     |           |           |           |           |
-| provide a     |           |           |           |           |
-| list of their |           |           |           |           |
-| designated    |           |           |           |           |
-| supervisors?  |           |           |           |           |
-| documentation |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| How does the  |           |           |           |           |
-| operation     |           |           |           |           |
-| coordinate    |           |           |           |           |
-| the           |           |           |           |           |
-| activities of |           |           |           |           |
-| all permitted |           |           |           |           |
-| persons       |           |           |           |           |
-| including     |           |           |           |           |
-| contractors / |           |           |           |           |
-| s             |           |           |           |           |
-| ubcontractors |           |           |           |           |
-| at the        |           |           |           |           |
-| workplace to  |           |           |           |           |
-| ensure the    |           |           |           |           |
-| Health and    |           |           |           |           |
-| Safety of all |           |           |           |           |
-| workers is    |           |           |           |           |
-| maintained?   |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What are your |           |           |           |           |
-| procedures in |           |           |           |           |
-| the workplace |           |           |           |           |
-| to ensure     |           |           |           |           |
-| safe access?  |           |           |           |           |
-| documentation |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What is the   |           |           |           |           |
-| process for   |           |           |           |           |
-| assessing the |           |           |           |           |
-| workplace     |           |           |           |           |
-| first aid     |           |           |           |           |
-| needs?        |           |           |           |           |
-| documentation |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| How are you   |           |           |           |           |
-| conducting    |           |           |           |           |
-| regular       |           |           |           |           |
-| inspections   |           |           |           |           |
-| of the        |           |           |           |           |
-| Workplace,    |           |           |           |           |
-| work methods  |           |           |           |           |
-| & practices,  |           |           |           |           |
-| including     |           |           |           |           |
-| worker        |           |           |           |           |
-| inspections?  |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| OHS site      |           |           |           |           |
-| safety plan   |           |           |           |           |
-| is in place   |           |           |           |           |
-| and available |           |           |           |           |
-| to all        |           |           |           |           |
-| persons.      |           |           |           |           |
-| contractors   |           |           |           |           |
-| and           |           |           |           |           |
-| s             |           |           |           |           |
-| ubcontractors |           |           |           |           |
-| at the        |           |           |           |           |
-| worksite.     |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What is your  |           |           |           |           |
-| safety        |           |           |           |           |
-| meeting       |           |           |           |           |
-| process? Are  |           |           |           |           |
-| all persons / |           |           |           |           |
-| contractors / |           |           |           |           |
-| s             |           |           |           |           |
-| ubcontractors |           |           |           |           |
-| at the        |           |           |           |           |
-| workplace     |           |           |           |           |
-| included in   |           |           |           |           |
-| the your OHS  |           |           |           |           |
-| program and   |           |           |           |           |
-| safety        |           |           |           |           |
-| meetings?     |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| Are all       |           |           |           |           |
-| safety        |           |           |           |           |
-| incidents     |           |           |           |           |
-| reported and  |           |           |           |           |
-| investigated? |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What does     |           |           |           |           |
-| your hazard   |           |           |           |           |
-| reporting and |           |           |           |           |
-| follow up     |           |           |           |           |
-| process look  |           |           |           |           |
-| like?         |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| What does     |           |           |           |           |
-| your ERP look |           |           |           |           |
-| like and how  |           |           |           |           |
-| was it        |           |           |           |           |
-| communicated  |           |           |           |           |
-| when it was   |           |           |           |           |
-| last tested?  |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| Do you have   |           |           |           |           |
-| safe work     |           |           |           |           |
-| procedures    |           |           |           |           |
-| for all       |           |           |           |           |
-| activities    |           |           |           |           |
-| being carried |           |           |           |           |
-| out?          |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-|               |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| **Signed off  |           |           |           |           |
-| on behalf of  |           |           |           |           |
-| Company:**    |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| **Signed off  |           |           |           |           |
-| by the        |           |           |           |           |
-| Contractor:** |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
-| **Dated:**    |           |           |           |           |
-+---------------+-----------+-----------+-----------+-----------+
+## Appendix 4 - Incidence/Close Call Template {.unnumbered}
 
 **Incident / Close Call Reporting Form**
 
@@ -4431,9 +2093,283 @@ by</strong></p></td>
 </tbody>
 </table>
 
-SEND A COPY OF THIS REPORT TO THE PARTY YOU REPORT TO.
+## Appendix 5 - Contractor Selection and Safety Checklist {.unnumbered}
 
-<!--chapter:end:0400-safe-work-procedures.Rmd-->
+**Contractor Selection Form**
+
+
+
+**Contractor Safety Checklist**
+
+To be completed at the commencement of activities at the start of the
+year and then on a quarterly basis thereafter.
+
++---------------+-----------------+---------------+---------------+
+|               |                 | **Contractor  |               |
+| **            |                 | Contact:**    |               |
+| Contractor:** |                 |               |               |
++:==============+=================+:==============+===============+
+| **Location:** |                 | **Date:**     |               |
++---------------+-----------------+---------------+---------------+
+
++---------------+-----------+-----------+-----------+-----------+
+| **Item**      |           | -   \*Ye  | **No**    | **Co      |
+|               |           |           |           | mments**  |
+|               |           | s\*\*     |           |           |
++===============+===========+===========+===========+===========+
+| ***Will a     |           |           |           |           |
+| qualified     |           |           |           |           |
+| supervisor    |           |           |           |           |
+| who meets the |           |           |           |           |
+| criteria      |           |           |           |           |
+| below be on   |           |           |           |           |
+| site at all   |           |           |           |           |
+| times?***     |           |           |           |           |
+|               |           |           |           |           |
+| ***Qualified  |           |           |           |           |
+| S             |           |           |           |           |
+| upervision*** |           |           |           |           |
+| means a       |           |           |           |           |
+| person who    |           |           |           |           |
+| instructs,    |           |           |           |           |
+| directs and   |           |           |           |           |
+| controls      |           |           |           |           |
+| workers in    |           |           |           |           |
+| the           |           |           |           |           |
+| performance   |           |           |           |           |
+| of their      |           |           |           |           |
+| duties and    |           |           |           |           |
+| who is        |           |           |           |           |
+| knowledgeable |           |           |           |           |
+| of the work,  |           |           |           |           |
+| the hazards   |           |           |           |           |
+| involved and  |           |           |           |           |
+| the means to  |           |           |           |           |
+| control the   |           |           |           |           |
+| hazards, by   |           |           |           |           |
+| reason of     |           |           |           |           |
+| education,    |           |           |           |           |
+| training,     |           |           |           |           |
+| experience or |           |           |           |           |
+| a combination |           |           |           |           |
+| thereof.      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How is your   |           |           |           |           |
+| organization  |           |           |           |           |
+| identifying   |           |           |           |           |
+| and           |           |           |           |           |
+| communicating |           |           |           |           |
+| hazards in    |           |           |           |           |
+| the           |           |           |           |           |
+| workplace?    |           |           |           |           |
+| documentation |           |           |           |           |
+| required      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your          |           |           |           |           |
+| organization  |           |           |           |           |
+| pre-work      |           |           |           |           |
+| planning      |           |           |           |           |
+| process look  |           |           |           |           |
+| like and what |           |           |           |           |
+| does your     |           |           |           |           |
+| ongoing block |           |           |           |           |
+| hazard        |           |           |           |           |
+| assessment    |           |           |           |           |
+| process look  |           |           |           |           |
+| like?         |           |           |           |           |
+| documentation |           |           |           |           |
+| required      |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| When do you   |           |           |           |           |
+| intend to     |           |           |           |           |
+| start         |           |           |           |           |
+| operations in |           |           |           |           |
+| the following |           |           |           |           |
+| blocks?       |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your pre-work |           |           |           |           |
+| meeting look  |           |           |           |           |
+| like, does it |           |           |           |           |
+| include all   |           |           |           |           |
+| subs -- are   |           |           |           |           |
+| potential     |           |           |           |           |
+| hazards       |           |           |           |           |
+| identified    |           |           |           |           |
+| prior to      |           |           |           |           |
+| activities    |           |           |           |           |
+| occurring?    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does the |           |           |           |           |
+| firm's        |           |           |           |           |
+| orientation   |           |           |           |           |
+| process look  |           |           |           |           |
+| like for new  |           |           |           |           |
+| workers/      |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| including     |           |           |           |           |
+| service       |           |           |           |           |
+| providers     |           |           |           |           |
+| arriving at   |           |           |           |           |
+| the worksite? |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Defined Area  |           |           |           |           |
+| Safety        |           |           |           |           |
+| Orientation   |           |           |           |           |
+| reviewed with |           |           |           |           |
+| all           |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| Defined       |           |           |           |           |
+| Workplace     |           |           |           |           |
+| prior to      |           |           |           |           |
+| commencing    |           |           |           |           |
+| work          |           |           |           |           |
+| activities.   |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Do all        |           |           |           |           |
+| contractors / |           |           |           |           |
+| su            |           |           |           |           |
+| bcontractors, |           |           |           |           |
+| in the        |           |           |           |           |
+| workplace     |           |           |           |           |
+| provide a     |           |           |           |           |
+| list of their |           |           |           |           |
+| designated    |           |           |           |           |
+| supervisors?  |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How does the  |           |           |           |           |
+| operation     |           |           |           |           |
+| coordinate    |           |           |           |           |
+| the           |           |           |           |           |
+| activities of |           |           |           |           |
+| all permitted |           |           |           |           |
+| persons       |           |           |           |           |
+| including     |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| workplace to  |           |           |           |           |
+| ensure the    |           |           |           |           |
+| Health and    |           |           |           |           |
+| Safety of all |           |           |           |           |
+| workers is    |           |           |           |           |
+| maintained?   |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What are your |           |           |           |           |
+| procedures in |           |           |           |           |
+| the workplace |           |           |           |           |
+| to ensure     |           |           |           |           |
+| safe access?  |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What is the   |           |           |           |           |
+| process for   |           |           |           |           |
+| assessing the |           |           |           |           |
+| workplace     |           |           |           |           |
+| first aid     |           |           |           |           |
+| needs?        |           |           |           |           |
+| documentation |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| How are you   |           |           |           |           |
+| conducting    |           |           |           |           |
+| regular       |           |           |           |           |
+| inspections   |           |           |           |           |
+| of the        |           |           |           |           |
+| Workplace,    |           |           |           |           |
+| work methods  |           |           |           |           |
+| & practices,  |           |           |           |           |
+| including     |           |           |           |           |
+| worker        |           |           |           |           |
+| inspections?  |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| OHS site      |           |           |           |           |
+| safety plan   |           |           |           |           |
+| is in place   |           |           |           |           |
+| and available |           |           |           |           |
+| to all        |           |           |           |           |
+| persons.      |           |           |           |           |
+| contractors   |           |           |           |           |
+| and           |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| worksite.     |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What is your  |           |           |           |           |
+| safety        |           |           |           |           |
+| meeting       |           |           |           |           |
+| process? Are  |           |           |           |           |
+| all persons / |           |           |           |           |
+| contractors / |           |           |           |           |
+| s             |           |           |           |           |
+| ubcontractors |           |           |           |           |
+| at the        |           |           |           |           |
+| workplace     |           |           |           |           |
+| included in   |           |           |           |           |
+| the your OHS  |           |           |           |           |
+| program and   |           |           |           |           |
+| safety        |           |           |           |           |
+| meetings?     |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Are all       |           |           |           |           |
+| safety        |           |           |           |           |
+| incidents     |           |           |           |           |
+| reported and  |           |           |           |           |
+| investigated? |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your hazard   |           |           |           |           |
+| reporting and |           |           |           |           |
+| follow up     |           |           |           |           |
+| process look  |           |           |           |           |
+| like?         |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| What does     |           |           |           |           |
+| your ERP look |           |           |           |           |
+| like and how  |           |           |           |           |
+| was it        |           |           |           |           |
+| communicated  |           |           |           |           |
+| when it was   |           |           |           |           |
+| last tested?  |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| Do you have   |           |           |           |           |
+| safe work     |           |           |           |           |
+| procedures    |           |           |           |           |
+| for all       |           |           |           |           |
+| activities    |           |           |           |           |
+| being carried |           |           |           |           |
+| out?          |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+|               |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Signed off  |           |           |           |           |
+| on behalf of  |           |           |           |           |
+| Company:**    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Signed off  |           |           |           |           |
+| by the        |           |           |           |           |
+| Contractor:** |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+| **Dated:**    |           |           |           |           |
++---------------+-----------+-----------+-----------+-----------+
+
+
+SEND A COPY OF THIS REPORT TO THE PARTY YOU REPORT TO.
+ 
+
+
+ 
+
+
+<!--chapter:end:0400-appendices.Rmd-->
 
 `r if (knitr::is_html_output()){ '
 # References {-}

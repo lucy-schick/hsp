@@ -11,10 +11,7 @@ editor_options:
 ### Procedures and Practices
 
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
-    Inspection and Mileage Log to track activity.
-
--   Report deficiencies and do not use if equipment is in unsafe
-    condition.
+    Inspection and Mileage Log to track activity.Report deficiencies and do not use if equipment is in     unsafe condition.
 
 -   Make notes of required maintenance in the mileage logbook when it is
     required and include "checking the logbook for required repairs" at
@@ -52,10 +49,9 @@ editor_options:
 -   Respect that loaded logging trucks have the right of way on single
     lane roads.
 
--   Do not tailgate other vehicles. Leave a sufficient distance in front of the vehicle in front of you, even more so for logging trucks.
+-   Tailgating is driving too close behind other vehicles. It is extremely cangerous as it can lead to accidents if they vehicle in front of you brakes suddently or is in a collision/crash you can smash into them.  Leave a sufficient distance in front of the vehicle in front of you, even more so for logging trucks.  A good rule of thumb is to leave 3-4 seconds of time between when the vehicle in front of you passes a specific location and when you pass it.
 
--   Pass trucks or equipment only after you receive a clearly visible
-    and/or audible signal from the operator.
+-   Pass trucks or equipment only after you receive a clearly visible and/or audible signal from the operator.
 
 -   Never chase a runaway vehicle.
 
@@ -104,9 +100,11 @@ editor_options:
     traffic protocols.
 
 -   Other than traffic control, pull over and safely park when talking
-    on the radio/cell phone for an extended period of time.
+    on the radio for an extended period of time.
 
-### Parking
+### Parking and Key Management
+
+* When working in the field, it is important to manage your keys. Always carry a spare key and keep it hidden somewhere on the vehicle that can be accessed if keys are lost. As a good practice and particularly important if you do not have a spare key - hide primary keys somewhere on your vehicle. Choose a location that is hard to see but easy to reach (ex: in gas cap or under bumper). Notify your co workers where they are in case of emergency.
 
 -   Park clear of traffic, away from active areas in pullouts or extra
     wide straight sections of road.
@@ -126,7 +124,7 @@ editor_options:
     towards the outside bank.
 
 -   Use flares where required.
-* When working in the field, it is important to manage your keys. Always carry a spare with you. After parking, hide keys somewhere on your vehicle. Choose a location that is hard to see but easy to reach (ex: in gas cap or under bumper). Notify your co workers where they are in case of emergency.  
+  
 
 ## All-terrain vehicles {#all-terrain-vehicles .Style1}
 

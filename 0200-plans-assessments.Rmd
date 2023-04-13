@@ -190,7 +190,7 @@ Examples of risks/hazards found in and around job sites include, but are not lim
 
 
 ```{r}
-knitr::include_graphics('fig/media/risk_matrix.png')
+knitr::include_graphics('fig/media/Risk_Matrix.png')
 ```
 
 ## Contractor Selection Policy
