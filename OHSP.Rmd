@@ -736,7 +736,7 @@ editor_options:
     wrap: 72
 ---
 
-# Safe Work Procedures
+# Safe Work Procedures and Practices
 
 ## Driving {#driving .Style1}
 
@@ -1154,6 +1154,31 @@ A moose will charge to ward off a potential threat. Assure the moose that you ar
   + If the moose charges then get behind a large tree or rock, most moose charges are bluffs
   + If the moose attacks you then fake death by curling up in a ball, protect your neck and back
 
+## Remote Working
+
+Approximately 75% of the work done at New Graph Environment is remote from the employee's home. Safe work practices are still important when working remotely. 
+
+### Ergonomics
+
+Ergonomics are an important part to any home office. Your home work space should meet basic ergonomic requirements in order to decrease risk of long term injuries. Listed below are a few guidelines:
+
+* It starts with a good chair. Ensure your chair is properly adjusted so that your wrists are straight, with hands below or at elbow level, knees are level with hips and thighs parallel to the floor, feet are flat on the ground, and the top of your computer display is positioned at or just below eye level. Get a chair with proper lumbar support.
+* Invest in a good mouse and keyboard that offer good wrist support and comfort.
+* Buy a proper desk that has enough room for all your equipment and is of appropriate height. Adjustable desks are a good option since you can switch between sitting and standing positions.
+* Do not sit in one place all day long. Make sure you get up and walk around and/or stretch throughout the day to relieve muscle and joint pain. 
+
+### Mental and Physical Health
+
+When working remotely, it is important to maintain your mental and physical health. 
+Listed below are a few ways to reduce stress and improve your mental and physical health:
+
+* Stick to a regular work routine and schedule every day, and switch off on your down time.
+* Take a break every now and then to get up and walk around. 
+* If a task you're working on is causing you too much stress then don't be afraid to delegate or ask for help, avoid burnout and overworking yourself.
+* Stick to a good work life balance, make time for socialising and enjoying your favorite hobbies/physical activities.
+* Sun exposure is limited when working inside and it can therefore be hard to get your daily Vitamin D requirements, consider taking a supplement.
+* Seasonal affective disorder can affect everyone and can cause a decrease in energy levels and change in mood in the winter time, ensure you go outside everyday and engage in regular physical activity to reduce stress levels.
+* When leaving the house to go to a work related meeting be aware of road conditions when driving, even when walking (steer clear of ice to avoid nasty falls).
 
 <!--chapter:end:0300-safe-work-procedures.Rmd-->
 

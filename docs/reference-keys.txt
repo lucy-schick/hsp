@@ -27,7 +27,7 @@ personal-protective-equipment-ppe-policy
 whmis-orientation-and-location-of-the-material-safety-data-sheets-msds
 records-of-training
 progressive-discipline-policy
-safe-work-procedures
+safe-work-procedures-and-practices
 driving
 procedures-and-practices
 radio-use
@@ -42,3 +42,6 @@ wildlife-encounters
 bears
 cougars
 moose
+remote-working
+ergonomics
+mental-and-physical-health
