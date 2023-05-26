@@ -36,7 +36,7 @@ notify the RCMP of a missing persons in field.
 
 ## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
-Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 4 - Incidence/Close Call Template].
+Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 3](#incident).
 
 ## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1}
 
@@ -204,7 +204,7 @@ to complete to ensure that they meet our requirements. Our policy is to
 always get a clearance letter before and after we receive services from
 a contractor to confirm whether they registered with worksafe BC and are
 paying premiums. The contractor selection and safety checklist forms are
-included as [Appendix 5 - Contractor Selection and Safety Checklist].
+included as [Appendix 4](#contractor).
 
 Of note, contractors are considered our workers if they do not operate
 as an independent business and are either not eligible for WorkSafeBC
