@@ -156,7 +156,7 @@ Incidents are situations in the workplace that resulted in or could have resulte
 -   If air evacuation is required, you must advise the communication
     centre you've reached; if road evacuation is used, then advise if
     you will be meeting the ambulance en route.
-    
+
 ### Fatality
 
 -   Ensure site is safe
@@ -171,9 +171,9 @@ Incidents are situations in the workplace that resulted in or could have resulte
 
 Conducting a systematic risk assessment will help identify the hazards that exist in the workplace, and how they may
 put workers at risk. To determine if we've done enough to protect
-our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity. 
+our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity.
 
-Examples of risks/hazards found in and around job sites include, but are not limited to: 
+Examples of risks/hazards found in and around job sites include, but are not limited to:
 
 * Wildlife
 * Swiftwater
@@ -188,10 +188,10 @@ Examples of risks/hazards found in and around job sites include, but are not lim
 * Open water
 * Overhead snags and sharp branches
 
-
 ```{r}
-knitr::include_graphics('fig/media/Risk_Matrix.png')
+knitr::include_graphics('fig/media/risk_matrix.png')
 ```
+
 
 ## Contractor Selection Policy
 
@@ -239,12 +239,13 @@ and Safety Regulation at
 |                | **Requirements**|                               |
 +================+=================+===============================+
 | High           | -   The apparel | -   When worker is outside of |
-| -visibility    |     must be a   |     the vehicle.              |
+| visibility     |     must be a   |     the vehicle.              |
 | clothing       |     color that  |                               |
 | (vest)         |     contrasts   | -   On all construction sites |
 |                |     with the    |                               |
+|                |     environment.|                               |
 |                |                 |                               |
-|                |    environment. |                               |
+|                |                 |                               |
 +----------------+-----------------+-------------------------------+
 | Limb and body  | -   Must be     | -   When the worker is        |
 | protection     |     free of     |     exposed to a substance or |
@@ -276,11 +277,11 @@ and Safety Regulation at
 |                |     or felt     |     required.                 |
 |                |     sole        |                               |
 |                |     footwear    |                               |
+|                |     specifically|                               |
+|                |     designed for|                               |
+|                |     stream work |                               |
 |                |                 |                               |
-|                |    specifically |                               |
-|                |     designed    |                               |
-|                |     for stream  |                               |
-|                |     work        |                               |
+|                |                 |                               |
 +----------------+-----------------+-------------------------------+
 | Polarized      |                 | -   Must be worn while        |
 | glasses        |                 |     working in and around     |
@@ -291,7 +292,7 @@ and Safety Regulation at
 | safety rope    |     line.       |                               |
 +----------------+-----------------+-------------------------------+
 | Personal       | -   Must be     | -   When worker is working    |
-| Floatation     |     Canadian    |     in/ or around deep open   |
+| Flotation      |     Canadian    |     in/ or around deep open   |
 | Device         |     General     |     water                     |
 |                |     Standards   |                               |
 |                |     Approved    |                               |
@@ -304,8 +305,8 @@ and Safety Regulation at
 |                |     exposure to |                               |
 |                |     sunlight.   |                               |
 +----------------+-----------------+-------------------------------+
-| Hard hats      | -   H           | -   Must be worn in any work  |
-|                | igh-visibility, |     area where there is a     |
+| Hard hats      | -   High-       | -   Must be worn in any work  |
+|                |     visibility, |     area where there is a     |
 |                |     hardhat.    |     danger of head injury     |
 |                |                 |     from falling, flying or   |
 |                | -   Cleaned     |     thrown objects, or other  |
@@ -339,18 +340,18 @@ and Safety Regulation at
 +----------------+-----------------+-------------------------------+
 | Safety         | -   Must be of  | -   Appropriate footwear must |
 | footwear       |     a design,   |     consider the following    |
-|                |                 |     factors: slipping, uneven |
-|                |    construction |     terrain, abrasion, ankle  |
-|                |     and         |     protection and foot       |
-|                |     material    |     support, crushing         |
-|                |     appropriate |     potential, temperature    |
-|                |     to the      |     extremes, corrosive       |
-|                |     protection  |     substances, puncture      |
-|                |     required    |     hazards, electrical       |
-|                |     for the     |     shock, and any other      |
-|                |     work        |     recognizable hazard.      |
+|                |     construction|     factors: slipping, uneven |
+|                |     and material|     terrain, abrasion, ankle  |
+|                |     appropriate |     protection and foot       |
+|                |     to the      |     support, crushing         |
+|                |     protection  |     potential, temperature    |
+|                |     required for|     extremes, corrosive       |
+|                |     the work    |     substances, puncture      |
+|                |     environment |     hazards, electrical       |
+|                |                 |     shock, and any other      |
+|                |                 |     recognizable hazard.      |
 |                |                 |                               |
-|                |    environment. | -   Toe and metatarsal        |
+|                |                 | -   Toe and metatarsal        |
 |                |                 |     protection, puncture      |
 |                |                 |     resistance, and/or        |
 |                |                 |     dielectric protection     |
@@ -364,30 +365,24 @@ and Safety Regulation at
 |                |                 |     logs, piles, pilings or   |
 |                |                 |     other round timbers.      |
 +----------------+-----------------+-------------------------------+
-| Hearing        | -               | -   If those levels cannot be |
-| protection     |    WorkSafeBC's |     practicably met, the      |
-|                |     regulations |     employer must:            |
-|                |     regarding   |                               |
-|                |     noise       |     -   Reduce levels as low  |
-|                |     exposure    |         as \> possible        |
-|                |     are:        |                               |
-|                |                 |     -   Provide to workers \> |
-|                |     -   85dBA   |         hearing protection \> |
-|                |         Lex \>  |         that meets CSA \>     |
-|                |         daily   |         standards, and ensure |
-|                |         \>      |         \> it is worn         |
-|                |         noise   |         effectively \> in     |
-|                |         \>      |         noise hazard areas    |
+| Hearing        | -   WorkSafeBC's| -   If those levels cannot be |
+| protection     |     regulations |     practicably met, the      |
+|                |     regarding   |     employer must:            |
+|                |     noise       |                               |
+|                |     exposure    |     -   Reduce levels as low  |
+|                |     are:        |         as possible           |
 |                |                 |                               |
-|                |        exposure |                               |
-|                |         \>      |                               |
-|                |         level   |                               |
+|                |                 |     -   Provide to workers    |
+|                |     -   85dBA   |         hearing protection    |
+|                |         Lex     |         that meets CSA        |
+|                |         daily   |         standards, and ensure |
+|                |         noise   |         it is worn            |
+|                |         exposure|         effectively in noise  |
+|                |         level   |         hazard areas          |
 |                |                 |                               |
 |                |     -   140 DBC |                               |
-|                |         \> peak |                               |
-|                |         \>      |                               |
+|                |         peak    |                               |
 |                |         sound   |                               |
-|                |         \>      |                               |
 |                |         level   |                               |
 +----------------+-----------------+-------------------------------+
 | Bear Spray /   | -   Always worn | -   Must be readily available |

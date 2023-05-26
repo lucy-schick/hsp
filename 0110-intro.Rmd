@@ -25,8 +25,9 @@ safety we:
 ## Forest Safety Accord
 
 ```{r}
-knitr::include_graphics('fig/media/forestry_accord.png')
+knitr::include_graphics('fig/media/forestry_accord2.png')
 ```
+
 
 ## Corrective Action Log
 
