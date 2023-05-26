@@ -95,5 +95,6 @@ pacman::p_load_gh("poissonconsulting/fwapgr",
                   'poissonconsulting/poisspatial',
                   "crsh/citr",
                   'rstudio/pagedown',
-                  "poissonconsulting/fishbc")
+                  "poissonconsulting/fishbc",
+                  "newgraphenvironment/fpr")
 # "poissonconsulting/subfoldr2")

@@ -33,14 +33,13 @@ knitr::include_graphics('fig/media/forestry_accord2.png')
 
 These corrective actions are to be completed by the person indicated,
 within the time frame allotted. If more time is required, or there are
-difficulties encountered, please contact Allan Irvine for assistance.
+difficulties encountered, please contact Allan Irvine for assistance. These comments or corrective actions are based on the quality assurance review by the BC Forest Safety Council.
 
-| **Item** | **Company Action Plan** | **Person Responsible** | **Due Date** | **Date Closed** |
-|----------|-------------------------|------------------------|--------------|-----------------|
-|          |                         |                        |              |                 |                         
-|          |                         |                        |              |                 |                         
-|          |                         |                        |              |                 |                         
-|          |                         |                        |              |                 |                         
+```{r}
+corr_action_log <- readr::read_csv(paste0(getwd(), '/data/corr_action_log.csv'))
+corr_action_log %>% 
+  fpr::fpr_kable(caption_text = "Corrective Action Log (last updated 2022)",scroll = F)
+```                        
 
 ## Safety Team Members
 
@@ -138,8 +137,7 @@ to protect themselves and others. All employees and dependent
 contractors operating under your company's safety plan must review the
 New Graph health and safety policies and safe work procedures on their
 first day before they start work or when returning to work after an
-absence of longer than 6 weeks. Template to be filled out is attached as
-[Appendix 1 - New Worker Orientation].
+absence of longer than 6 weeks. Template to be filled out is attached as [Appendix 1](#new-worker).
 
 ### Tailboards {#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list .Style1}
 
@@ -157,7 +155,7 @@ include references to field safety plans and contain:
 -   Hazard Inspections
 -   First Aid Assessments
 
-They are included in this plan as [Appendix 2 - Tailboard Template].
+They are included in this plan as [Appendix 2](#tailboard).
 
 ## First Aid equipment and procedures
 
@@ -195,9 +193,7 @@ in your workplace. First aid levels are outlined in the [OHS Regulation
 Schedule 3-A: Minimum Levels of First
 Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A).
 
-Below are the steps for a first aid assessment. Tables of scenarios
-based on the number of people working and the assessed hazard rating are
-included in [Appendix 3 - First Aid Requirements].
+Below are the steps for a first aid assessment.
 
 -   Identify the number of workplaces.
 
