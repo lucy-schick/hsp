@@ -2,14 +2,9 @@
 
 # in terminal
 
-# Open Microsoft Word: Open the Word document containing the table that you want to convert.
-# Convert the Word document to RMD: Save the Word document as a plain text file (.txt) or an HTML file (.html)
-# This step is necessary to ensure Pandoc can process the file correctly.
+# On mac Run the following command in the terminal to convert the Word document to md format
 
-# Run the following command in the terminal to convert the Word document to md format
-
-C:\pathToFile> pandoc NewGraph_OHSP_20220724.docx -f docx -t markdown -s -o NewGraph_OHSP_20220724.rmd
-
+  C:\pathToFile> pandoc NewGraph_OHSP_20220724.docx -o NewGraph_OHSP_20220724.md
 
 # put the images in a file
 
@@ -29,3 +24,10 @@ output: html_document
   for (i in seq(r)) {cat(r[i], '\n', file='doc.Rmd', append=TRUE)}
 
 # voila
+
+
+# these are notes from Mateo on a windows machine
+# Open Microsoft Word: Open the Word document containing the table that you want to convert.
+# Convert the Word document to RMD: Save the Word document as a plain text file (.txt) or an HTML file (.html)
+# This step is necessary to ensure Pandoc can process the file correctly.
+C:\pathToFile> pandoc NewGraph_OHSP_20220724.docx -f docx -t markdown -s -o NewGraph_OHSP_20220724.rmd
