@@ -33,7 +33,7 @@ description: "My Description."
 
 ```{r switch-gitbook-html, echo=FALSE}
 gitbook_on <- TRUE
-# gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
+gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
 
 ```
 
@@ -113,8 +113,9 @@ safety we:
 ## Forest Safety Accord
 
 ```{r}
-knitr::include_graphics('fig/media/forestry_accord.png')
+knitr::include_graphics('fig/media/forestry_accord2.png')
 ```
+
 
 ## Corrective Action Log
 
@@ -458,7 +459,7 @@ Incidents are situations in the workplace that resulted in or could have resulte
 -   If air evacuation is required, you must advise the communication
     centre you've reached; if road evacuation is used, then advise if
     you will be meeting the ambulance en route.
-    
+
 ### Fatality
 
 -   Ensure site is safe
@@ -473,9 +474,9 @@ Incidents are situations in the workplace that resulted in or could have resulte
 
 Conducting a systematic risk assessment will help identify the hazards that exist in the workplace, and how they may
 put workers at risk. To determine if we've done enough to protect
-our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity. 
+our workers, we use a rating system as part of our risk assessment. Risk is calculated by multiplying the likelihood by the severity.
 
-Examples of risks/hazards found in and around job sites include, but are not limited to: 
+Examples of risks/hazards found in and around job sites include, but are not limited to:
 
 * Wildlife
 * Swiftwater
@@ -490,10 +491,10 @@ Examples of risks/hazards found in and around job sites include, but are not lim
 * Open water
 * Overhead snags and sharp branches
 
-
 ```{r}
-knitr::include_graphics('fig/media/Risk_Matrix.png')
+knitr::include_graphics('fig/media/risk_matrix.png')
 ```
+
 
 ## Contractor Selection Policy
 
@@ -541,12 +542,13 @@ and Safety Regulation at
 |                | **Requirements**|                               |
 +================+=================+===============================+
 | High           | -   The apparel | -   When worker is outside of |
-| -visibility    |     must be a   |     the vehicle.              |
+| visibility     |     must be a   |     the vehicle.              |
 | clothing       |     color that  |                               |
 | (vest)         |     contrasts   | -   On all construction sites |
 |                |     with the    |                               |
+|                |     environment.|                               |
 |                |                 |                               |
-|                |    environment. |                               |
+|                |                 |                               |
 +----------------+-----------------+-------------------------------+
 | Limb and body  | -   Must be     | -   When the worker is        |
 | protection     |     free of     |     exposed to a substance or |
@@ -578,11 +580,11 @@ and Safety Regulation at
 |                |     or felt     |     required.                 |
 |                |     sole        |                               |
 |                |     footwear    |                               |
+|                |     specifically|                               |
+|                |     designed for|                               |
+|                |     stream work |                               |
 |                |                 |                               |
-|                |    specifically |                               |
-|                |     designed    |                               |
-|                |     for stream  |                               |
-|                |     work        |                               |
+|                |                 |                               |
 +----------------+-----------------+-------------------------------+
 | Polarized      |                 | -   Must be worn while        |
 | glasses        |                 |     working in and around     |
@@ -593,7 +595,7 @@ and Safety Regulation at
 | safety rope    |     line.       |                               |
 +----------------+-----------------+-------------------------------+
 | Personal       | -   Must be     | -   When worker is working    |
-| Floatation     |     Canadian    |     in/ or around deep open   |
+| Flotation      |     Canadian    |     in/ or around deep open   |
 | Device         |     General     |     water                     |
 |                |     Standards   |                               |
 |                |     Approved    |                               |
@@ -606,8 +608,8 @@ and Safety Regulation at
 |                |     exposure to |                               |
 |                |     sunlight.   |                               |
 +----------------+-----------------+-------------------------------+
-| Hard hats      | -   H           | -   Must be worn in any work  |
-|                | igh-visibility, |     area where there is a     |
+| Hard hats      | -   High-       | -   Must be worn in any work  |
+|                |     visibility, |     area where there is a     |
 |                |     hardhat.    |     danger of head injury     |
 |                |                 |     from falling, flying or   |
 |                | -   Cleaned     |     thrown objects, or other  |
@@ -641,18 +643,18 @@ and Safety Regulation at
 +----------------+-----------------+-------------------------------+
 | Safety         | -   Must be of  | -   Appropriate footwear must |
 | footwear       |     a design,   |     consider the following    |
-|                |                 |     factors: slipping, uneven |
-|                |    construction |     terrain, abrasion, ankle  |
-|                |     and         |     protection and foot       |
-|                |     material    |     support, crushing         |
-|                |     appropriate |     potential, temperature    |
-|                |     to the      |     extremes, corrosive       |
-|                |     protection  |     substances, puncture      |
-|                |     required    |     hazards, electrical       |
-|                |     for the     |     shock, and any other      |
-|                |     work        |     recognizable hazard.      |
+|                |     construction|     factors: slipping, uneven |
+|                |     and material|     terrain, abrasion, ankle  |
+|                |     appropriate |     protection and foot       |
+|                |     to the      |     support, crushing         |
+|                |     protection  |     potential, temperature    |
+|                |     required for|     extremes, corrosive       |
+|                |     the work    |     substances, puncture      |
+|                |     environment |     hazards, electrical       |
+|                |                 |     shock, and any other      |
+|                |                 |     recognizable hazard.      |
 |                |                 |                               |
-|                |    environment. | -   Toe and metatarsal        |
+|                |                 | -   Toe and metatarsal        |
 |                |                 |     protection, puncture      |
 |                |                 |     resistance, and/or        |
 |                |                 |     dielectric protection     |
@@ -666,30 +668,24 @@ and Safety Regulation at
 |                |                 |     logs, piles, pilings or   |
 |                |                 |     other round timbers.      |
 +----------------+-----------------+-------------------------------+
-| Hearing        | -               | -   If those levels cannot be |
-| protection     |    WorkSafeBC's |     practicably met, the      |
-|                |     regulations |     employer must:            |
-|                |     regarding   |                               |
-|                |     noise       |     -   Reduce levels as low  |
-|                |     exposure    |         as \> possible        |
-|                |     are:        |                               |
-|                |                 |     -   Provide to workers \> |
-|                |     -   85dBA   |         hearing protection \> |
-|                |         Lex \>  |         that meets CSA \>     |
-|                |         daily   |         standards, and ensure |
-|                |         \>      |         \> it is worn         |
-|                |         noise   |         effectively \> in     |
-|                |         \>      |         noise hazard areas    |
+| Hearing        | -   WorkSafeBC's| -   If those levels cannot be |
+| protection     |     regulations |     practicably met, the      |
+|                |     regarding   |     employer must:            |
+|                |     noise       |                               |
+|                |     exposure    |     -   Reduce levels as low  |
+|                |     are:        |         as possible           |
 |                |                 |                               |
-|                |        exposure |                               |
-|                |         \>      |                               |
-|                |         level   |                               |
+|                |                 |     -   Provide to workers    |
+|                |     -   85dBA   |         hearing protection    |
+|                |         Lex     |         that meets CSA        |
+|                |         daily   |         standards, and ensure |
+|                |         noise   |         it is worn            |
+|                |         exposure|         effectively in noise  |
+|                |         level   |         hazard areas          |
 |                |                 |                               |
 |                |     -   140 DBC |                               |
-|                |         \> peak |                               |
-|                |         \>      |                               |
+|                |         peak    |                               |
 |                |         sound   |                               |
-|                |         \>      |                               |
 |                |         level   |                               |
 +----------------+-----------------+-------------------------------+
 | Bear Spray /   | -   Always worn | -   Must be readily available |
@@ -1188,6 +1184,255 @@ Listed below are a few ways to reduce stress and improve your mental and physica
 
 ## Appendix 2 - Tailboard Template {.unnumbered}
 
+**Project: Location : Date:**
+
+  ------------------------------------------------------------------------
+  **Name**                    **Crew             **Signature**
+                              Leader/Member**    
+  --------------------------- ------------------ -------------------------
+                              Leader Member      
+
+                              Leader Member      
+
+                              Leader Member      
+
+                              Leader Member      
+  ------------------------------------------------------------------------
+
+**Pre-existing Health Conditions?**
+
+**Description of work: (ex. Culvert assessments, electrofishing, water
+sampling, redd surveys, RPAS surveys etc.)**
+
+**Site Conditions:**
+
+  --------------------------------------------------------------------------
+  Clear              Dry               Hot             Cloudy/Broken     
+  ------------- ---- ------------ ---- ---------- ---- ----------------- ---
+  Raining            Wet               Warm            Foggy             
+
+  Snowing            Muddy             Cold            Icy/Snow Covered  
+  --------------------------------------------------------------------------
+
+**Site Risks and Hazards. Job risks:**
+
+  -----------------------------------------------------------------------------------------------
+  Wildlife           Slippery and/or uneven        Chainsaw/knife/loppers (cuts)              
+                     ground                                                                   
+  ------------- ---- ------------------------- --- ------------------------------------------ ---
+  Swiftwater         Exposure (heat/cold)          Electric Shock (electrofisher)             
+
+  Remote             Machinery                     Open water                                 
+  worksite                                                                                    
+
+  Traffic            ATV/Sled (roll                Overhead Snags                             
+                     over/burns/collision)                                                    
+
+  Bush roads         Chemicals                     Sharp shrubs (eye injury)                  
+
+  Dogs               Helicopters (rotors,          Other                                      
+                     lines, stranding)             \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
+  -----------------------------------------------------------------------------------------------
+
+**Plans Reviewed:**
+
+  ------------------------------------------------------------------------
+  Emergency Response Plan            Field Safety Plan **(Call in /    
+                                     Call out Procedures)**            
+  ------------------------------ --- --------------------------------- ---
+  Safe Work Procedures               Roles and Responsibilities        
+
+  ------------------------------------------------------------------------
+
+**Personal Protective Equipment Checklist/Inspection:**
+
+  --------------------------------------------------------------------------------------------------------------
+  Hi-Vis Vest            Protective footwear (**assess** **condition)**                      Throw Bag       
+  ------------------ --- --------------------------------------------------------------- --- --------------- ---
+  Cell phones /          Hard Hat                                                            PFD             
+  radio / spot                                                                                               
+
+  Waders / **Wading      Water/ Food supplies                                                Dry Suit        
+  Belt**                                                                                                     
+
+  Bear Spray/Bangers     Rainwear/ Weather Wear (extra coat)                                 Linesman Gloves 
+
+  Level 1/ Personal      Other\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       Whistle         
+  FA Kit                                                                                                     
+  --------------------------------------------------------------------------------------------------------------
+
+**Machinery Inspection (Vehicle/Trailer/ATV)** Vehicle
+ID\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  --------------------------------------------------------------------------
+  Obvious damage/leaks            Horn                                   
+  ----------------------- --- --- --------------------------------- ---- ---
+  Tires                           Brakes                                 
+
+  Headlights / tail               Parking Brake                          
+  lights / Signals                                                       
+
+  Fuel                            Uneven tire wear/rough steering?       
+
+  Oil Level                       Safety/Emergency information           
+
+  Radiator fluid                  Spare Tire/ Jack                       
+
+  Windshield fluid                Suspension/Steering                    
+
+  okay                       X   needs attention                       X
+  --------------------------------------------------------------------------
+
+**Housekeeping for Slips, Trips and Fall Prevention:**
+
+  --------------------------------------------------------------------------
+  Slippery/uneven         Spills              Unsecured mats, tiles,     
+  ground                                      carpets                    
+  ------------------ ---- -------------- ---- -------------------------- ---
+  Loose debris            Cables/cords        Smoke/Steam/Fog view       
+                                              obstruction                
+
+  Poor lighting           Barriers in         Good footwear              
+                          place                                          
+  --------------------------------------------------------------------------
+
+**Types of injuries that could occur:**
+
+  --------------------------------------------------------------------------------
+  Sprains/breaks/bruises        Crush injuries      Electrocution              
+  ------------------------ ---- -------------- ---- -------------------------- ---
+  Cuts/lacerations              Head injuries       Traffic accident related   
+
+  Drowning                      Exposure            Repetitive Strain          
+                                                    (eg.tendonitis)            
+  --------------------------------------------------------------------------------
+
+**Barriers to first aid being provided to injured worker:**
+
+  -----------------------------------------------------------------------------------------------------------------
+  Unsafe Accident Scene              Victim/ Attendant Panic and/or Shock                                       
+  ------------------------------- -- -------------------------------------------------------------------------- ---
+  Remote worksite (distance to       Time to get Level 1 kit from vehicle if required                           
+  Hospital/Vehicle)                                                                                             
+
+  Slippery / Steep and/or uneven     Other                                                                      
+  ground                             \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
+  -----------------------------------------------------------------------------------------------------------------
+
+**First Aid Assessment (Check one) -- See Appendix 8 of H&S Plan for
+details/lower requirement scenarios**
+
+  -----------------------------------------------------------------------
+  **Scenario**                      **Requirement**
+  --------------------------------- -------------------------------------
+  \<6 -- 30 workers and \> 20       Level 1 Certificate and Level 1 Kit
+  minutes from hospital and "low"   
+  risk of injury                    
+
+  6 -- 15 workers and \> 20 minutes Level 1 Certificate, Level 1 Kit,
+  from hospital and "moderate" risk Transportation endorsement and ETV
+  of injury                         equipment
+
+  6 -- 10 workers and \> 20 minutes Level 1 Certificate, Level 1 Kit,
+  from hospital and "high" risk of  Transportation endorsement and ETV
+  injury                            equipment
+
+  11 -- 30 workers and \> 20        Level 3 Certificate, Level 3 Kit,
+  minutes from hospital and "high"  dressing station and ETV
+  risk of injury                    
+  -----------------------------------------------------------------------
+
+**Discuss incidents and close calls in past similar work (reasons for
+incident/close call and corrective actions taken/to be taken to avoid
+similar situations).**
+
+**Discuss Relevant Industry Alerts:**
+
+  --------------------------------------------------------------------------
+  Overhead hazards             Secure contents in       Bears            
+  (snags/branches)             vehicles                                  
+  ------------------------ --- -------------------- --- ---------------- ---
+  Winter Driving               Alert while Driving      Vehicle          
+  Preparation                                           Maintenance      
+
+  Unstable machinery           Floods and               Devils Club in   
+                               Landslides               eyes             
+  --------------------------------------------------------------------------
+
+**Additional Safety Comments:**
+
+**Worker Assessment** Worker:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Assessed by:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  ------------------------------------------------------------------------
+  Can identify worksite hazards      Wears hard hat / protection    
+  ------------------------------ --- ------------------------------ ------
+  Is alert and focused on job        Uses required hearing          
+                                     protection                     
+
+  Demonstrates safe use of tools     Wears high visibility /        
+  & equip.                           protective clothing            
+
+  Demonstrates proper use of         Wears appropriate footwear for 
+  seat belt                          job                            
+
+  Has required license /             Wears wading belt / bear spray 
+  certificate(s)                                                    
+
+  **Worker is Competent**                                           
+  ------------------------------------------------------------------------
+
+Feedback:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Signatures: Worker:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Assessed by:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Call In/Call out Numbers**
+
++----------+--------------------+-------------+----------------------+
+| **Crew   |                    | **Personal  | **Personal Emergency |
+| Member** |                    | Emergency   | Contact \#**         |
+|          |                    | Contact**   |                      |
++==========+====================+=============+======================+
+| Allan    | 250 777 1518       | Tara Stark  | 250 352 5311 Cell:   |
+| Irvine   |                    |             | 250 505 9489         |
++----------+--------------------+-------------+----------------------+
+|          |                    |             |                      |
++----------+--------------------+-------------+----------------------+
+|          |                    |             |                      |
++----------+--------------------+-------------+----------------------+
+| Inreach  | 226 241 6177       |             |                      |
+| text     |                    |             |                      |
+| (al)     | allanirvine75@     |             |                      |
+|          | inreach.garmin.com |             |                      |
++----------+--------------------+-------------+----------------------+
+
+**Emergency Contact Info:**
+
+  ----------------------------------------------------------------------------------------------
+                  **Kaslo**   **Grand    **Nelson**   **Fernie**   **Creston**   **Mackenzie**
+                              Forks**                                            
+  --------------- ----------- ---------- ------------ ------------ ------------- ---------------
+  RCMP            911         911        911          911          911           911
+  Search&Rescue                                                                  
+
+  Hospital        250 353     250        250 352-3111 250 423 4453 250 428 2286  2509973263
+                  2225        443-2100                                           
+
+  Poison Control  1 800 567                                                      
+                  8911                                                           
+  ----------------------------------------------------------------------------------------------
+
+\(250\) 565-2000 Prince George Hospital
+
+**[Report All Incidents and Close Calls on Incident/Close Call Reporting
+Form In Safety Binders in Vehicles]{.underline}**
+
 ## Appendix 3 - First Aid Requirements {.unnumbered}
 
 **Table 1**: This table applies to a workplace that an employer
@@ -1215,8 +1460,8 @@ from a hospital.
 |            |            | kit        |            |            |
 +------------+------------+------------+------------+------------+
 | 3          | 6-30       | Level 1    | Level 1    |            |
-|            |            | first aid  | c          |            |
-|            |            | kit        | ertificate |            |
+|            |            | first aid  | certificate|            |
+|            |            | kit        |            |            |
 +------------+------------+------------+------------+------------+
 | 4          | 31-50      | Level 1    | Level 1    |            |
 |            |            | first aid  | c          |            |
@@ -1530,593 +1775,145 @@ from a hospital.
 
 ## Appendix 4 - Incidence/Close Call Template {.unnumbered}
 
-**Incident / Close Call Reporting Form**
+> Date of Incident: Company:
+>
+> Date Reported: Location:
+>
+> Reported By: Type of Job:
 
-<table style="width:89%;">
-<colgroup>
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-<col style="width: 6%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><p>Date of Incident:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p>Company:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Date Reported:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p>Location:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Reported By:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p>Type of Job:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Describe incident / close
-call<br />
-draw diagram on other side if helpful</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>Category</strong></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>close call</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>bodily injury/illness</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>lost time</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>dangerous goods spill</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>fire</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>vehicle incident / damage</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>ATV incident / damage</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>other equipment damage</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>other describe</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>other describe</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Names/contact info of any individual or
-witnesses involved in incident / close call:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>If first aid was rendered, name of
-attendant:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p><strong>Describe immediate and root
-cause of incident / close call:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Notes</strong></p></td>
-<td></td>
-<td></td>
-<td><p><strong>Immediate causes</strong></p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>Root causes</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>failure to follow safe work procedures</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate work planning, engineering, design</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>improper use of equipment/tools/lockout</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate polices, procedures</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>failure to warn or instruct</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate communications</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>body motions – pushing, pulling repetition</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate supervision</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>improper use of PPE</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate risk/hazard assessment</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>inadequate awareness of surroundings</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>mental, physical stress/fatigue</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>poor housekeeping</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate maintenance/inspections</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>worksite conditions – weather congestion, layout, circle</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>inadequate physical abilities</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Notes:</p></td>
-<td></td>
-<td></td>
-<td><p>other</p></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>other</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Describe corrective actions to
-be undertaken:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Person responsible for corrective
-action:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Date action to be completed
-by:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>Person responsible to sign here when
-completed:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p>Date when action was
-completed:</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p><strong>Report and actions reviewed
-by</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><p><strong>Notes:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p><strong>Date:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p><strong>Name:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p><strong>Signature:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: left;"><p><strong>Position:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++-----------------------------------------------+---+------------------+
+| > **Describe incident / close call**          | > | > **Category**   |
+| >                                             |   |                  |
+| > **(draw diagram on other side if helpful)** | * |                  |
+|                                               | * |                  |
+|                                               | ☑ |                  |
+|                                               | * |                  |
+|                                               | * |                  |
++===============================================+===+==================+
+| > Notes:                                      |   | > close call     |
++-----------------------------------------------+---+------------------+
+|                                               |   | > bodily         |
+|                                               |   | > injury/illness |
++-----------------------------------------------+---+------------------+
+| > Notes:                                      |   | > lost time      |
++-----------------------------------------------+---+------------------+
+|                                               |   | > dangerous      |
+|                                               |   | > goods spill    |
++-----------------------------------------------+---+------------------+
+| > Notes:                                      |   | > fire           |
++-----------------------------------------------+---+------------------+
+|                                               |   | > vehicle        |
+|                                               |   | > incident /     |
+|                                               |   | > damage         |
++-----------------------------------------------+---+------------------+
+| > Notes:                                      |   | > ATV incident / |
+|                                               |   | > damage         |
++-----------------------------------------------+---+------------------+
+|                                               |   | > other          |
+|                                               |   | > equipment      |
+|                                               |   | > damage         |
++-----------------------------------------------+---+------------------+
+| > Notes:                                      |   | > other          |
+|                                               |   | > (describe)     |
++-----------------------------------------------+---+------------------+
+|                                               |   | > other          |
+|                                               |   | > (describe)     |
++-----------------------------------------------+---+------------------+
+| > Names/contact info of any individual or     |   |                  |
+| > witnesses involved in incident / close      |   |                  |
+| > call:                                       |   |                  |
++-----------------------------------------------+---+------------------+
+| > If first aid was rendered, name of          |   |                  |
+| > attendant:                                  |   |                  |
++-----------------------------------------------+---+------------------+
+
++----------------------+---+-----------------+---+---------------------+
+| > **Describe         |   |                 |   |                     |
+| > immediate and root |   |                 |   |                     |
+| > cause of incident  |   |                 |   |                     |
+| > / close call:**    |   |                 |   |                     |
++======================+===+=================+===+=====================+
+| > **Notes**          | > | > **Immediate   | > | > **Root cause(s)** |
+|                      |   | > cause(s)**    |   |                     |
+|                      | * |                 | * |                     |
+|                      | * |                 | * |                     |
+|                      | ☑ |                 | ☑ |                     |
+|                      | * |                 | * |                     |
+|                      | * |                 | * |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > failure to    |   | > inadequate work   |
+|                      |   | > follow safe   |   | > planning,         |
+|                      |   | > work          |   | > engineering,      |
+|                      |   | > procedures    |   | > design            |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > improper use  |   | > inadequate        |
+|                      |   | > of            |   | > polices,          |
+|                      |   | > equipmen      |   | > procedures        |
+|                      |   | t/tools/lockout |   |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > failure to    |   | > inadequate        |
+|                      |   | > warn or       |   | > communications    |
+|                      |   | > instruct      |   |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > body motions  |   | > inadequate        |
+|                      |   | > -- pushing,   |   | > supervision       |
+|                      |   | > pulling       |   |                     |
+|                      |   | > repetition    |   |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > improper use  |   | > inadequate        |
+|                      |   | > of PPE        |   | > risk/hazard       |
+|                      |   |                 |   | > assessment        |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > inadequate    |   | > mental, physical  |
+|                      |   | > awareness of  |   | > stress/fatigue    |
+|                      |   | > surroundings  |   |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > poor          |   | > inadequate        |
+|                      |   | > housekeeping  |   | > main              |
+|                      |   |                 |   | tenance/inspections |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > worksite      |   | > inadequate        |
+|                      |   | > conditions -- |   | > physical          |
+|                      |   | > weather       |   | > abilities         |
+|                      |   | > congestion,   |   |                     |
+|                      |   | > layout,       |   |                     |
+|                      |   | > (circle)      |   |                     |
++----------------------+---+-----------------+---+---------------------+
+| > Notes:             |   | > other         |   | > other             |
++----------------------+---+-----------------+---+---------------------+
+
++------------------------------+---------------------------------------+
+| > **Describe corrective      |                                       |
+| > action(s) to be            |                                       |
+| > undertaken:**              |                                       |
++==============================+=======================================+
+|                              |                                       |
++------------------------------+---------------------------------------+
+|                              |                                       |
++------------------------------+---------------------------------------+
+|                              |                                       |
++------------------------------+---------------------------------------+
+|                              |                                       |
++------------------------------+---------------------------------------+
+|                              |                                       |
++------------------------------+---------------------------------------+
+| > Person responsible for     |                                       |
+| > corrective action:         |                                       |
++------------------------------+---------------------------------------+
+| > Date action to be          |                                       |
+| > completed by:              |                                       |
++------------------------------+---------------------------------------+
+| > Person responsible to sign |                                       |
+| > here when completed:       |                                       |
++------------------------------+---------------------------------------+
+| > Date when action was       |                                       |
+| > completed:                 |                                       |
++------------------------------+---------------------------------------+
+
+> **Report and actions reviewed by**
+>
+> **SEND A COPY OF THIS REPORT TO THE PARTY YOU REPORT TO.**
+
 
 ## Appendix 5 - Contractor Selection and Safety Checklist {.unnumbered}
 

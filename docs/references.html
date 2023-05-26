@@ -290,12 +290,12 @@ div.csl-indent {
 <div id="refs">
 
 </div>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="references.html#cb9-1" tabindex="-1"></a><span class="co">#https://github.com/rstudio/bookdown/issues/8 how to put the references wherever we want.</span></span>
-<span id="cb9-2"><a href="references.html#cb9-2" tabindex="-1"></a></span>
-<span id="cb9-3"><a href="references.html#cb9-3" tabindex="-1"></a><span class="co"># `r if (knitr::is_html_output()){ &#39;</span></span>
-<span id="cb9-4"><a href="references.html#cb9-4" tabindex="-1"></a><span class="co"># # References {-}</span></span>
-<span id="cb9-5"><a href="references.html#cb9-5" tabindex="-1"></a><span class="co"># &lt;div id=&quot;refs&quot;&gt;&lt;/div&gt;</span></span>
-<span id="cb9-6"><a href="references.html#cb9-6" tabindex="-1"></a><span class="co"># &#39;}`</span></span></code></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="references.html#cb8-1" tabindex="-1"></a><span class="co">#https://github.com/rstudio/bookdown/issues/8 how to put the references wherever we want.</span></span>
+<span id="cb8-2"><a href="references.html#cb8-2" tabindex="-1"></a></span>
+<span id="cb8-3"><a href="references.html#cb8-3" tabindex="-1"></a><span class="co"># `r if (knitr::is_html_output()){ &#39;</span></span>
+<span id="cb8-4"><a href="references.html#cb8-4" tabindex="-1"></a><span class="co"># # References {-}</span></span>
+<span id="cb8-5"><a href="references.html#cb8-5" tabindex="-1"></a><span class="co"># &lt;div id=&quot;refs&quot;&gt;&lt;/div&gt;</span></span>
+<span id="cb8-6"><a href="references.html#cb8-6" tabindex="-1"></a><span class="co"># &#39;}`</span></span></code></pre></div>
 
 </div>
             </section>
@@ -358,6 +358,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
