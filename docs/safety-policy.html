@@ -50,6 +50,8 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
 <script type="text/javascript">
 
@@ -257,11 +259,10 @@ div.csl-indent {
 </ul></li>
 <li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html"><i class="fa fa-check"></i>Appendices</a>
 <ul>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-1---new-worker-orientation"><i class="fa fa-check"></i>Appendix 1 - New Worker Orientation</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-2---tailboard-template"><i class="fa fa-check"></i>Appendix 2 - Tailboard Template</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-3---first-aid-requirements"><i class="fa fa-check"></i>Appendix 3 - First Aid Requirements</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-4---incidenceclose-call-template"><i class="fa fa-check"></i>Appendix 4 - Incidence/Close Call Template</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-5---contractor-selection-and-safety-checklist"><i class="fa fa-check"></i>Appendix 5 - Contractor Selection and Safety Checklist</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#new-worker"><i class="fa fa-check"></i>Appendix 1 - New Worker Orientation</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#tailboard"><i class="fa fa-check"></i>Appendix 2 - Tailboard Template</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#incident"><i class="fa fa-check"></i>Appendix 3 - Incident/Close Call Template</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#contractor"><i class="fa fa-check"></i>Appendix 4 - Contractor Selection and Safety Checklist</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="chapter" data-level="" data-path="session-info.html"><a href="session-info.html"><i class="fa fa-check"></i>Session Info</a></li>
@@ -310,52 +311,136 @@ the public.</p></li>
 <h2><span class="header-section-number">1.2</span> Corrective Action Log<a href="safety-policy.html#corrective-action-log" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>These corrective actions are to be completed by the person indicated,
 within the time frame allotted. If more time is required, or there are
-difficulties encountered, please contact Allan Irvine for assistance.</p>
-<table>
-<colgroup>
-<col width="11%" />
-<col width="27%" />
-<col width="26%" />
-<col width="15%" />
-<col width="18%" />
-</colgroup>
+difficulties encountered, please contact Allan Irvine for assistance. These comments or corrective actions are based on the quality assurance review by the BC Forest Safety Council.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="safety-policy.html#cb6-1" tabindex="-1"></a>corr_action_log <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="fu">paste0</span>(<span class="fu">getwd</span>(), <span class="st">&#39;/data/corr_action_log.csv&#39;</span>))</span>
+<span id="cb6-2"><a href="safety-policy.html#cb6-2" tabindex="-1"></a>corr_action_log <span class="sc">%&gt;%</span> </span>
+<span id="cb6-3"><a href="safety-policy.html#cb6-3" tabindex="-1"></a>  fpr<span class="sc">::</span><span class="fu">fpr_kable</span>(<span class="at">caption_text =</span> <span class="st">&quot;Corrective Action Log (last updated 2022)&quot;</span>,<span class="at">scroll =</span> F)</span></code></pre></div>
+<table class="table table-condensed table-responsive" style="font-size: 11px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">
+<span id="tab:unnamed-chunk-4">Table 1.1: </span>Corrective Action Log (last updated 2022)
+</caption>
 <thead>
-<tr class="header">
-<th><strong>Item</strong></th>
-<th><strong>Company Action Plan</strong></th>
-<th><strong>Person Responsible</strong></th>
-<th><strong>Due Date</strong></th>
-<th><strong>Date Closed</strong></th>
+<tr>
+<th style="text-align:left;">
+Item
+</th>
+<th style="text-align:left;">
+Company Action Plan
+</th>
+<th style="text-align:left;">
+Person Responsible
+</th>
+<th style="text-align:left;">
+Due Date
+</th>
+<th style="text-align:left;">
+Date Closed
+</th>
+<th style="text-align:left;">
+Completion Verified
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td style="text-align:left;">
+Continual Improvement Suggestion: The company has submitted the 2020 CL with this 2022 audit instead to the 2021 CAL returned to the company with you last audit review letter. The company did not receive credit for the submission of the correct CAL, and questions 4, 10, and 11 with your 2021 audit. The CAL submitted here should identify the deficient questions and indicate what the company is doing or plans to do to correct them all.
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td style="text-align:left;">
+Recommendation: Please obtain a Regulation compliant orientation form. Orientation checklists must contain all items listed in section 3.23 of the OHS regulations. Missing was the instruction and demonstration of work tasks and work processes. A single page compliant orientation checklist is available on the BCFSC website.
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td style="text-align:left;">
+Continual Improvement Suggestion: The “Worker Is competent.” has not been selected in either forms submitted - which is the sole purpose of a worker assessment.
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td style="text-align:left;">
+Recommendation: Please submit 1 monthly safety meeting or pre-work minutes from every operating month, from the current audit reporting year (the preceding 12 months to you June 28, 022 audit submission date). the company reported worked in all 12 months of July 2021 - June 2022, You may also submit the safety / fatality alerts covered in the monthly meeting agendas.
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Continual Improvement Suggestion: Please check one box in all question 15-22 on the audit tool - decaling if the question applies to this current years reporting, with all future audits.
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
+<td style="text-align:left;">
+–
+</td>
 </tr>
 </tbody>
 </table>
@@ -447,8 +532,7 @@ to protect themselves and others. All employees and dependent
 contractors operating under your company’s safety plan must review the
 New Graph health and safety policies and safe work procedures on their
 first day before they start work or when returning to work after an
-absence of longer than 6 weeks. Template to be filled out is attached as
-<a href="appendices.html#appendix-1---new-worker-orientation">Appendix 1 - New Worker Orientation</a>.</p>
+absence of longer than 6 weeks. Template to be filled out is attached as <a href="appendices.html#new-worker">Appendix 1</a>.</p>
 </div>
 <div id="tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list" class="section level3 Style1 hasAnchor" number="1.6.2">
 <h3><span class="header-section-number">1.6.2</span> Tailboards<a href="safety-policy.html#tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list" class="anchor-section" aria-label="Anchor link to header"></a></h3>
@@ -466,7 +550,7 @@ include references to field safety plans and contain:</p>
 <li>Hazard Inspections</li>
 <li>First Aid Assessments</li>
 </ul>
-<p>They are included in this plan as <a href="appendices.html#appendix-2---tailboard-template">Appendix 2 - Tailboard Template</a>.</p>
+<p>They are included in this plan as <a href="appendices.html#tailboard">Appendix 2</a>.</p>
 </div>
 </div>
 <div id="first-aid-equipment-and-procedures" class="section level2 hasAnchor" number="1.7">
@@ -565,9 +649,7 @@ assessment will help you determine the minimum level of first aid needed
 in your workplace. First aid levels are outlined in the <a href="https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A">OHS Regulation
 Schedule 3-A: Minimum Levels of First
 Aid</a>.</p>
-<p>Below are the steps for a first aid assessment. Tables of scenarios
-based on the number of people working and the assessed hazard rating are
-included in <a href="appendices.html#appendix-3---first-aid-requirements">Appendix 3 - First Aid Requirements</a>.</p>
+<p>Below are the steps for a first aid assessment.</p>
 <ul>
 <li><p>Identify the number of workplaces.</p></li>
 <li><p>Identify your workplace hazard rating.</p></li>
@@ -640,20 +722,6 @@ gitbook.start({
 });
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 </body>
 
 </html>

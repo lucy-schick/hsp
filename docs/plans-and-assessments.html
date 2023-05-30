@@ -50,6 +50,8 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
 <script type="text/javascript">
 
@@ -257,11 +259,10 @@ div.csl-indent {
 </ul></li>
 <li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html"><i class="fa fa-check"></i>Appendices</a>
 <ul>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-1---new-worker-orientation"><i class="fa fa-check"></i>Appendix 1 - New Worker Orientation</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-2---tailboard-template"><i class="fa fa-check"></i>Appendix 2 - Tailboard Template</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-3---first-aid-requirements"><i class="fa fa-check"></i>Appendix 3 - First Aid Requirements</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-4---incidenceclose-call-template"><i class="fa fa-check"></i>Appendix 4 - Incidence/Close Call Template</a></li>
-<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#appendix-5---contractor-selection-and-safety-checklist"><i class="fa fa-check"></i>Appendix 5 - Contractor Selection and Safety Checklist</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#new-worker"><i class="fa fa-check"></i>Appendix 1 - New Worker Orientation</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#tailboard"><i class="fa fa-check"></i>Appendix 2 - Tailboard Template</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#incident"><i class="fa fa-check"></i>Appendix 3 - Incident/Close Call Template</a></li>
+<li class="chapter" data-level="" data-path="appendices.html"><a href="appendices.html#contractor"><i class="fa fa-check"></i>Appendix 4 - Contractor Selection and Safety Checklist</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="chapter" data-level="" data-path="session-info.html"><a href="session-info.html"><i class="fa fa-check"></i>Session Info</a></li>
@@ -318,7 +319,7 @@ notify the RCMP of a missing persons in field.</p>
 </div>
 <div id="hazard-close-call-incident-reporting-requirements-and-procedures" class="section level2 Style1 hasAnchor" number="2.2">
 <h2><span class="header-section-number">2.2</span> Hazard / close-call / incident reporting requirements and procedures<a href="plans-and-assessments.html#hazard-close-call-incident-reporting-requirements-and-procedures" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as <a href="appendices.html#appendix-4---incidenceclose-call-template">Appendix 4 - Incidence/Close Call Template</a>.</p>
+<p>Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as <a href="appendices.html#incident">Appendix 3</a>.</p>
 </div>
 <div id="emergency-response-plan-erp-and-procedures" class="section level2 Style1 hasAnchor" number="2.3">
 <h2><span class="header-section-number">2.3</span> Emergency Response Plan (ERP) and Procedures<a href="plans-and-assessments.html#emergency-response-plan-erp-and-procedures" class="anchor-section" aria-label="Anchor link to header"></a></h2>
@@ -471,7 +472,7 @@ our workers, we use a rating system as part of our risk assessment. Risk is calc
 <li>Open water</li>
 <li>Overhead snags and sharp branches</li>
 </ul>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="plans-and-assessments.html#cb6-1" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&#39;fig/media/risk_matrix.png&#39;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="plans-and-assessments.html#cb7-1" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&#39;fig/media/risk_matrix.png&#39;</span>)</span></code></pre></div>
 <p><img src="fig/media/risk_matrix.png" width="100%" /></p>
 </div>
 <div id="contractor-selection-policy" class="section level2 hasAnchor" number="2.5">
@@ -485,7 +486,7 @@ to complete to ensure that they meet our requirements. Our policy is to
 always get a clearance letter before and after we receive services from
 a contractor to confirm whether they registered with worksafe BC and are
 paying premiums. The contractor selection and safety checklist forms are
-included as <a href="appendices.html#appendix-5---contractor-selection-and-safety-checklist">Appendix 5 - Contractor Selection and Safety Checklist</a>.</p>
+included as <a href="appendices.html#contractor">Appendix 4</a>.</p>
 <p>Of note, contractors are considered our workers if they do not operate
 as an independent business and are either not eligible for WorkSafeBC
 coverage or decline to purchase WorkSafeBC’s optional coverage. Below
@@ -923,20 +924,6 @@ gitbook.start({
 });
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 </body>
 
 </html>
