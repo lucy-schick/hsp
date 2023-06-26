@@ -191,7 +191,7 @@ the first step is a first aid assessment. This requires a full review of the wor
 assessment will help you determine the minimum level of first aid needed
 in your workplace. First aid levels are outlined in the [OHS Regulation
 Schedule 3-A: Minimum Levels of First
-Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A).
+Aid](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation/part-03-rights-and-responsibilities#Schedule3A). First aid requirements are found in [Appendix 5](#firstaid).
 
 Below are the steps for a first aid assessment.
 
