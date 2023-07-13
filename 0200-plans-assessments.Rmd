@@ -188,7 +188,7 @@ Examples of risks/hazards found in and around job sites include, but are not lim
 * Open water
 * Overhead snags and sharp branches
 
-```{r}
+```{r, echo=F}
 knitr::include_graphics('fig/media/risk_matrix.png')
 ```
 
