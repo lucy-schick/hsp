@@ -24,7 +24,7 @@ safety we:
 
 ## Forest Safety Accord
 
-```{r}
+```{r, echo=F}
 knitr::include_graphics('fig/media/forestry_accord2.png')
 ```
 
@@ -35,7 +35,7 @@ These corrective actions are to be completed by the person indicated,
 within the time frame allotted. If more time is required, or there are
 difficulties encountered, please contact Allan Irvine for assistance. These comments or corrective actions are based on the quality assurance review by the BC Forest Safety Council.
 
-```{r}
+```{r, echo=F}
 corr_action_log <- readr::read_csv(paste0(getwd(), '/data/corr_action_log.csv'))
 corr_action_log %>% 
   fpr::fpr_kable(caption_text = "Corrective Action Log (last updated 2022)",scroll = F)
@@ -47,7 +47,10 @@ As a small company all management and staff are considered safety team
 members and expected to integral to the safety program. Feedback is
 encouraged as continual improvement is a paramount goal.
 
-## Job Roles and Responsibilities
+## Roles, rights and responsibilities
+
+Everyone has a role to play in workplace safety. Wether you are the owner, employer, supervisor, worker, or prime contractor. Know your rights and responsibilities. These are outlined on the WorkSafeBC website [here](https://www.worksafebc.com/en/health-safety/create-manage/rights-responsibilities).
+
 
 ### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1}
 
