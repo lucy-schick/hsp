@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">OHSP</a></li>
       after: |
         <li><a href="https://github.com/NewGraphEnvironment/hsp" target="blank">Scripts and Data</a></li>
-    download: ["Template.pdf", "Template.html"]
+    download: ["OHSP.pdf", "OHSP.html"]
     fontsettings:
       theme: night
       family: sans

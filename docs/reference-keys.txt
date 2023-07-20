@@ -3,7 +3,7 @@ safety-policy
 forest-safety-accord
 corrective-action-log
 safety-team-members
-job-roles-and-responsibilities
+roles-rights-and-responsibilities
 right-to-refuse-work-and-report-unsafe-conditions
 covid-19-prevention-and-risks
 required-safety-meetings
@@ -38,6 +38,7 @@ electrofishing
 preparatory-procedures
 operational-procedures
 culvert-assessments-and-habitat-confirmation-assessments
+swiftwater-rescue-and-safety
 working-alone
 wildlife-encounters
 bears
