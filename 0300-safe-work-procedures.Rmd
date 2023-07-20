@@ -11,7 +11,7 @@ editor_options:
 ### Procedures and Practices
 
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
-    Inspection and Mileage Log to track activity.Report deficiencies and do not use if equipment is in     unsafe condition.
+    Inspection and Mileage Log to track activity. Report deficiencies and do not use if equipment is in unsafe condition.
 
 -   Make notes of required maintenance in the mileage logbook when it is
     required and include "checking the logbook for required repairs" at
@@ -23,11 +23,12 @@ editor_options:
     responsible for your passengers.
 
 -   Do not exceed posted speed limits.
+* Avoid night driving when possible, never drive when distracted or overly fatigued. Limiting the length of field days can help reduce the risk of injury when driving. 
 
 -   On resource roads do not exceed 80kph or posted speed limits.
 
 -   Drive safely and drive to the existing road conditions. Lower speed
-    as required. Be aware of:
+    as required. Stay home if conditions are hazardous and risk of injury is high. Be aware of:
 
     -   Visibility reduced by dust, fog, rain and snow;
 
@@ -38,7 +39,7 @@ editor_options:
     -   Slippery and variable road surface conditions due to loose
         gravel, snow, ice or mud;
 
-    -   Other users.
+    -   Other users, wildlife
 
 -   Use vehicle for intended use only (purpose and weight limitations).
 
@@ -88,7 +89,7 @@ editor_options:
 -   Complete radio check and ensure correct frequency prior to entering
     radio controlled area.
 
--   Do not drive by the radio. Expect oncoming traffic at all times.
+-   Do not drive on radio controlled roads without the radio on and turned up. Expect oncoming traffic at all times.
 
 -   Call your position according to the local radio protocol and
     signage.
@@ -128,7 +129,7 @@ editor_options:
 
 ## All-terrain vehicles {#all-terrain-vehicles .Style1}
 
-```{r}
+```{r, echo=F}
 knitr::include_graphics('fig/media/all_terrain_vehicles.png')
 ```
 
@@ -228,7 +229,7 @@ knitr::include_graphics('fig/media/all_terrain_vehicles.png')
 -   Wear disposable gloves when assembling equipment or wipe down all
     touch points after assembly.
 
-## Culvert assessments and habitat confirmation assessments {#culvert-assessments-and-habitat-confirmation-assessments .Style1}
+## Culvert and habitat confirmation assessments {#culvert-assessments-and-habitat-confirmation-assessments .Style1}
 
 See driving procedures including radio use and parking.
 
@@ -269,6 +270,46 @@ See driving procedures including radio use and parking.
     the end of the day. Inreaches should be tested between crew members
     and between crew members and check in people before going in the
     field.
+
+## Swiftwater rescue and safety
+
+Most of our field work involves working in small streams or creeks. Sometimes we can find ourselves in larger systems that have fast flowing water. It is important to be prepared and to be safe. Below are some best practices for swiftwater rescue and safety.
+
+* Never put your foot down if you are being swept away. This will prevent foot entrapment.
+* Never tie a rope around a rescuer. Attach a line to a quick release strap if present. 
+* Always deploy upstream spotters to know what is going to be coming down toward you.
+* If you are rescuing someone, wear a PFD and a helmet.  
+* Always have a backup plan.
+* Never count on the victim to help in his or her own rescue.
+* Never tie a tension line at a right angle.
+* Never lose contact with the victim.
+* In addition to drowning, other dangers in swift water rescues include hypothermia, trauma, remote areas, and frightened victims.
+* Water in swift water rescues is powerful but predictable. Marking water levels and understanding factors such as eddies (calm water behind obstructions), hazards (underwater obstructions), and "keepers" (areas where victims may be stuck) can aid decision-making.
+
+It is important to understand the flow of a stream. Understanding where flow velocities are highest will help you navigate watersheds more efficiently and reduce the risk of injury.  
+
+```{r, echo=F}
+knitr::include_graphics('fig/media/laminar_flow.jpg')
+```
+<small>Source: Raven Rescue Water Rescue Field Guide</small>
+
+When attempting a rescue, consider the questions contained within the L.A.S.T. stages of rescue, outlined in the image below.
+
+```{r, echo=F}
+knitr::include_graphics('fig/media/last_rescue.jpg')
+```
+<small>Source: Raven Rescue Water Rescue Field Guide</small>
+
+Swiftwater rescue PPE equipment list:
+
+* Helmet
+* Knife
+* Gloves
+* PFD with quick release harness
+* Drysuit
+* Throwbag
+* Boots
+* Whistle
 
 ## Working Alone
 
@@ -361,7 +402,7 @@ Working alone means working in circumstances where assistance would not be readi
 | defensive attack    | defensive attack play dead: fall on ground on |
 |                     | your front, protect your neck.  If rolled     |
 |                     | over continue to roll over to face.  Stay on  |
-|                     | ground till bear leaves.  If attach is        |
+|                     | ground till bear leaves.  If attack is        |
 |                     | prolonged it is no longer defensive.          |
 +---------------------+-----------------------------------------------+
 | Bear approaching in | **Non defensive bears show little stress.     |
