@@ -36,7 +36,19 @@ notify the RCMP of a missing persons in field.
 
 ## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
-Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 3](#incident).
+Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 3](#incident). A summary of how to fill out an incident/close call report is seen below:
+
+* Record the date of the incident and the names of all personnel involved
+* Give a detailed description of the events that transpired leading up to and including the incident. What happened and how did it happen? Was first aid required? 
+* Describe the immediate and root cause of the incident. Were safety procedures not followed? Were the presence of hazards not communicated properly beforehand? Was the employee/contractor involved in the incident not wearing the proper safety equipment?
+* Describe the corrective action(s) to be undertaken. This can depend on the situation. Do your best to ensure that an incident like this will never happen again. Update safety procedures, ensure everyone is wearing the proper safety equipment, communicate to people new to the job that you have the right to refuse unsafe work, etc. 
+* Sign and date the incident/close call report.
+
+Examples of past incident/close calls include:
+
+* Contractor slipping and falling into a deep beaver pond, the person was wearing waders but no wading belt. No serious injury occured.
+* While backing up on the highway, an employee drove too close to the ditch and almost flipped over. This was a close call.
+* While tagging fish with a needle and pit tags, an employee stabbed their finger with the needle. There was some bleeding but first aid was administered right away. 
 
 ## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1}
 
