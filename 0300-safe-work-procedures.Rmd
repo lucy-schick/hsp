@@ -8,7 +8,7 @@ editor_options:
 
 ## Driving {#driving .Style1}
 
-### Procedures and Practices
+### General Procedures and Practices
 
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
     Inspection and Mileage Log to track activity. Report deficiencies and do not use if equipment is in unsafe condition.
@@ -24,8 +24,6 @@ editor_options:
 
 -   Do not exceed posted speed limits.
 * Avoid night driving when possible, never drive when distracted or overly fatigued. Limiting the length of field days can help reduce the risk of injury when driving. 
-
--   On resource roads do not exceed 80kph or posted speed limits.
 
 -   Drive safely and drive to the existing road conditions. Lower speed
     as required. Stay home if conditions are hazardous and risk of injury is high. Be aware of:
@@ -52,11 +50,11 @@ editor_options:
 
 -   Tailgating is driving too close behind other vehicles. It is extremely cangerous as it can lead to accidents if they vehicle in front of you brakes suddently or is in a collision/crash you can smash into them.  Leave a sufficient distance in front of the vehicle in front of you, even more so for logging trucks.  A good rule of thumb is to leave 3-4 seconds of time between when the vehicle in front of you passes a specific location and when you pass it.
 
--   Pass trucks or equipment only after you receive a clearly visible and/or audible signal from the operator.
-
 -   Never chase a runaway vehicle.
 
 -   Stay on your side of the road.
+
+* Avoid distracted driving, do not use cell phone unless stopped and parked safely.
 
     **COVID 19 (COVID)**
 
@@ -83,6 +81,29 @@ editor_options:
         entering building (ex. Gas station, restaurants) or working with
         others where you cannot keep min 2m distance. Upon exiting
         vehicle close door with elbow.
+
+### Resource Road Safety
+
+-   Do not exceed 80kph or posted speed limits. Drive at a safe and controlled speed, and avoid sudden maneuvers.
+
+-   Pass trucks or equipment only after you receive a clearly visible and/or audible signal from the operator.
+
+* Drive with headlights on at all times, whether it's day or night, good or bad visibility. 
+
+* Ensure you have the necessary equipment on board in case of emergencies. This can include but is not limited to :
+
+  + tow strap
+  + battery booster or booster cables
+  + fire tools (polanski, shovel, backpack extinguisher)
+  + satellite communicator
+  + radio
+  + first aid kit
+  + extra food and water
+
+
+* Before heading out, research and plan your route. Check for potential hazards, weather conditions, and local regulations or restrictions.
+
+* Familiarize yourself with your vehicle's capabilities and limitations for off-road terrain. Ensure you have proper all terrain tires. Be aware of ground clearance, approach and departure angles, and four-wheel-drive systems.
 
 ### Radio Use
 
@@ -317,11 +338,13 @@ Working alone means working in circumstances where assistance would not be readi
 
 * Designate a contact person to check in with on a pre planned schedule. Arrange a meet up time and place before getting separated. 
 
-* The worker must carry a functioning communication device such as a cell phone, two-way radio, and a inreach satellite communicator. Carrying all three is highly recommended.  
+* The worker must carry a functioning communication device such as a cell phone, two-way radio, and a inreach satellite communicator. Carrying all three is highly recommended. Ensure radios are charged fully every second night. When working in areas out of cell range a satellite communicator is required.  
 
 * Carry bear spray. Make a lot of noise periodically to alert bears in the area of your presence. Optionally, it can be effective to have a bluetooth speaker to play music.
     
-* If the lone worker fails to check in, then the contact person must initiate search procedures. See Procedures for Failed Check-In section of Field Safety Plan. 
+* If the lone worker fails to check in, then the contact person must initiate search procedures. See Procedures for Failed Check-In section of Field Safety Plan.
+
+* Carry water, food, extra clothes, a first aid kit (with emergency blanket) and materials you would need to make a fire (lighter) in case something unforeseen happens.
 
 ## Wildlife Encounters 
 
