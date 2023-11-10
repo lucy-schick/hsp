@@ -30,7 +30,8 @@ records-of-training
 progressive-discipline-policy
 safe-work-procedures-and-practices
 driving
-procedures-and-practices
+general-procedures-and-practices
+resource-road-safety
 radio-use
 parking-and-key-management
 all-terrain-vehicles
