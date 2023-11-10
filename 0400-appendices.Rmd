@@ -1,12 +1,12 @@
 # Appendices {.unnumbered}
 
-## [Appendix 1 - New Worker Orientation](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/new_worker_orientation_checklist_20200311.pdf) {#new-worker .unnumbered}
+## [Appendix 1 - New Worker Orientation](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/new_worker_orientation_checklist.pdf) {#new-worker .unnumbered}
 
-## [Appendix 2 - Tailboard Template](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/Tailboard_Template_201908.pdf) {#tailboard .unnumbered}
+## [Appendix 2 - Tailboard Template](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/tailboard_template.pdf) {#tailboard .unnumbered}
 
-## [Appendix 3 - Incident/Close Call Template](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/frm_xIncidentCloseCallReporting.pdf) {#incident .unnumbered}
+## [Appendix 3 - Incident/Close Call Template](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/incident_close_call_form.pdf) {#incident .unnumbered}
 
-## [Appendix 4 - Contractor Selection and Safety Checklist](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/20_ContractorSelectionAndSafety_checklist.pdf) {#contractor .unnumbered}
+## [Appendix 4 - Contractor Selection and Safety Checklist](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/contractor_selection_safety_checklist.pdf) {#contractor .unnumbered}
 
 ## [Appendix 5 - First Aid Requirements](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/first_aid_requirements.pdf) {#firstaid .unnumbered}
 
