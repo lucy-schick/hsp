@@ -53,9 +53,9 @@ within the time frame allotted. If more time is required, or there are
 difficulties encountered, please contact Allan Irvine for assistance. These comments or corrective actions are based on the quality assurance review by the BC Forest Safety Council.
 
 ```{r, echo=F}
-corr_action_log <- readr::read_csv(paste0(getwd(), '/data/corr_action_log.csv'))
+corr_action_log <- readr::read_csv('data/corr_action_log.csv')
 corr_action_log %>% 
-  fpr::fpr_kable(caption_text = "Corrective Action Log (last updated 2022)",scroll = F)
+  fpr::fpr_kable(caption_text = "Corrective Action Log.",scroll = F)
 ```                        
 
 ## Safety Team Members
