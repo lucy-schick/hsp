@@ -22,6 +22,23 @@ safety we:
     environment possible for ourselves, our contractors, our clients and
     the public.
 
+
+## Feildwork Staff Training Requirements
+
+1. Work your way through [Appendix 1](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/new_worker_orientation_checklist.pdf) - New Worker Orientation Checklist of the Health and Safety Plan.  
+
+2.  Watch this [bear aware training video](https://www.youtube.com/watch?v=s-zkGuh42l4). Have a look at the section about bears in the [HSP](https://github.com/NewGraphEnvironment/hsp) and update if you think it can be improved.
+
+3.  Whmis training - [free online course here](https://aixsafety.com/wp-content/uploads/articulate_uploads/WMS-V21/story.html). Save digital certificate (make a folder in this repo maybe?) and log in training log in [hsp](https://github.com/NewGraphEnvironment/hsp)
+
+4.  Sign up for electrofishing certification course through [VIU](https://scitech.viu.ca/natural-resource-extension/schedule) or through [NRTG](https://nrtraininggroup.com/course-descriptions/electrofishing-certification). If you want - have them send the invoice to my email.  Otherwise you could pay, save a digital receipt to `data/expenses/2022` and add line item to your expenses sheet in (`data/expenses_mwintersheidt.csv`).  "Project" is "safety".
+  
+5.  Sign up for an [OFA Level 1 course](https://selkirk.ca/ce/courses/first-aid/standard-first-aid-cpr-level-c-workplace-ofa-1-equivalent) or [another option in Castlegar](https://cereg.selkirk.ca/SRS/cecourses.htm#option=course&crsid=FAST+1019&allstart=N). If you want - have them send the invoice to my email.  Otherwise you could pay, save a digital receipt to `data/expenses/2022`.  Use format `yyyymmdd_store_item` and add line item to your expenses sheet in (`data/expenses_mwintersheidt.csv`).  "Project" is "safety" and `expense_class` is `professional_development`.
+
+6.  Swift Water Rescue is not require but we suggest getting it in the future. Courses are offered [Raven Rescue](https://www.ravenrsm.com/course/swiftwater-rescue-technician/) and others.
+
+
+
 ## Forest Safety Accord
 
 ```{r, echo=F}
