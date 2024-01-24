@@ -177,6 +177,10 @@ include references to field safety plans and contain:
 
 They are included in this plan as [Appendix 2](#tailboard).
 
+### Monthly Safety Meetings
+
+We are a [Safe Certified](https://www.bcforestsafe.org/) company and with that comes the requirement to have monthly safety meetings.  These meetings are a way to discuss safety issues and to ensure that everyone is on the same page. They are also a way to document that we are meeting our safety obligations. You can find our past safety meetings at `oneDrive/Projects/safety/meetings`. 
+
 ## First Aid equipment and procedures
 
 A level 1 kit is kept under the seat of each work vehicle and our OHSP
