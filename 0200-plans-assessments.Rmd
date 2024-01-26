@@ -34,9 +34,9 @@ text in reach, text or call cell phones and personal emergency contacts
 and accommodations again. Repeat after 2 hours - if no response then
 notify the RCMP of a missing persons in field.
 
-## Hazard / close-call / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
+## Close-calls / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
-Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reporting templates are attached as [Appendix 3](#incident). A summary of how to fill out an incident/close call report is seen below:
+Incidents are situations in the workplace that resulted in or could have resulted in injuries, illnesses, or fatalities. Close calls are incidents that almost happened. These can be used to prevent incidents in the future. We have policies in place so that we can document and review close calls. Reviewing close calls and incidents can help us identify hazards earlier so that we can catch them before they happen. This review process can help us improve our safety procedures such as updating our tailboards. Reporting templates are attached as [Appendix 3](#incident). A summary of how to fill out an incident/close call report is seen below:
 
 * Record the date of the incident and the names of all personnel involved
 * Give a detailed description of the events that transpired leading up to and including the incident. What happened and how did it happen? Was first aid required? 
