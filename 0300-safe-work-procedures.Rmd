@@ -507,7 +507,8 @@ Listed below are a few ways to reduce stress and improve your mental and physica
 * Stick to a regular work schedule and routine that works for you. Make sure you give yourself time to switch off on your down time.
 * Take a break every now and then to get up and walk around. A great tool for this is [Be Focused](https://apps.apple.com/au/app/be-focused-pomodoro-timer/id973134470?mt=12) which allows you to set work intervals and break intervals.
 * If a task you're working on is causing you too much stress then don't be afraid to delegate or ask for help, avoid burnout and overworking yourself.
-* Stick to a good work life balance, make time for socializing, enjoying your favorite hobbies, doing exercise, or whatever self care looks like for you.
+* Stick to a good work life balance, make time for socializing, enjoying your favorite hobbies, doing exercise, or whatever self care looks like for you. 
+* Working remotely can mean a lot of time on your own so its especially important to make sure you are getting enough social connection. Consider building in social time throughout your day, whether it be a phone call with a friend or a post work activity. 
 * Sun exposure is limited when working inside and it can therefore be hard to get your daily Vitamin D requirements, consider taking a supplement.
 * Seasonal affective disorder can affect everyone and can cause a decrease in energy levels and change in mood in the winter time. Try to go outside everyday and engage in regular physical activity to reduce stress levels.
 * When leaving the house to go to a work related meeting be aware of road conditions when driving, even when walking (steer clear of ice to avoid nasty falls).
@@ -530,6 +531,7 @@ If you are feeling any of these symptoms then it is important to take a step bac
 For more info on burnout, check out the following articles:
 
 * https://hbr.org/2016/11/beating-burnout
+* https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale
 
 
 
