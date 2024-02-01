@@ -10,6 +10,7 @@ covid-19-prevention-and-risks
 required-safety-meetings
 new-worker-orientations
 tailboards-site-and-worker-assessment-equipment-and-vehicle-inspection-emergency-contact-list
+monthly-safety-meetings
 first-aid-equipment-and-procedures
 worksite-first-aid-requirements
 plans-and-assessments
@@ -48,4 +49,5 @@ cougars
 moose
 remote-working
 ergonomics
-mental-and-physical-health
+health-and-wellness
+burnout
