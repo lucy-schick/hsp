@@ -30,8 +30,8 @@ filename_html <- 'OHSP'
 
   # print to pdf
   pagedown::chrome_print(
-    paste0(getwd(), '/', filename_html, '.html'),
-    output = paste0(getwd(),'/docs/', filename_html, '.pdf'),
+    paste0(filename_html, '.html'),
+    output = paste0('docs/', filename_html, '.pdf'),
     timeout = 180
   )
 
@@ -44,6 +44,6 @@ filename_html <- 'OHSP'
   # )
 
   # get rid of the html as its too big and not needed
-  file.remove(paste0(getwd(), '/', filename_html, '.html'))
+  file.remove(paste0(filename_html, '.html'))
 
 }

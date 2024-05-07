@@ -62,30 +62,39 @@ Examples of past incident/close calls include:
 -   Environmental Conditions: (weather, slope, access conditions)
 -   Request what you are going to need: (SAR, PEP, Helicopter,)
 
-### Fire Response
+### Fire Safety
 
--   Regularly monitor the fire weather index using representative
-    weather station and determine the appropriate Fire Danger Class for
-    the area. For Danger Class Reports go to:
-    <http://bcwildfire.ca/Weather/Maps/danger_rating.html>
--   Stop operations and notify he manager and crew immediately upon
-    observation of a fire.
--   Manager should either act as the emergency response team leader or
-    designate another crew member to assume the emergency response team
-    leader role.
--   Call Forest Fire Reporting : 1-800-663-5555 or \* 5555 on the Cantel
-    and Telus networks
--   The individual reporting the fire shall remain available to
-    communicate details of the fire suppression activity taken and what
-    may be required.
--   The remaining crew shall begin immediate action on the fire to their
-    level of safety and competence provided it is determined by the
-    emergency response team leader that the fire can be safely
-    controlled by the crew.
--   The person in charge of the crew during suppression operations will
-    continue to supervise the efforts until relieved by
-    licensee/contractor representative or BC Wildfire Management Branch
-    personnel.
+Wildfires are becoming increasingly common in British Columbia. It's important to know how to prevent wildfires and to have a plan in place in case a fire breaks out.
+
+Before heading out to the field:
+
+  - Review the current [fire danger rating](https://wfapps.nrs.gov.bc.ca/pub/wfwx-danger-summary-war/dangerSummary) for the area.
+  - Review the [BC Wildfire Dashboard](https://wildfiresituation.nrs.gov.bc.ca/dashboard) to be aware of any current wildfires in the area. If there are active wildfires in the area, discuss as a group if it is safe to proceed with fieldwork.
+  - Review the [Wildfire Response Plan](#wildfire-response-plan) below.
+  - Review and complete the Emergency Response Plan which can be found in [Appendix 6](#ERP). Ensure all crew members are familiar with the plan and their roles.
+
+While in the field:
+
+  - Regularly monitor the [fire danger rating](https://wfapps.nrs.gov.bc.ca/pub/wfwx-danger-summary-war/dangerSummary) using representative weather stations as well as the [BC Wildfire Dashboard](https://wildfiresituation.nrs.gov.bc.ca/dashboard). 
+  - Never use open flames or create sparks as part of field tasks when the fire danger rating is “high”
+  or “extreme” in the fieldwork or surrounding area.
+  - Keep vehicles on roads or other non-vegetated areas to prevent ignition of wildfires by catalytic
+  converters.
+
+#### Wildfire Response Plan
+
+  1. Stop operations.
+  2. Crew lead notifies all crew members and crews regroup if separated.
+  3. Crew members assume roles as per the Emergency Response Plan.
+  4. Call Forest Fire Reporting: 1-800-663-5555 or \* 5555 on the Cantel and Telus networks
+  5. __Small fire__, can be suppressed by crews:
+      - Crews suppress fire to their level of safety and competence (water, fire extinguishers, or hand tools). Never attempt to suppress an uncontrolled wildfire. 
+      - The crew member in charge of fire suppression operations should continue to supervise the efforts until relieved by licensee/contractor representative or BC Wildfire Management Branch personnel.
+      - If crews suppress fire for x amount of time and the fire has not been suppressed then the crew lead should activate the emergency evacuation plan as per the tailboard. 
+  6. __Large fire__, must evacuate:
+      - Crew members follow Emergency Response Plan and evacuate using the discussed evacuation route.
+      - Crew lead accounts for all crew members before evacuating the site.
+      - Crews meet at assembly location.    
 
 ### Landslide, Avalanche, and Natural Disaster Response
 

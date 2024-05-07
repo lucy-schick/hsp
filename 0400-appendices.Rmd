@@ -10,5 +10,8 @@
 
 ## [Appendix 5 - First Aid Requirements](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/first_aid_requirements.pdf) {#firstaid .unnumbered}
 
+<!-- NEED TO ADD LINK ONCE ERP TEMPLATE IN IN REPO, AFTER PR -->
+## [Appendix 6 - Emergency Responce Plan ]() {#ERP .unnumbered}
+
  
 
