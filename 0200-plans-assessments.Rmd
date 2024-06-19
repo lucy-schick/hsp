@@ -16,7 +16,7 @@ Field safety plans are a critical component of our work. They are a way to ensur
   
   3. Crew member contact details, including emergency contacts.
   
-  4. Personal and crew equipment checklist. A list of all required safety equipment can be found [here](https://github.com/NewGraphEnvironment/onboarding/blob/main/data/equipment_contacts_safetylog.xlsx). 
+  4. Personal and crew equipment checklist. A list of all required safety equipment can be found [here](https://github.com/NewGraphEnvironment/new_graphiti/blob/main/assets/data/equipment.csv). 
      
      Personal safety equipment is important especially because we are often working alone. Ensuring you have **charged** communication       devices as well as spare batteries or chargers is critical for maintaining communication with the team. Personal safety equipment       can be found in Table \@ref(tab:personal-eq). 
      
@@ -31,26 +31,26 @@ Field safety plans are a critical component of our work. They are a way to ensur
 
 ```{r equipment}
 #Load equipment data 
-equipment <- readxl::read_excel(path = "../onboarding/data/equipment_contacts_safetylog.xlsx", sheet = "equipment") %>%
+equipment <- readr::read_csv(file = "data/equipment.csv") %>%
   janitor::clean_names()
 ```
 
-```{r personal-eq, caption="Personal Safety Equipment"}
+```{r personal-eq}
 equipment |> 
-  filter(!is.na(eq_pers_standard)) |> 
-  select(eq_item) |> 
-  rename (Items = eq_item) |>
-  fpr::fpr_kable()
+  dplyr::filter(!is.na(eq_pers_standard)) |> 
+  dplyr::select(eq_item) |> 
+  dplyr::rename (Items = eq_item) |>
+  fpr::fpr_kable(caption_text = "Personal Safety Equipment")
 ```
 
 <br>
 
-```{r truck-eq, caption="Truck Safety Equipment"}
+```{r truck-eq}
 equipment |> 
-  filter(!is.na(eq_truck)) |> 
-  select(eq_item) |>
-  rename (Items = eq_item) |>
-  fpr::fpr_kable()
+  dplyr::filter(!is.na(eq_truck)) |> 
+  dplyr::select(eq_item) |>
+  dplyr::rename (Items = eq_item) |>
+  fpr::fpr_kable(caption_text = "Truck Safety Equipment")
 ```
 
 
