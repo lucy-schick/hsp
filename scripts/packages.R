@@ -9,7 +9,8 @@ pkgs_cran <- c(
 )
 
 pkgs_gh <- c(
-  "newgraphenvironment/fpr"
+  "newgraphenvironment/fpr",
+  "haozhu233/kableExtra@a9c509a" ## 2024 update, this prevents black text in dark mode
 )
 
 pkgs_all <- c(pkgs_cran,

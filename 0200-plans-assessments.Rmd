@@ -8,15 +8,51 @@ editor_options:
 
 ## Field Safety Plans {#field-safety-plans .Style1}
 
-Field safety plans are written up before traveling to any job site. Information included in these plans include:
+Field safety plans are a critical component of our work. They are a way to ensure that we are prepared for the unexpected and that we have a plan in place to keep our team safe. The field safety plan should be specific to each project and should be kept easily accessible to all team members. An example can be found [here](https://www.newgraphenvironment.com/safety_plan_skeena_2023/). Information included in these plans include:
 
-* Location and contact info of accommodations where employees are staying.
-* Description of personal and company vehicles.
-* Crew member contact details, including emergency contacts.
-* Personal and crew equipment checklist.
-* Location and contact info of nearest hospital.
-* Check in and failed check in procedures.
-* A brief description of the job, as well as map links and a list of possible locations where crew members will visit.
+  1. Location and contact info of accommodations where employees are staying so that the designated safety person can reach them in case of an emergency or required check-in.
+  
+  2. Description of personal and company vehicles including make, model, year, and licence plate number.
+  
+  3. Crew member contact details, including emergency contacts.
+  
+  4. Personal and crew equipment checklist. A list of all required safety equipment can be found [here](https://github.com/NewGraphEnvironment/new_graphiti/blob/main/assets/data/equipment.csv). 
+     
+     Personal safety equipment is important especially because we are often working alone. Ensuring you have **charged** communication       devices as well as spare batteries or chargers is critical for maintaining communication with the team. Personal safety equipment       can be found in Table \@ref(tab:personal-eq). 
+     
+     It's also important to have the right safety equipment in the truck in case of vehicle issues, road conditions, or accidents. Truck      safety equipment can be found in Table \@ref(tab:truck-eq).
+    
+  5. Location and contact info of nearest hospital.
+  
+  6. Check in and failed check in procedures.
+  
+  7. A brief description of the job, as well as map links and a list of possible locations where crew members will visit.
+
+
+```{r equipment}
+#Load equipment data 
+equipment <- readr::read_csv(file = "data/equipment.csv") %>%
+  janitor::clean_names()
+```
+
+```{r personal-eq}
+equipment |> 
+  dplyr::filter(!is.na(eq_pers_standard)) |> 
+  dplyr::select(eq_item) |> 
+  dplyr::rename (Items = eq_item) |>
+  fpr::fpr_kable(caption_text = "Personal Safety Equipment")
+```
+
+<br>
+
+```{r truck-eq}
+equipment |> 
+  dplyr::filter(!is.na(eq_truck)) |> 
+  dplyr::select(eq_item) |>
+  dplyr::rename (Items = eq_item) |>
+  fpr::fpr_kable(caption_text = "Truck Safety Equipment")
+```
+
 
 ### Check-in Procedures and Field Communications
 
