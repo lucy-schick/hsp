@@ -1,4 +1,6 @@
 tab:unnamed-chunk-4
+tab:personal-eq
+tab:truck-eq
 safety-policy
 feildwork-staff-training-requirements
 forest-safety-accord
@@ -19,7 +21,8 @@ check-in-procedures-and-field-communications
 procedures-for-failed-check-in
 hazard-close-call-incident-reporting-requirements-and-procedures
 emergency-response-plan-erp-and-procedures
-fire-response
+fire-safety
+wildfire-response-plan
 landslide-avalanche-and-natural-disaster-response
 spill-response
 injury
