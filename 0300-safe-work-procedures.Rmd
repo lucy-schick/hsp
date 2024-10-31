@@ -13,6 +13,8 @@ editor_options:
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
     Inspection and Mileage Log to track activity. Report deficiencies and do not use if equipment is in unsafe condition.
 
+-   Ensure you have all the required vehicle safety equipment which can be found [here](https://github.com/NewGraphEnvironment/new_graphiti/blob/main/assets/data/equipment.csv).
+
 -   Make notes of required maintenance in the mileage logbook when it is
     required and include "checking the logbook for required repairs" at
     the time of each inspection.
@@ -28,7 +30,7 @@ editor_options:
 -   Drive safely and drive to the existing road conditions. Lower speed
     as required. Stay home if conditions are hazardous and risk of injury is high. Be aware of:
 
-    -   Visibility reduced by dust, fog, rain and snow;
+    -   Visibility reduced by dust, fog, rain, snow, sun glare, or condensation;
 
     -   Narrow roads with over width vehicles;
 
