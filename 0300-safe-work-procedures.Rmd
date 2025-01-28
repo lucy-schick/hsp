@@ -250,6 +250,34 @@ knitr::include_graphics('fig/media/all_terrain_vehicles.png')
 -   Wear disposable gloves when assembling equipment or wipe down all
     touch points after assembly.
 
+
+## Proper UAV Use
+
+To ensure safe and responsible operation of UAVs (drones), the following procedures must be adhered to at all times:
+
+### Pre-Flight Planning and Communication
+- Check in with local aviation companies and stakeholders to confirm flight plans, identify potential airspace conflicts, and determine lines of sight.
+- Verify the UAV is not operating within restricted airspace without authorization. Ensure compliance with Transport Canada regulations and confirm proximity to airports or aerodromes.
+
+### Crew Training Requirements
+- All crew members involved in UAV operations must have the proper training and certifications as required by Transport Canada.
+- Crew members should be familiar with the UAV equipment, operating procedures, and emergency protocols.
+
+### Use of Aviation Radios
+- Equip the team with an aviation radio and tune it to the appropriate local aviation frequency. Conduct a pre-flight radio check to ensure clear communication and situational awareness.
+
+### Time-of-Day Considerations
+- Avoid UAV operations during peak air traffic periods, such as the start or end of the workday, unless unavoidable. Assess local air traffic patterns to minimize conflicts.
+
+### Operational Safety
+- Maintain a visual line of sight with the UAV at all times during flight.
+- Ensure the UAV is equipped with appropriate lighting for visibility if operating in low-light conditions.
+- Monitor weather conditions and avoid flying in high winds, rain, or other hazardous weather.
+- Immediately land the UAV if another aircraft enters the area or if situational awareness is compromised.
+
+By following these procedures, UAV operations will be conducted safely and responsibly, minimizing risks to personnel, equipment, and other airspace users.
+
+
 ## Culvert and habitat confirmation assessments {#culvert-assessments-and-habitat-confirmation-assessments .Style1}
 
 See driving procedures including radio use and parking.
