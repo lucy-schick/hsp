@@ -1,4 +1,4 @@
- # Appendices {.unnumbered}
+# Appendices {.unnumbered}
 
 ## [Appendix 1 - New Worker Orientation](https://github.com/NewGraphEnvironment/hsp/tree/master/data/form_templates/new_worker_orientation_checklist.pdf) {#new-worker .unnumbered}
 

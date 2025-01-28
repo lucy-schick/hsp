@@ -43,6 +43,12 @@ all-terrain-vehicles
 electrofishing
 preparatory-procedures
 operational-procedures
+uav
+pre-flight-planning-and-communication
+crew-training-requirements
+use-of-aviation-radios
+time-of-day-considerations
+operational-safety
 culvert-assessments-and-habitat-confirmation-assessments
 swiftwater-rescue-and-safety
 working-alone
