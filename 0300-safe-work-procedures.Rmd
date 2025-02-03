@@ -8,8 +8,7 @@
 -   Conduct a "pre-trip" vehicle check. Use a Vehicle Pre-trip
     Inspection and Mileage Log to track activity. Report deficiencies and do not use if equipment is in unsafe condition.
     
--   Ensure you have all the required vehicle safety equipment which can be found [here](https://github.com/NewGraphEnvironment/new_graphiti/blob/main/assets/data/equipment.csv).
-
+-   Ensure you have all the required vehicle safety equipment which can be found in Table \@ref(tab:driving-equip).
 
 -   Make notes of required maintenance in the mileage logbook when it is
     required and include "checking the logbook for required repairs" at
@@ -26,7 +25,7 @@
 -   Drive safely and drive to the existing road conditions. Lower speed
     as required. Stay home if conditions are hazardous and risk of injury is high. Be aware of:
 
-    -   Visibility reduced by dust, fog, rain, snow, sun glare, or condensation;
+    -   Visibility reduced by dust, fog, rain, snow;
 
     -   Narrow roads with over width vehicles;
 
@@ -37,6 +36,8 @@
 
     -   Other users, wildlife
 
+-   The inside of the windshield should be cleaned regularly to prevent glare, and condensation should be wiped away before driving, with each field vehicle equipped with paper towels or a cleaning cloth for on-the-go cleaning.
+
 -   Use vehicle for intended use only (purpose and weight limitations).
 
 -   Drive with vehicle lights on at all times.
@@ -46,7 +47,7 @@
 -   Respect that loaded logging trucks have the right of way on single
     lane roads.
 
--   Tailgating is driving too close behind other vehicles. It is extremely cangerous as it can lead to accidents if they vehicle in front of you brakes suddently or is in a collision/crash you can smash into them.  Leave a sufficient distance in front of the vehicle in front of you, even more so for logging trucks.  A good rule of thumb is to leave 3-4 seconds of time between when the vehicle in front of you passes a specific location and when you pass it.
+- Tailgating—driving too closely behind another vehicle—is extremely dangerous and increases the risk of collisions, especially if the vehicle in front brakes suddenly or is involved in an accident. Always maintain a safe following distance, with extra space for larger vehicles like logging trucks. A good rule of thumb is to allow at least 3–4 seconds between when the vehicle ahead passes a fixed point and when you reach the same spot.
 
 -   Never chase a runaway vehicle.
 
@@ -80,6 +81,18 @@
         others where you cannot keep min 2m distance. Upon exiting
         vehicle close door with elbow.
 
+```{r driving-equip}
+
+path_equip <- fs::path_expand("~/Projects/repo/new_graphiti/assets/data/equipment.csv")
+
+readr::read_csv(path_equip) |> 
+  dplyr::filter(!is.na(eq_truck)) |> 
+  dplyr::select(`Truck Equipement` = eq_item,
+                `Purpose` = notes) |> 
+  fpr::fpr_kable()
+```
+
+
 ### Resource Road Safety
 
 -   Do not exceed 80kph or posted speed limits. Drive at a safe and controlled speed, and avoid sudden maneuvers.
@@ -88,16 +101,7 @@
 
 * Drive with headlights on at all times, whether it's day or night, good or bad visibility. 
 
-* Ensure you have the necessary equipment on board in case of emergencies. This can include but is not limited to :
-
-  + tow strap
-  + battery booster or booster cables
-  + fire tools (polanski, shovel, backpack extinguisher)
-  + satellite communicator
-  + radio
-  + first aid kit
-  + extra food and water
-
+* Ensure you have the necessary equipment on board in case of emergencies, see Table \@ref(tab:driving-equip).
 
 * Before heading out, research and plan your route. Check for potential hazards, weather conditions, and local regulations or restrictions.
 
