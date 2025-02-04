@@ -25,18 +25,19 @@ safety we:
 
 ## Feildwork Staff Training Requirements
 
-1. Work your way through [Appendix 1](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/new_worker_orientation_checklist.pdf) - New Worker Orientation Checklist of the Health and Safety Plan.  
+1. Work your way through the New Worker Orientation Checklist, sound in [Appendix 1](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/new_worker_orientation_checklist.pdf).
 
-2.  Watch this [bear aware training video](https://www.youtube.com/watch?v=s-zkGuh42l4). Have a look at the section about bears in the [HSP](https://github.com/NewGraphEnvironment/hsp) and update if you think it can be improved.
+2.  Watch the [bear aware training video](https://www.youtube.com/watch?v=s-zkGuh42l4).
 
-3.  Whmis training - [free online course here](https://aixsafety.com/wp-content/uploads/articulate_uploads/WMS-V21/story.html). Save digital certificate (make a folder in this repo maybe?) and log in training log in [hsp](https://github.com/NewGraphEnvironment/hsp)
+3.  WHMIS training - [free online course here](https://aixsafety.com/wp-content/uploads/articulate_uploads/WMS-V21/story.html).
 
-4.  Sign up for electrofishing certification course through [VIU](https://scitech.viu.ca/natural-resource-extension/schedule) or through [NRTG](https://nrtraininggroup.com/course-descriptions/electrofishing-certification). If you want - have them send the invoice to my email.  Otherwise you could pay, save a digital receipt to `data/expenses/2022` and add line item to your expenses sheet in (`data/expenses_mwintersheidt.csv`).  "Project" is "safety".
+4.  Sign up for electrofishing certification course through [VIU](https://scitech.viu.ca/natural-resource-extension/schedule) or through [NRTG](https://nrtraininggroup.com/course-descriptions/electrofishing-certification). Have them send the invoice to Al or submit the expense in Harvest under project `safety` and category `professional_development`, using a descriptive name in the notes.
   
-5.  Sign up for an [OFA Level 1 course](https://selkirk.ca/ce/courses/first-aid/standard-first-aid-cpr-level-c-workplace-ofa-1-equivalent) or [another option in Castlegar](https://cereg.selkirk.ca/SRS/cecourses.htm#option=course&crsid=FAST+1019&allstart=N). If you want - have them send the invoice to my email.  Otherwise you could pay, save a digital receipt to `data/expenses/2022`.  Use format `yyyymmdd_store_item` and add line item to your expenses sheet in (`data/expenses_mwintersheidt.csv`).  "Project" is "safety" and `expense_class` is `professional_development`.
+5.  Sign up for an [OFA Level 1 course](https://selkirk.ca/ce/courses/first-aid/standard-first-aid-cpr-level-c-workplace-ofa-1-equivalent) or [another option in Castlegar](https://cereg.selkirk.ca/SRS/cecourses.htm#option=course&crsid=FAST+1019&allstart=N). Have them send the invoice to Al or submit the expense in Harvest under project `safety` and category `professional_development`, using a descriptive name in the notes.
 
 6.  Swift Water Rescue is not require but we suggest getting it in the future. Courses are offered [Raven Rescue](https://www.ravenrsm.com/course/swiftwater-rescue-technician/) and others.
 
+7. Add applicable training certificates to the [certificates folder](https://github.com/NewGraphEnvironment/hsp/tree/master/data/certificates) and update the [Training Log](https://github.com/NewGraphEnvironment/hsp/blob/master/data/training_log.csv) with your training. 
 
 
 ## Forest Safety Accord
@@ -66,13 +67,29 @@ encouraged as continual improvement is a paramount goal.
 
 ## Roles, rights and responsibilities
 
-Everyone has a role to play in workplace safety. Wether you are the owner, employer, supervisor, worker, or prime contractor. Know your rights and responsibilities. These are outlined on the WorkSafeBC website [here](https://www.worksafebc.com/en/health-safety/create-manage/rights-responsibilities).
+Everyone has a role to play in workplace safety. Whether you are the owner, employer, supervisor, worker, or prime contractor. Know your rights and responsibilities. These are outlined on the WorkSafeBC website [here](https://www.worksafebc.com/en/health-safety/create-manage/rights-responsibilities).
 
 
 ### Right to refuse work and report unsafe conditions {#right-to-refuse-work-and-report-unsafe-conditions .Style1}
 
 You have the right to refuse unsafe work if you have reasonable cause to believe the work you are doing could create a hazard or cause an injury. Identify hazards before starting work and determine whether it is safe to proceed.
 This is work and it is not worth it to risk life and limb.
+
+
+## Workplace Harassment
+
+We are committed to maintaining a safe, respectful, and harassment-free workplace. Workplace harassment is a serious issue that must be proactively addressed to ensure a positive work environment for all employees. While we do not currently have a formal harassment policy, we follow the guidelines set by WorkSafeBC to prevent and address workplace harassment. More information can be found here: [WorkSafeBC Bullying & Harassment](https://www.worksafebc.com/en/health-safety/hazards-exposures/bullying-harassment?_cldee=diBsSzBWSFKXXBbk30LCVQiXprPgifNxAwZ1vx3j7jYb_IQzIpscZs-Dvc-MWyR9&recipientid=lead-de0808e7d6beee119078002248b17fec-dc97903950934bb9b268a3f2d72746c8&esid=efb76100-9b60-ef11-bfe4-0022483bf52c).  
+
+### Reporting & Investigations  
+- Employees are encouraged to document and report incidents to their supervisor or designated safety representative. Our workplace harassment  report template can be found here: [Workplace Harassment Report Template](#haras_report)
+- We take all reports seriously and commit to investigating them promptly, ensuring fairness and impartiality. If necessary, a third-party investigator may be engaged to maintain objectivity.  
+
+### Protection & Support  
+- Retaliation against employees who report harassment or participate in an investigation will not be tolerated.  
+- Support services, such as medical and counseling assistance, are available to affected employees.  
+
+We understand that some employees may feel uncomfortable reporting harassment internally. In such cases, they may seek assistance from WorkSafeBC, the BC Human Rights Tribunal, or legal counsel. By fostering a culture of respect and accountability, we ensure a safer and more inclusive workplace for everyone.  
+
 
 ## COVID 19 Prevention and Risks
 

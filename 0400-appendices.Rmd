@@ -12,5 +12,7 @@
 
 ## [Appendix 6 - Emergency Responce Plan](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/ERP_template.pdf) {#ERP .unnumbered}
 
+## [Appendix 7 - Workplace Harassment Report Template](https://github.com/NewGraphEnvironment/hsp/blob/master/data/form_templates/work_haras_report_template.pdf) {#haras_report .unnumbered}
+
  
 
