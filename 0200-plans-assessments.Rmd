@@ -26,15 +26,15 @@ Field safety plans are a critical component of our work. They are a way to ensur
 
 ```{r equipment}
 #Load equipment data 
-equipment <- readr::read_csv(file = "data/equipment.csv") %>%
-  janitor::clean_names()
+path_equip <- fs::path_expand("~/Projects/repo/new_graphiti/assets/data/equipment.csv")
+equipment <- readr::read_csv(path_equip)
 ```
 
 ```{r personal-eq}
 equipment |> 
   dplyr::filter(!is.na(eq_pers_standard)) |> 
-  dplyr::select(eq_item) |> 
-  dplyr::rename (Items = eq_item) |>
+  dplyr::select(`Personal Safety Equipement` = eq_item,
+                `Purpose` = notes) |>
   fpr::fpr_kable(caption_text = "Personal Safety Equipment")
 ```
 
@@ -43,8 +43,8 @@ equipment |>
 ```{r truck-eq}
 equipment |> 
   dplyr::filter(!is.na(eq_truck)) |> 
-  dplyr::select(eq_item) |>
-  dplyr::rename (Items = eq_item) |>
+  dplyr::select(`Truck Safety Equipement` = eq_item,
+                `Purpose` = notes) |>
   fpr::fpr_kable(caption_text = "Truck Safety Equipment")
 ```
 
@@ -83,7 +83,12 @@ Examples of past incident/close calls include:
 
 ## Emergency Response Plan (ERP) and Procedures {#emergency-response-plan-erp-and-procedures .Style1}
 
-**Remote Site Emergency Call-In Procedures**:
+A PDF of our Emergency Response Plan can be downloaded here.
+
+
+### Remote Site Emergency Call-In Procedures
+
+Remote Site Emergency Call-In Procedures:
 
 -   Dial RCMP
 -   Name:

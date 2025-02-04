@@ -89,7 +89,7 @@ readr::read_csv(path_equip) |>
   dplyr::filter(!is.na(eq_truck)) |> 
   dplyr::select(`Truck Equipement` = eq_item,
                 `Purpose` = notes) |> 
-  fpr::fpr_kable()
+  fpr::fpr_kable(caption_text = "Truck Safety Equipment")
 ```
 
 
