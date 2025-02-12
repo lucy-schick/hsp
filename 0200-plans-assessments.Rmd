@@ -51,19 +51,55 @@ equipment |>
 
 ### Check-in Procedures and Field Communications
 
-Call, text or in reach emergency contact each morning to share the plan
+Call, text or InReach emergency contact each morning to share the plan
 for the day (i.e. name of roads and sites). Agree on a regular daily
 check in time and report position/provide updates.
 
 ### Procedures for Failed Check-In
 
-If phone call or in reach check-in is not received by agreed upon time,
-send text to in reach units, call or text cell phones of field crew
-members. If no response please call accommodations, then personal
-emergency contacts to see if they have heard anything. Wait 1 hour and
-text in reach, text or call cell phones and personal emergency contacts
-and accommodations again. Repeat after 2 hours - if no response then
+If a phone call or InReach check-in is not received by the agreed upon time, follow these instruction (Figure \@ref(fig:failed-check-in)):
+
+1. Send a text to InReach units, call and text cell phones of field crew
+members. See [how to send a satellite message to an iphone](#iphone-sat-message).
+2. If no response please call accommodations, then personal
+emergency contacts to see if they have heard anything. 
+3. Wait 1 hour - repeat steps 1 and 2 again.
+3. Wait another hour - repeat steps 1 and 2 again.
+4. After 2 hours - if no response then
 notify the RCMP of a missing persons in field.
+
+<br>
+
+```{r failed-check-in, fig.cap= "Procedures for Failed Check-In"}
+knitr::include_graphics("fig/media/flow-check-in-fail.png")
+```
+
+<br>
+
+### iPhone Satellite Messaging as a Backup Communication Tool {#iphone-sat-message .Style1}
+
+While InReach and Zoleo devices are our primary tools for field communication when we don’t have cell service, iPhone Satellite Messaging offers a backup option in case those devices fail or aren’t accessible.
+
+**What You Need:**  
+
+  - An iPhone 14 or later  
+  - iOS 18 installed on your device  
+  - Emergency SOS via satellite is free for two years after the activation of an iPhone 14 or later (all models).
+
+**Why It’s Important:**  
+
+  - It allows you to text emergency services.  
+  - You can message friends and team members.  
+  - It’s a backup option if your primary devices aren’t working.
+
+**Action Items:**  
+
+  1. How to Connect to a Satellite: Follow [this guide](https://support.apple.com/en-ca/105097) to get started.  
+  2. Set Up Emergency Contacts: Follow [this link](https://support.apple.com/en-ca/101573) to set up emergency contacts in the Health app. Before heading out into the field, we should add crew members and Tara as emergency contacts. When you set up emergency contacts, you can choose to notify and share information with them when you text emergency services via satellite.  
+  3. Learn How to Send Messages: Check out [this link](https://support.apple.com/en-ca/120930) for instructions on sending messages via satellite.
+
+All team members with suitable devices should have this feature set up on their devices before heading into the field.
+
 
 ## Close-calls / incident reporting requirements and procedures {#hazard-close-call-incident-reporting-requirements-and-procedures .Style1}
 
