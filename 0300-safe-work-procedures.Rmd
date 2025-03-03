@@ -82,10 +82,7 @@
         vehicle close door with elbow.
 
 ```{r driving-equip}
-
-path_equip <- fs::path_expand("~/Projects/repo/new_graphiti/assets/data/equipment.csv")
-
-readr::read_csv(path_equip) |> 
+equipment |> 
   dplyr::filter(!is.na(eq_truck)) |> 
   dplyr::select(`Truck Equipement` = eq_item,
                 `Purpose` = notes) |> 
@@ -253,34 +250,54 @@ knitr::include_graphics('fig/media/all_terrain_vehicles.png')
     touch points after assembly.
 
 
-## Unmaned Aerial Vehicles (UAVs) {#uav .Style1}
-
-TODO: see https://github.com/NewGraphEnvironment/hsp/issues/54
+## Unmanned Aerial Vehicles (UAVs) {#uav .Style1}
 
 To ensure safe and responsible operation of UAVs (drones), the following procedures must be adhered to at all times:
 
 ### Pre-Flight Planning and Communication
 - Check in with local aviation companies and stakeholders to confirm flight plans, identify potential airspace conflicts, and determine lines of sight.
 - Verify the UAV is not operating within restricted airspace without authorization. Ensure compliance with Transport Canada regulations and confirm proximity to airports or aerodromes.
+- Utilize resources such as [FltPlan Go](https://www.fltplan.com/) ([iOS app](https://apps.apple.com/us/app/fltplan-go/id694832363)) to assess airspace classification and identify potential flight restrictions.
 
 ### Crew Training Requirements
-- All crew members involved in UAV operations must have the proper training and certifications as required by Transport Canada.
+- All crew members involved in UAV operations must have the proper training and certifications as required by [Transport Canada](https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone).
+- UAV pilots must hold a valid [Transport Canada license](https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing) appropriate for the class of UAV being operated. All currently used UAVs require both a licensed operator and [drone registration](https://tc.canada.ca/en/aviation/drone-safety/registering-your-drone).
 - Crew members should be familiar with the UAV equipment, operating procedures, and emergency protocols.
+- Maintain compliance with Transport Canada requirements for ongoing pilot licensing and drone registration, including any necessary renewals or certifications.
 
 ### Use of Aviation Radios
 - Equip the team with an aviation radio and tune it to the appropriate local aviation frequency. Conduct a pre-flight radio check to ensure clear communication and situational awareness.
+- A valid [radio license](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/licences-and-certificates/radio-authorizations/radio-operator-certification/restricted-operator-certificate-aeronautical-roc) is required to operate an aeronautical radio.
+- Radio channels should be sourced from the FltPlan Go app or other official aviation sources.
 
-### Time-of-Day Considerations
-- Avoid UAV operations during peak air traffic periods, such as the start or end of the workday, unless unavoidable. Assess local air traffic patterns to minimize conflicts.
-
-### Operational Safety
+### Equipment and Operational Safety
 - Maintain a visual line of sight with the UAV at all times during flight.
+- Avoid potential interference by Keeping the UAV controller and aeronautical radio separate when operating the drone.  
 - Ensure the UAV is equipped with appropriate lighting for visibility if operating in low-light conditions.
 - Monitor weather conditions and avoid flying in high winds, rain, or other hazardous weather.
 - Immediately land the UAV if another aircraft enters the area or if situational awareness is compromised.
+- Endure you have all the required equipment which can be found in Table \@ref(tab:uav-eq).
+
+### Flight Logging and Record-Keeping
+- Maintain a logbook for each UAV flight using the [RMUS app](https://www.rmus.com/pages/rmus-uav-pilot-preflight-compliance-checklist?) on an iPhone.
+- Export flight reports regularly and store them in a designated repository or other secure location for record-keeping and compliance.
+
+<br>
 
 By following these procedures, UAV operations will be conducted safely and responsibly, minimizing risks to personnel, equipment, and other airspace users.
 
+<br>
+
+```{r uav-eq}
+equipment |> 
+  dplyr::filter(eq_task6 == "uav") |> 
+  dplyr::select(`UAV Safety Equipement` = eq_item,
+                `Purpose` = notes) |>
+  fpr::fpr_kable(caption_text = "UAV Safety Equipment")
+```
+
+
+<br>
 
 ## Culvert and habitat confirmation assessments {#culvert-assessments-and-habitat-confirmation-assessments .Style1}
 

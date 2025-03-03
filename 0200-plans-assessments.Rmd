@@ -24,12 +24,6 @@ Field safety plans are a critical component of our work. They are a way to ensur
   7. A brief description of the job, as well as map links and a list of possible locations where crew members will visit.
 
 
-```{r equipment}
-#Load equipment data 
-path_equip <- fs::path_expand("~/Projects/repo/new_graphiti/assets/data/equipment.csv")
-equipment <- readr::read_csv(path_equip)
-```
-
 ```{r personal-eq}
 equipment |> 
   dplyr::filter(!is.na(eq_pers_standard)) |> 
