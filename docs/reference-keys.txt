@@ -1,6 +1,9 @@
 tab:unnamed-chunk-4
 tab:personal-eq
 tab:truck-eq
+fig:failed-check-in
+tab:driving-equip
+tab:uav-eq
 safety-policy
 feildwork-staff-training-requirements
 forest-safety-accord
@@ -8,6 +11,9 @@ corrective-action-log
 safety-team-members
 roles-rights-and-responsibilities
 right-to-refuse-work-and-report-unsafe-conditions
+workplace-harassment
+reporting-investigations
+protection-support
 covid-19-prevention-and-risks
 required-safety-meetings
 new-worker-orientations
@@ -19,8 +25,10 @@ plans-and-assessments
 field-safety-plans
 check-in-procedures-and-field-communications
 procedures-for-failed-check-in
+iphone-sat-message
 hazard-close-call-incident-reporting-requirements-and-procedures
 emergency-response-plan-erp-and-procedures
+remote-site-emergency-call-in-procedures
 fire-safety
 wildfire-response-plan
 landslide-avalanche-and-natural-disaster-response
@@ -47,8 +55,8 @@ uav
 pre-flight-planning-and-communication
 crew-training-requirements
 use-of-aviation-radios
-time-of-day-considerations
-operational-safety
+equipment-and-operational-safety
+flight-logging-and-record-keeping
 culvert-assessments-and-habitat-confirmation-assessments
 swiftwater-rescue-and-safety
 working-alone
