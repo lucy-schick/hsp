@@ -21,6 +21,7 @@ output:
             in_header: header.html
 params: 
   update_equip: TRUE
+  update_packages: FALSE
 nocite: |
 
 documentclass: book

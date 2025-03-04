@@ -1,4 +1,7 @@
-# install.packages('pak')
+# install pak if you don't have it already
+if (!requireNamespace("pak", quietly = TRUE)) {
+  install.packages("pak")
+}
 
 pkgs_cran <- c(
   'tidyverse',
@@ -19,8 +22,9 @@ pkgs_all <- c(pkgs_cran,
 
 
 # install or upgrade all the packages with pak
-lapply(pkgs_all,
-       pak::pkg_install, dependencies = TRUE, ask = FALSE)
+if(params$update_packages){
+  lapply(pkgs_all, pak::pkg_install, ask = FALSE)
+}
 
 # load all the packages
 pkgs_ld <- c(pkgs_cran,
@@ -29,3 +33,4 @@ pkgs_ld <- c(pkgs_cran,
 lapply(pkgs_ld,
        require,
        character.only = TRUE)
+
