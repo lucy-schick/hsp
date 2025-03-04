@@ -19,6 +19,8 @@ output:
   bookdown::gitbook:
           includes:
             in_header: header.html
+params: 
+  update_equip: TRUE
 nocite: |
 
 documentclass: book
@@ -60,6 +62,7 @@ font_set <- 9
 ```{r}
 source('scripts/packages.R')
 source('scripts/functions.R')
+source('scripts/0110-load-data.R')
 
 ```
 
