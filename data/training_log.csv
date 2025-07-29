@@ -1,25 +1,28 @@
-﻿Employee Name,Certification,Certificate #,Cert Date,Renewal Date
-Allan Irvine,Class 5 Drivers License,6761421,,08-Mar-29
-Allan Irvine,OFA Level 1,,20-Jun-22,20-Jun-25
-Allan Irvine,Pleasure Craft Operator Card,540041353,,NA
-Allan Irvine,Electrofishing,,2008,NA
-Allan Irvine,WHIMIS,NA,17-Jun-13,17-Jun-14
-Allan Irvine,BCHydro METH-008 Helicopter Safety,,26-Oct-15,26-Oct-18
-Allan Irvine,SEOHS,SE0706181959,18-Jun-12,18-Jun-15
-Allan Irvine,Bear Aware Video,NA,06-Jun-12,NA
-Allan Irvine,MED A3 Small Vessel Basic Safety Course,2008,,NA
-Allan Irvine,Small Employer OHS,,01-Jun-19,
-Allan Irvine,Certificate of profinciency in Radio (Restricted operator),201909344,2019-08-31,NA
-Allan Irvine,RPAS registration Mavic pro,C-1922435193,2019-08-12,
-Allan Irvine,RPAS Advanced Operations,PC1918626272,2019-08-13,
-Allan Irvine,Swiftwater Rescue Technician,,08-Jun-23,08-Jun-26
-,,,,
-Lucy Schick,Class 5 Drivers License,2280264,,06-Dec-28
-Lucy Schick,Electrofishing,NA,11-May-22,NA
-Lucy Schick,Bear Aware Video,NA,23-Nov-23,NA
-Lucy Schick,OFA Level 1,,27-Oct-21,27-Oct-24
-Lucy Schick,WHMIS,NA,24-Feb-23,24-Feb-26
-Lucy Schick,Swiftwater Rescue Technician,,21-Oct-21,21-Oct-24
-Lucy Schick,Pleasure Craft Operator Card,305932276,14-Jul-14,NA
-,,,,
-Tara Stark,Class 5 Drivers License,4771345,,09-Oct-24
+Employee Name,Certification,Certificate #,Cert Date,Renewal Date,
+Allan Irvine,Class 5 Drivers License,6761421,,08-Mar-24,
+Allan Irvine,OFA Basic,,08-Jul-25,08-Jul-28,
+Allan Irvine,Pleasure Craft Operator Card,540041353,,NA,
+Allan Irvine,Electrofishing,,2008,NA,
+Allan Irvine,WHIMIS,NA,17-Jun-13,17-Jun-14,
+Allan Irvine,BCHydro METH-008 Helicopter Safety,,26-Oct-15,26-Oct-18,
+Allan Irvine,SEOHS,SE0706181959,18-Jun-12,18-Jun-15,
+Allan Irvine,Bear Aware Video,NA,06-Jun-12,NA,
+Allan Irvine,MED A3 Small Vessel Basic Safety Course,2008,,NA,
+Allan Irvine,Small Employer OHS,,01-Jun-19,,
+Allan Irvine,Certificate of profinciency in Radio (Restricted operator),201909344,2019-08-31,NA,
+Allan Irvine,RPAS registration Mavic pro,C-1922435193,2019-08-12,,
+Allan Irvine,RPAS Advanced Operations,PC1918626272,2019-08-13,,
+Allan Irvine,Swiftwater Rescue Technician,,08-Jun-23,08-Jun-26,
+,,,,,
+Lucy Schick,Class 5 Drivers License,2280264,,06-Dec-28,
+Lucy Schick,Electrofishing,NA,11-May-22,NA,
+Lucy Schick,Bear Aware Video,NA,23-Nov-23,NA,
+Lucy Schick,OFA Basic,,08-Jul-25,08-Jul-28,
+Lucy Schick,WHMIS,NA,24-Feb-23,24-Feb-26,
+Lucy Schick,Swiftwater Rescue Technician,,08-May-25,08-May-28,
+Lucy Schick,Pleasure Craft Operator Card,305932276,14-Jul-14,NA,
+,,,,,
+Tara Stark,Class 5 Drivers License,4771345,,09-Oct-24,
+,,,,,
+,,,,,
+,,,,,
